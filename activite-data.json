@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-07-20T00:00:00",
+  "sources": {
+    "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
+    "rapports": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/documents?typeDocument=rapport",
+    "propositions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/documents?typeDocument=proposition",
+    "votes": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/positions-de-vote"
+  },
+  "note": "Extrait de démonstration : seul PA793624 (Philippe Brun) a été récupéré manuellement pour prouver le format. Exécutez fetch_activite_deputes.py pour peupler les 27 autres députés et rafraîchir ces données.",
+  "deputes": {
+    "PA793624": {
+      "nom": "Philippe Brun",
+      "dept": "27",
+      "circo": "Eure 4e circ.",
+      "questions": [
+        {"date": "5 mai 2026", "titre": "Protection des consommateurs et défaillances d'entreprises", "statut": "Question sans réponse", "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14828"},
+        {"date": "29 avril 2026", "titre": "Prix des carburants", "statut": "Question posée en séance", "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1472"},
+        {"date": "13 janvier 2026", "titre": "Dispositif de conduite supervisée et abaissement de l'âge d'obtention du permis", "statut": "Réponse publiée le 23 juin 2026", "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12233"}
+      ],
+      "rapports": [
+        {"date": "4 décembre 2024", "titre": "Rapport sur la proposition de loi visant à lutter contre les pannes d'ascenseurs non prises en charge, n° 704", "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-eco/l17b0704_rapport-fond.pdf"}
+      ],
+      "propositions": [
+        {"date": "29 octobre 2024", "titre": "Proposition de loi visant à lutter contre les pannes d'ascenseurs non prises en charge, n° 518", "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0518_proposition-loi"}
+      ],
+      "votes": [
+        {"date": "18 juin 2026", "objet": "Scrutin n°7429 — amendement à l'article unique du projet de loi constitutionnelle pour une Corse autonome", "position": "Pour", "resultat": "Adopté", "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7429"},
+        {"date": "18 juin 2026", "objet": "Scrutin n°7423 — sous-amendement à l'article unique du projet de loi constitutionnelle pour une Corse autonome", "position": "Contre", "resultat": "Adopté", "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7423"}
+      ]
+    }
+  }
+}

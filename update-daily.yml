@@ -1,0 +1,36 @@
+name: Mise à jour quotidienne des données
+
+on:
+  schedule:
+    # 6h UTC = 7h en France l'hiver, 8h l'été. Modifiez ici pour changer l'heure.
+    - cron: '0 6 * * *'
+  workflow_dispatch: {}   # ajoute un bouton "Run workflow" pour lancer à la main
+
+permissions:
+  contents: write   # nécessaire pour que le robot puisse pousser les mises à jour
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Récupérer l'activité des députés
+        run: python fetch_activite_deputes.py
+
+      - name: Publier les données si elles ont changé
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html activite-data.json
+          git diff --staged --quiet || git commit -m "Mise à jour automatique des données ($(date -u +%Y-%m-%d))"
+          git push
