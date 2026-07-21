@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Veille des députés normands — Prototype v1</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --marine:#152238;
+    --marine-2:#1f3654;
+    --parchment:#f4efe4;
+    --parchment-2:#eae2d0;
+    --ochre:#b8862e;
+    --ochre-2:#8f6a24;
+    --red:#8a2e2e;
+    --ink:#241f16;
+    --ink-soft:#5b5648;
+    --line:#d8cfb8;
+    --white:#fffdf8;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--parchment);
+    color:var(--ink);
+    font-family:'IBM Plex Sans', sans-serif;
+    line-height:1.5;
+  }
+  .masthead{
+    background:var(--marine);
+    color:var(--parchment);
+    padding:36px 24px 28px;
+    border-bottom:6px solid var(--ochre);
+  }
+  .masthead-inner{max-width:1100px;margin:0 auto;}
+  .eyebrow{
+    font-family:'IBM Plex Mono', monospace;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    font-size:12px;
+    color:var(--ochre);
+    margin:0 0 10px;
+  }
+  h1{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    font-size:clamp(28px, 4vw, 44px);
+    margin:0 0 10px;
+    letter-spacing:-.01em;
+  }
+  .masthead p{
+    max-width:680px;
+    color:#cfd6e2;
+    margin:0;
+    font-size:15px;
+  }
+  .scope-banner{
+    max-width:1100px;
+    margin:22px auto 0;
+    padding:16px 20px;
+    background:rgba(184,134,46,.14);
+    border:1px solid rgba(184,134,46,.4);
+    border-radius:6px;
+    font-size:13.5px;
+    color:#f0e6d0;
+  }
+  .scope-banner b{color:var(--ochre);}
+  main{max-width:1100px;margin:0 auto;padding:32px 24px 80px;}
+
+  .toolbar{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    align-items:center;
+    justify-content:space-between;
+    margin-bottom:24px;
+    padding-bottom:18px;
+    border-bottom:1px solid var(--line);
+  }
+  .search{
+    flex:1;
+    min-width:220px;
+  }
+  .search input{
+    width:100%;
+    padding:10px 14px;
+    border:1px solid var(--line);
+    border-radius:5px;
+    background:var(--white);
+    font-family:'IBM Plex Sans',sans-serif;
+    font-size:14px;
+    color:var(--ink);
+  }
+  .search input:focus{outline:2px solid var(--ochre);outline-offset:1px;}
+  .dept-filters{display:flex;flex-wrap:wrap;gap:6px;}
+  .dept-btn{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    padding:7px 11px;
+    border-radius:20px;
+    border:1px solid var(--line);
+    background:var(--white);
+    color:var(--ink-soft);
+    cursor:pointer;
+    transition:.15s;
+  }
+  .dept-btn:hover{border-color:var(--ochre);}
+  .dept-btn.active{
+    background:var(--marine);
+    border-color:var(--marine);
+    color:var(--parchment);
+  }
+
+  .dept-group{margin-bottom:36px;}
+  .dept-title{
+    font-family:'Fraunces', serif;
+    font-size:22px;
+    font-weight:600;
+    color:var(--marine);
+    display:flex;
+    align-items:baseline;
+    gap:10px;
+    margin:0 0 14px;
+    padding-bottom:8px;
+    border-bottom:2px solid var(--marine);
+  }
+  .dept-title .count{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    color:var(--ink-soft);
+    font-weight:400;
+  }
+
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(320px, 1fr));
+    gap:14px;
+  }
+  .card{
+    background:var(--white);
+    border:1px solid var(--line);
+    border-radius:6px;
+    padding:16px 16px 14px;
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+  }
+  .card-name{
+    font-family:'Fraunces', serif;
+    font-size:17px;
+    font-weight:600;
+    margin:0;
+    color:var(--ink);
+  }
+  .card-circo{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11.5px;
+    color:var(--ochre-2);
+    text-transform:uppercase;
+    letter-spacing:.03em;
+  }
+  .card-links{
+    margin-top:6px;
+    display:flex;
+    flex-direction:column;
+    gap:6px;
+  }
+  .card-links a{
+    font-size:12.5px;
+    color:var(--marine-2);
+    text-decoration:none;
+    border-left:2px solid var(--line);
+    padding-left:8px;
+    transition:.15s;
+  }
+  .card-links a:hover{
+    border-left-color:var(--ochre);
+    color:var(--red);
+  }
+
+  .qe-block{
+    margin-top:8px;
+    padding-top:10px;
+    border-top:1px dashed var(--line);
+  }
+  .qe-label{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10.5px;
+    text-transform:uppercase;
+    letter-spacing:.05em;
+    color:var(--ink-soft);
+    margin-bottom:6px;
+  }
+  .qe-item{
+    display:block;
+    font-size:12.5px;
+    color:var(--ink);
+    text-decoration:none;
+    padding:5px 0;
+    border-bottom:1px solid var(--parchment-2);
+  }
+  .qe-item:last-of-type{border-bottom:none;}
+  .qe-item:hover .qe-titre{color:var(--red);}
+  .qe-date{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10.5px;
+    color:var(--ochre-2);
+    margin-right:6px;
+  }
+  .qe-titre{color:var(--ink);transition:.15s;}
+  .qe-statut{
+    display:inline-block;
+    font-size:10px;
+    font-family:'IBM Plex Mono', monospace;
+    margin-left:4px;
+    color:var(--ink-soft);
+  }
+  .qe-pos-pour{color:#2f6b3a;font-weight:600;}
+  .qe-pos-contre{color:var(--red);font-weight:600;}
+  .qe-pos-abs{color:var(--ochre-2);font-weight:600;}
+  .qe-empty{
+    font-size:12px;
+    color:var(--ink-soft);
+    font-style:italic;
+    padding:4px 0;
+  }
+  .qe-more{
+    display:inline-block;
+    margin-top:6px;
+    font-size:11.5px;
+    font-family:'IBM Plex Mono', monospace;
+    color:var(--marine-2);
+    text-decoration:none;
+  }
+  .qe-more:hover{color:var(--red);}
+
+  .legend{
+    margin-top:56px;
+    padding-top:28px;
+    border-top:1px solid var(--line);
+    font-size:13.5px;
+    color:var(--ink-soft);
+  }
+  .legend h2{
+    font-family:'Fraunces', serif;
+    font-size:19px;
+    color:var(--marine);
+    margin-bottom:10px;
+  }
+  .legend table{border-collapse:collapse;width:100%;margin:14px 0;font-size:13px;}
+  .legend td, .legend th{
+    text-align:left;
+    padding:8px 10px;
+    border:1px solid var(--line);
+    vertical-align:top;
+  }
+  .legend th{background:var(--parchment-2);font-family:'IBM Plex Mono',monospace;font-weight:500;font-size:11.5px;text-transform:uppercase;letter-spacing:.03em;}
+  .empty{
+    padding:40px 0;
+    text-align:center;
+    color:var(--ink-soft);
+    font-size:14px;
+  }
+  footer{
+    text-align:center;
+    padding:24px;
+    font-size:12px;
+    color:var(--ink-soft);
+    font-family:'IBM Plex Mono', monospace;
+  }
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <div class="masthead-inner">
+    <p class="eyebrow">Prototype v1 — usage interne rédaction</p>
+    <h1>Veille des députés normands</h1>
+    <p>Répertoire consolidé des 28 députés des cinq départements normands, avec accès direct aux votes, textes, questions écrites et amendements. Bâti à partir de l'open data de l'Assemblée nationale et de CIVIX.</p>
+  </div>
+  <div class="scope-banner">
+    <b>Note de périmètre :</b> l'API CIVIX couvre les votes, scrutins, dossiers législatifs et fiches députés. Questions écrites, rapports, propositions de loi et positions de vote viennent des fiches officielles de l'Assemblée nationale et sont désormais affichés ci-dessous. Les amendements déposés restent hors périmètre (pas de source par député exploitable simplement).
+    <br><span id="dataFreshness" style="opacity:.8"></span>
+  </div>
+</div>
+
+<main>
+  <div class="toolbar">
+    <div class="search">
+      <input type="text" id="searchInput" placeholder="Rechercher un nom ou une circonscription…">
+    </div>
+    <div class="dept-filters" id="deptFilters"></div>
+  </div>
+
+  <div id="results"></div>
+
+  <div class="legend">
+    <h2>Note méthodologique</h2>
+    <p>Cet outil v1 est un <b>répertoire curé</b>, pas encore un flux automatisé. Il pointe vers les bonnes sources pour chaque type de suivi, en attendant le branchement de l'automatisation (étape 2).</p>
+    <table>
+      <tr><th>Donnée</th><th>Source confirmée</th><th>Statut dans cet outil</th></tr>
+      <tr><td>Votes / scrutins (vue CIVIX)</td><td>API CIVIX (civix.fr/api)</td><td>Lien direct vers la fiche CIVIX du député</td></tr>
+      <tr><td>Questions écrites</td><td>Fiche AN — <code>/dyn/deputes/{PA}/questions</code></td><td><b>Automatisé.</b> Titre, date, statut.</td></tr>
+      <tr><td>Rapports</td><td>Fiche AN — <code>/dyn/deputes/{PA}/documents?typeDocument=rapport</code></td><td><b>Automatisé.</b> Titre, date, lien vers le texte.</td></tr>
+      <tr><td>Propositions de loi</td><td>Fiche AN — <code>/dyn/deputes/{PA}/documents?typeDocument=proposition</code></td><td><b>Automatisé.</b> Titre, date, lien vers le texte.</td></tr>
+      <tr><td>Positions de vote</td><td>Fiche AN — <code>/dyn/deputes/{PA}/positions-de-vote</code></td><td><b>Automatisé</b> (10 votes les plus récents, tous types confondus — y compris des votes très techniques sur des amendements en série). Pour/Contre/Abstention affiché.</td></tr>
+      <tr><td>Amendements déposés</td><td>Aucune page par député trouvée ; uniquement un moteur de recherche global ou l'archive complète en XML/JSON</td><td>Hors périmètre pour l'instant (sur demande).</td></tr>
+    </table>
+    <p><b>Mise à jour des données :</b> le script planifié réécrit directement ce fichier HTML chaque jour avec les données fraîches. Pas de serveur ni de manipulation nécessaire : il suffit d'ouvrir (ou de rafraîchir, si déjà ouvert) ce fichier pour voir les dernières données. Voir le guide d'installation fourni séparément.</p>
+  </div>
+</main>
+
+<footer>Sources : Assemblée nationale (open data) · CIVIX (civix.fr) — Données publiques officielles</footer>
+
+<script>
+const DEPUTES = [
+  // Calvados (14)
+  {nom:"Joël Bruneau", dept:"14", circo:"Calvados · 1re circ.", pa:"PA840817"},
+  {nom:"Arthur Delaporte", dept:"14", circo:"Calvados · 2e circ.", pa:"PA793394"},
+  {nom:"Jérémie Patrier-Leitus", dept:"14", circo:"Calvados · 3e circ.", pa:"PA793398"},
+  {nom:"Christophe Blanchet", dept:"14", circo:"Calvados · 4e circ.", pa:"PA719024"},
+  {nom:"Bertrand Bouyx", dept:"14", circo:"Calvados · 5e circ.", pa:"PA719032"},
+  {nom:"Élisabeth Borne", dept:"14", circo:"Calvados · 6e circ.", pa:"PA717161"},
+  // Eure (27)
+  {nom:"Christine Loir", dept:"27", circo:"Eure · 1re circ.", pa:"PA793672"},
+  {nom:"Katiana Levavasseur", dept:"27", circo:"Eure · 2e circ.", pa:"PA793608"},
+  {nom:"Kévin Mauvieux", dept:"27", circo:"Eure · 3e circ.", pa:"PA793616"},
+  {nom:"Philippe Brun", dept:"27", circo:"Eure · 4e circ.", pa:"PA793624"},
+  {nom:"Timothée Houssin", dept:"27", circo:"Eure · 5e circ.", pa:"PA793632"},
+  // Manche (50)
+  {nom:"Philippe Gosselin", dept:"50", circo:"Manche · 1re circ.", pa:"PA266797"},
+  {nom:"Bertrand Sorre", dept:"50", circo:"Manche · 2e circ.", pa:"PA720190"},
+  {nom:"Stéphane Travert", dept:"50", circo:"Manche · 3e circ.", pa:"PA607395"},
+  {nom:"Anna Pic", dept:"50", circo:"Manche · 4e circ.", pa:"PA794270"},
+  // Orne (61)
+  {nom:"Chantal Jourdan", dept:"61", circo:"Orne · 1re circ.", pa:"PA643192"},
+  {nom:"Thierry Liger", dept:"61", circo:"Orne · 2e circ.", pa:"PA794750"},
+  {nom:"Cendrine Chazé", dept:"61", circo:"Orne · 3e circ.", pa:"PA841595"},
+  // Seine-Maritime (76)
+  {nom:"Florence Herouin-Léautey", dept:"76", circo:"Seine-Maritime · 1re circ.", pa:"PA841813"},
+  {nom:"Annie Vidal", dept:"76", circo:"Seine-Maritime · 2e circ.", pa:"PA722102"},
+  {nom:"Édouard Bénard", dept:"76", circo:"Seine-Maritime · 3e circ.", pa:"PA796106"},
+  {nom:"Alma Dufour", dept:"76", circo:"Seine-Maritime · 4e circ.", pa:"PA795200"},
+  {nom:"Gérard Leseul", dept:"76", circo:"Seine-Maritime · 5e circ.", pa:"PA774958"},
+  {nom:"Patrice Martin", dept:"76", circo:"Seine-Maritime · 6e circ.", pa:"PA841825"},
+  {nom:"Agnès Firmin Le Bodo", dept:"76", circo:"Seine-Maritime · 7e circ.", pa:"PA267780"},
+  {nom:"Jean-Paul Lecoq", dept:"76", circo:"Seine-Maritime · 8e circ.", pa:"PA335612"},
+  {nom:"Marie-Agnès Poussier-Winsback", dept:"76", circo:"Seine-Maritime · 9e circ.", pa:"PA795270"},
+  {nom:"Robert Le Bourgeois", dept:"76", circo:"Seine-Maritime · 10e circ.", pa:"PA841837"},
+];
+
+const DEPT_NAMES = {"14":"Calvados","27":"Eure","50":"Manche","61":"Orne","76":"Seine-Maritime"};
+
+// Données produites par fetch_activite_deputes.py — ce bloc est réécrit
+// AUTOMATIQUEMENT par le script à chaque exécution (ne pas éditer à la main,
+// vos modifications seraient effacées au prochain lancement). Repéré via les
+// marqueurs __ACTIVITY_DATA_START__ / __ACTIVITY_DATA_END__ ci-dessous.
+// __ACTIVITY_DATA_START__
+const ACTIVITY_DATA = {
+  "generated_at": "2026-07-20T00:00:00",
+  "note": "Extrait de démonstration — exécutez fetch_activite_deputes.py pour peupler les 27 autres députés.",
+  "deputes": {
+    "PA793624": {
+      "questions": [
+        {"date":"5 mai 2026","titre":"Protection des consommateurs et défaillances d'entreprises","statut":"Question sans réponse","url":"https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14828"},
+        {"date":"29 avril 2026","titre":"Prix des carburants","statut":"Question posée en séance","url":"https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1472"},
+        {"date":"13 janvier 2026","titre":"Dispositif de conduite supervisée et abaissement de l'âge d'obtention du permis","statut":"Réponse publiée le 23 juin 2026","url":"https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12233"}
+      ],
+      "rapports": [
+        {"date":"4 décembre 2024","titre":"Rapport sur la proposition de loi visant à lutter contre les pannes d'ascenseurs non prises en charge, n° 704","url":"https://www.assemblee-nationale.fr/dyn/17/rapports/cion-eco/l17b0704_rapport-fond.pdf"}
+      ],
+      "propositions": [
+        {"date":"29 octobre 2024","titre":"Proposition de loi visant à lutter contre les pannes d'ascenseurs non prises en charge, n° 518","url":"https://www.assemblee-nationale.fr/dyn/17/textes/l17b0518_proposition-loi"}
+      ],
+      "votes": [
+        {"date":"18 juin 2026","objet":"Scrutin n°7429 — amendement à l'article unique du projet de loi constitutionnelle pour une Corse autonome","position":"Pour","resultat":"Adopté","url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/7429"},
+        {"date":"18 juin 2026","objet":"Scrutin n°7423 — sous-amendement à l'article unique du projet de loi constitutionnelle pour une Corse autonome","position":"Contre","resultat":"Adopté","url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/7423"}
+      ]
+    }
+  }
+};
+// __ACTIVITY_DATA_END__
+
+const CATEGORY_LABELS = {
+  questions: "Questions écrites",
+  rapports: "Rapports",
+  propositions: "Propositions de loi",
+  votes: "Positions de vote",
+};
+
+// Si le fichier est servi en http(s) (pas ouvert en double-clic), on tente de
+// charger une version fraîche générée par le script Python, régénérée par
+// une tâche planifiée. En local (file://) ça échoue silencieusement et on
+// garde les données ci-dessus.
+async function loadFreshData(){
+  try{
+    const res = await fetch('activite-data.json', {cache:'no-store'});
+    if(!res.ok) return;
+    const fresh = await res.json();
+    Object.assign(ACTIVITY_DATA.deputes, fresh.deputes);
+    ACTIVITY_DATA.generated_at = fresh.generated_at;
+    render();
+  }catch(e){
+    // file:// ou pas de serveur disponible : on reste sur les données embarquées
+  }
+}
+
+function renderFreshnessBanner(){
+  const el = document.getElementById('dataFreshness');
+  if(!el) return;
+  const d = new Date(ACTIVITY_DATA.generated_at);
+  const dateStr = isNaN(d) ? ACTIVITY_DATA.generated_at : d.toLocaleDateString('fr-FR', {day:'numeric', month:'long', year:'numeric'});
+  el.textContent = `Activité parlementaire — dernière extraction : ${dateStr}. ${ACTIVITY_DATA.note || ''}`;
+}
+
+let activeDept = "all";
+let query = "";
+
+function buildFilters(){
+  const container = document.getElementById('deptFilters');
+  const all = document.createElement('button');
+  all.className = 'dept-btn active';
+  all.textContent = 'Toute la Normandie';
+  all.onclick = () => { activeDept = 'all'; render(); highlightFilter(all); };
+  container.appendChild(all);
+
+  Object.entries(DEPT_NAMES).forEach(([code, name]) => {
+    const btn = document.createElement('button');
+    btn.className = 'dept-btn';
+    btn.textContent = `${name} (${code})`;
+    btn.onclick = () => { activeDept = code; render(); highlightFilter(btn); };
+    container.appendChild(btn);
+  });
+}
+
+function highlightFilter(el){
+  document.querySelectorAll('.dept-btn').forEach(b => b.classList.remove('active'));
+  el.classList.add('active');
+}
+
+function render(){
+  const results = document.getElementById('results');
+  results.innerHTML = '';
+
+  let list = DEPUTES.filter(d => activeDept === 'all' || d.dept === activeDept);
+  if(query.trim()){
+    const q = query.trim().toLowerCase();
+    list = list.filter(d => d.nom.toLowerCase().includes(q) || d.circo.toLowerCase().includes(q));
+  }
+
+  if(list.length === 0){
+    results.innerHTML = '<div class="empty">Aucun député ne correspond à cette recherche.</div>';
+    return;
+  }
+
+  const grouped = {};
+  list.forEach(d => { (grouped[d.dept] = grouped[d.dept] || []).push(d); });
+
+  Object.keys(grouped).sort().forEach(dept => {
+    const group = document.createElement('div');
+    group.className = 'dept-group';
+
+    const title = document.createElement('div');
+    title.className = 'dept-title';
+    title.innerHTML = `${DEPT_NAMES[dept]} <span class="count">${grouped[dept].length} député${grouped[dept].length>1?'s':''}</span>`;
+    group.appendChild(title);
+
+    const grid = document.createElement('div');
+    grid.className = 'grid';
+
+    grouped[dept].forEach(d => {
+      const card = document.createElement('div');
+      card.className = 'card';
+
+      const record = ACTIVITY_DATA.deputes[d.pa];
+
+      let activityHtml = '';
+      const categories = ['questions', 'rapports', 'propositions', 'votes'];
+      categories.forEach(cat => {
+        const items = record ? (record[cat] || []).slice(0, cat === 'votes' ? 2 : 2) : null;
+        activityHtml += `<div class="qe-block"><p class="qe-label">${CATEGORY_LABELS[cat]}</p>`;
+        if(items && items.length){
+          items.forEach(item => {
+            if(cat === 'votes'){
+              const posClass = item.position === 'Pour' ? 'qe-pos-pour' : item.position === 'Contre' ? 'qe-pos-contre' : 'qe-pos-abs';
+              activityHtml += `
+                <a class="qe-item" href="${item.url}" target="_blank" rel="noopener">
+                  <span class="qe-date">${item.date || ''}</span><span class="qe-titre">${item.objet}</span>
+                  <span class="qe-statut ${posClass}">${item.position || ''}</span>
+                </a>`;
+            } else {
+              activityHtml += `
+                <a class="qe-item" href="${item.url}" target="_blank" rel="noopener">
+                  <span class="qe-date">${item.date || ''}</span><span class="qe-titre">${item.titre}</span>
+                  ${item.statut ? `<span class="qe-statut">${item.statut === 'Question sans réponse' ? '· sans réponse' : item.statut.startsWith('Réponse') ? '· répondue' : ''}</span>` : ''}
+                </a>`;
+            }
+          });
+        } else {
+          activityHtml += `<p class="qe-empty">Pas encore extrait</p>`;
+        }
+        activityHtml += `</div>`;
+      });
+
+      card.innerHTML = `
+        <p class="card-name">${d.nom}</p>
+        <p class="card-circo">${d.circo}</p>
+        <div class="card-links">
+          <a href="https://www.assemblee-nationale.fr/dyn/deputes/${d.pa}" target="_blank" rel="noopener">Fiche AN complète</a>
+          <a href="https://www.civix.fr/deputes" target="_blank" rel="noopener">Rechercher sur CIVIX (votes commentés)</a>
+        </div>
+        ${activityHtml}
+      `;
+      grid.appendChild(card);
+    });
+
+    group.appendChild(grid);
+    results.appendChild(group);
+  });
+}
+
+document.getElementById('searchInput').addEventListener('input', (e) => {
+  query = e.target.value;
+  render();
+});
+
+buildFilters();
+renderFreshnessBanner();
+render();
+loadFreshData();
+</script>
+</body>
+</html>
