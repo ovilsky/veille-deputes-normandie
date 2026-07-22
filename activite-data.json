@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T10:15:16",
+  "generated_at": "2026-07-22T08:35:46",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -240,6 +240,55 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
@@ -259,55 +308,6 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8425"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8422 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8422"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8421 sur l'ensemble de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8421"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8420 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8420"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8419 sur l'ensemble de la proposition de loi visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8419"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
         }
       ]
     },
@@ -347,6 +347,14 @@
           "titre": "Financement du fonds mondial",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15820"
+        },
+        {
+          "numero": "Question au Gouvernement n° 1612",
+          "date": "3 juin 2026",
+          "rubrique": "étrangers",
+          "titre": "Titre de séjour de Mme Xenia Fedorova",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1612"
         },
         {
           "numero": "Question écrite n° 14684",
@@ -467,14 +475,6 @@
           "titre": "Situation du Planning familial dans le Calvados",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE9189"
-        },
-        {
-          "numero": "Question écrite n° 7698",
-          "date": "24 juin 2025",
-          "rubrique": "agriculture",
-          "titre": "Dispositif de soutien agricole",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE7698"
         }
       ],
       "rapports": [
@@ -543,6 +543,48 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Contre",
@@ -569,48 +611,6 @@
           "position": "Contre",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8422 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8422"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8421 sur l'ensemble de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8421"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8419 sur l'ensemble de la proposition de loi visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8419"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8309 sur l'amendement n° 660 de Mme Martin (Alpes-Maritimes) après l'article 11 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8309"
         }
       ]
     },
@@ -762,6 +762,27 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Abstention",
@@ -809,27 +830,6 @@
           "position": "Contre",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8120"
-        },
-        {
-          "date": "9 juillet 2026",
-          "objet": "Scrutin public n°8119 sur l'amendement n° 85 de M. Bernalicis et les amendements identiques suivants de suppression de l'article 5 du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8119"
-        },
-        {
-          "date": "9 juillet 2026",
-          "objet": "Scrutin public n°8118 sur l'amendement n° 280 de M. Houlié de rétablissement de l'article 4 bis du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8118"
-        },
-        {
-          "date": "9 juillet 2026",
-          "objet": "Scrutin public n°8117 sur le sous-amendement n° 1082 du Gouvernement à l'amendement n° 280 de M. Houlié de rétablissement de l'article 4 bis du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8117"
         }
       ]
     },
@@ -1115,6 +1115,55 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Abstention",
@@ -1134,55 +1183,6 @@
           "position": "Abstention",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8425"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8422 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8422"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8421 sur l'ensemble de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8421"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8420 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8420"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8419 sur l'ensemble de la proposition de loi visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8419"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
         }
       ]
     },
@@ -1438,6 +1438,34 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8420 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
           "position": "Contre",
@@ -1478,34 +1506,6 @@
           "position": "Pour",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8116"
-        },
-        {
-          "date": "9 juillet 2026",
-          "objet": "Scrutin public n°8115 sur l'amendement n° 84 de Mme Taurinya et les amendements identiques suivants à l'article 4 bis A du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8115"
-        },
-        {
-          "date": "9 juillet 2026",
-          "objet": "Scrutin public n°8113 sur l'amendement n° 83 de M. Bernalicis et les amendements identiques suivants de suppression de l'article 4 bis A du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8113"
-        },
-        {
-          "date": "8 juillet 2026",
-          "objet": "Scrutin public n°8047 sur l'amendement n° 826 de Mme Saint-Paul après l'article 2 ter du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8047"
-        },
-        {
-          "date": "8 juillet 2026",
-          "objet": "Scrutin public n°8046 sur l'article 2 ter du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8046"
         }
       ]
     },
@@ -1517,6 +1517,27 @@
       "rapports": [],
       "propositions": [],
       "votes": [
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
         {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
@@ -1547,7 +1568,7 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
+          "objet": "Scrutin public n°8423 sur la proposition du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
@@ -1565,27 +1586,6 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8421"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8279 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8279"
         }
       ]
     },
@@ -1780,6 +1780,48 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
@@ -1806,48 +1848,6 @@
           "position": "Abstention",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8422 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8422"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8421 sur l'ensemble de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8421"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8420 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8420"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8419 sur l'ensemble de la proposition de loi visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8419"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
         }
       ]
     },
@@ -1857,12 +1857,12 @@
       "circo": "Eure 2e circ.",
       "questions": [
         {
-          "numero": "Question au Gouvernement n° 1624",
+          "numero": "Question au Gouvernement n° 1652",
           "date": "10 juin 2026",
           "rubrique": "logement",
           "titre": "Morts de la rue",
           "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1624"
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1652"
         },
         {
           "numero": "Question écrite n° 15875",
@@ -2032,6 +2032,27 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
@@ -2061,7 +2082,7 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
+          "objet": "Scrutin public n°8423 sur la proposition du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
@@ -2079,27 +2100,6 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8421"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8420 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8420"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8419 sur l'ensemble de la proposition de loi visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8419"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
         }
       ]
     },
@@ -2287,6 +2287,55 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
@@ -2306,55 +2355,6 @@
           "position": "Abstention",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8425"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8422 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8422"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8421 sur l'ensemble de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8421"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8419 sur l'ensemble de la proposition de loi visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8419"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8318 sur l'amendement n° 731 de Mme Cestrières à l'article premier du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8318"
         }
       ]
     },
@@ -2570,6 +2570,41 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Contre",
@@ -2603,41 +2638,6 @@
           "position": "Contre",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8317"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8316 sur l'amendement n° 609 de Mme Joncour à l'article premier du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8316"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8315 sur l'amendement n° 390 de Mme Blanc à l'article premier du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8315"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8314 sur l'amendement n° 479 de Mme Loir à l'article premier du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8314"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8313 sur l'amendement n° 655 de Mme Cathala et les amendements identiques suivants à l'article premier du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8313"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8312 sur l'amendement n° 653 de Mme Maximi à l'article premier du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8312"
         }
       ]
     },
@@ -2811,6 +2811,41 @@
       "propositions": [],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
@@ -2844,41 +2879,6 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8321"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8320 sur l'amendement n° 175 de Mme Hadizadeh à l'article premier du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8320"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8319 sur l'amendement n° 9 (rect.) de Mme Blanc à l'article premier du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8319"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8318 sur l'amendement n° 731 de Mme Cestrières à l'article premier du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8318"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8317 sur l'amendement n° 770 de Mme Parmentier à l'article premier du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8317"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8316 sur l'amendement n° 609 de Mme Joncour à l'article premier du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8316"
         }
       ]
     },
@@ -3204,6 +3204,41 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
@@ -3233,45 +3268,10 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
+          "objet": "Scrutin public n°8423 sur la proposition du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8422 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8422"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8421 sur l'ensemble de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8421"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8419 sur l'ensemble de la proposition de loi visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8419"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280"
         }
       ]
     },
@@ -3496,6 +3496,55 @@
       "propositions": [],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Abstention",
@@ -3515,55 +3564,6 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8419"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8279 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8279"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8278 sur l'amendement n° 1 du Gouvernement après l'article 6 quater du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (seconde délibération) (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8278"
-        },
-        {
-          "date": "8 juillet 2026",
-          "objet": "Scrutin public n°8043 sur l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8043"
-        },
-        {
-          "date": "8 juillet 2026",
-          "objet": "Scrutin public n°8042 sur l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8042"
-        },
-        {
-          "date": "8 juillet 2026",
-          "objet": "Scrutin public n°8037 sur l'amendement n° 884 du Gouvernement et les amendements identiques suivants de rétablissement de l'article 2 (supprimé) du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8037"
         }
       ]
     },
@@ -3809,6 +3809,34 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
@@ -3838,7 +3866,7 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
+          "objet": "Scrutin public n°8423 sur la proposition du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
@@ -3849,34 +3877,6 @@
           "position": "Contre",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8422"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8421 sur l'ensemble de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8421"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8419 sur l'ensemble de la proposition de loi visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8419"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8279 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8279"
         }
       ]
     },
@@ -4112,6 +4112,27 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Contre",
@@ -4159,27 +4180,6 @@
           "position": "Contre",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987"
-        },
-        {
-          "date": "7 juillet 2026",
-          "objet": "Scrutin public n°7981 sur l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7981"
-        },
-        {
-          "date": "7 juillet 2026",
-          "objet": "Scrutin public n°7980 sur l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7980"
-        },
-        {
-          "date": "6 juillet 2026",
-          "objet": "Scrutin public n°7979 sur la motion de censure déposée en application de l'article 49, alinéa 2, de la Constitution par Mmes Cyrielle Chatelain, Nadège Abomangoli et 56 députés.",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7979"
         }
       ]
     },
@@ -4364,6 +4364,48 @@
       "propositions": [],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Contre",
@@ -4390,48 +4432,6 @@
           "position": "Contre",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8422 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8422"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8289 sur l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8289"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8288 sur le sous-amendement n° 1188 de Mme Perrine Goulet et le sous-amendement identique suivant à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8288"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8287 sur le sous-amendement n° 1189 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8287"
         }
       ]
     },
@@ -4626,6 +4626,48 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
@@ -4652,48 +4694,6 @@
           "position": "Pour",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8422 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8422"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8421 sur l'ensemble de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8421"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8420 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8420"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8419 sur l'ensemble de la proposition de loi visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8419"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
         }
       ]
     },
@@ -4766,6 +4766,55 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
@@ -4785,55 +4834,6 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8425"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8422 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8422"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8421 sur l'ensemble de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8421"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8419 sur l'ensemble de la proposition de loi visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8419"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8279 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8279"
         }
       ]
     },
@@ -5069,6 +5069,41 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Contre",
@@ -5098,45 +5133,10 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
+          "objet": "Scrutin public n°8423 sur la proposition du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
           "position": "Contre",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8422 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8422"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
-        },
-        {
-          "date": "17 juillet 2026",
-          "objet": "Scrutin public n°8414 sur l'amendement n° 890 de M. David Magnier à l'article 13 du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8414"
-        },
-        {
-          "date": "17 juillet 2026",
-          "objet": "Scrutin public n°8413 sur l'amendement n° 746 de Mme Spillebout à l'article 13 du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8413"
-        },
-        {
-          "date": "17 juillet 2026",
-          "objet": "Scrutin public n°8412 sur l'amendement n° 745 de Mme Spillebout à l'article 13 du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8412"
         }
       ]
     },
@@ -5402,6 +5402,48 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
@@ -5428,48 +5470,6 @@
           "position": "Pour",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8422 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8422"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8421 sur l'ensemble de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8421"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8420 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8420"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8419 sur l'ensemble de la proposition de loi visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8419"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8308 sur l'amendement n° 362 de M. Arnaud Bonnet après l'article 11 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8308"
         }
       ]
     },
@@ -5487,12 +5487,12 @@
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16731"
         },
         {
-          "numero": "Question au Gouvernement n° 1636",
+          "numero": "Question au Gouvernement n° 1664",
           "date": "11 juin 2026",
           "rubrique": "industrie",
-          "titre": "Situation de Fibre Excellence",
+          "titre": "Situation de fibre excellence",
           "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1636"
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1664"
         },
         {
           "numero": "Question écrite n° 15363",
@@ -5685,6 +5685,34 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Contre",
@@ -5725,34 +5753,6 @@
           "position": "Abstention",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8307"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8306 sur l'amendement n° 701 de M. Raux à l'article 10 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8306"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8305 sur l'amendement n° 1172 de Mme Hamelet à l'article 10 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8305"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8304 sur l'amendement n° 406 de Mme Capdevielle à l'article 10 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8304"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8303 sur l'amendement n° 15 de Mme Blanc à l'article 10 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8303"
         }
       ]
     },
@@ -5888,6 +5888,27 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Contre",
@@ -5917,7 +5938,7 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
+          "objet": "Scrutin public n°8423 sur la proposition du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
           "position": "Contre",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
@@ -5935,27 +5956,6 @@
           "position": "Contre",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8421"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8309 sur l'amendement n° 660 de Mme Martin (Alpes-Maritimes) après l'article 11 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8309"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8279 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8279"
         }
       ]
     },
@@ -6221,6 +6221,41 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Abstention",
@@ -6243,7 +6278,7 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
+          "objet": "Scrutin public n°8423 sur la proposition du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
           "position": "Contre",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
@@ -6254,41 +6289,6 @@
           "position": "Pour",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8422"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8279 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8279"
-        },
-        {
-          "date": "10 juillet 2026",
-          "objet": "Scrutin public n°8244 sur l'amendement n° 573 de M. Armishahi après l'article 10 du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8244"
-        },
-        {
-          "date": "10 juillet 2026",
-          "objet": "Scrutin public n°8243 sur l'article 10 du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8243"
         }
       ]
     },
@@ -6473,6 +6473,34 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
@@ -6502,7 +6530,7 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
+          "objet": "Scrutin public n°8423 sur la proposition du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
@@ -6513,34 +6541,6 @@
           "position": "Contre",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8422"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8421 sur l'ensemble de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8421"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8420 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8420"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8419 sur l'ensemble de la proposition de loi visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8419"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
         }
       ]
     },
@@ -6832,6 +6832,48 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
@@ -6858,48 +6900,6 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8419"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
-        },
-        {
-          "date": "17 juillet 2026",
-          "objet": "Scrutin public n°8417 sur l'amendement n° 556 de M. Monnet au titre du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8417"
-        },
-        {
-          "date": "17 juillet 2026",
-          "objet": "Scrutin public n°8416 sur l'amendement n° 993 (2e rect.) de Mme Maximi à l'article 15 du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8416"
-        },
-        {
-          "date": "17 juillet 2026",
-          "objet": "Scrutin public n°8415 sur l'article 13 du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8415"
-        },
-        {
-          "date": "17 juillet 2026",
-          "objet": "Scrutin public n°8414 sur l'amendement n° 890 de M. David Magnier à l'article 13 du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8414"
-        },
-        {
-          "date": "17 juillet 2026",
-          "objet": "Scrutin public n°8413 sur l'amendement n° 746 de Mme Spillebout à l'article 13 du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8413"
         }
       ]
     },
@@ -7125,6 +7125,48 @@
       ],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Contre",
@@ -7133,7 +7175,7 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
+          "objet": "Scrutin public n°8423 sur la proposition du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
           "position": "Contre",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
@@ -7151,48 +7193,6 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8421"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8420 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8420"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8419 sur l'ensemble de la proposition de loi visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8419"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Abstention",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8279 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8279"
-        },
-        {
-          "date": "8 juillet 2026",
-          "objet": "Scrutin public n°8043 sur l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8043"
         }
       ]
     },
@@ -7366,6 +7366,20 @@
       "propositions": [],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
@@ -7388,7 +7402,7 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
+          "objet": "Scrutin public n°8423 sur la proposition du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
@@ -7420,20 +7434,6 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
-        },
-        {
-          "date": "16 juillet 2026",
-          "objet": "Scrutin public n°8308 sur l'amendement n° 362 de M. Arnaud Bonnet après l'article 11 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8308"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280"
         }
       ]
     },
@@ -7618,6 +7618,41 @@
       "propositions": [],
       "votes": [
         {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429"
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428"
+        },
+        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
@@ -7647,45 +7682,10 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la demande du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
+          "objet": "Scrutin public n°8423 sur la proposition du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8422 sur la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8422"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8421 sur l'ensemble de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8421"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8419 sur l'ensemble de la proposition de loi visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8419"
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8418 sur l'ensemble de la proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8418"
-        },
-        {
-          "date": "15 juillet 2026",
-          "objet": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280"
         }
       ]
     }
