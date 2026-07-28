@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T09:59:53",
+  "generated_at": "2026-07-28T08:42:22",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -2888,6 +2888,30 @@
       "circo": "Manche 1re circ.",
       "questions": [
         {
+          "numero": "Question écrite n° 17453",
+          "date": "28 juillet 2026",
+          "rubrique": "travail",
+          "titre": "Convention collective nationale des entreprises de prévention et de sécurité",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17453"
+        },
+        {
+          "numero": "Question écrite n° 17366",
+          "date": "28 juillet 2026",
+          "rubrique": "ordre public",
+          "titre": "Manifestation Iran",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17366"
+        },
+        {
+          "numero": "Question écrite n° 17228",
+          "date": "28 juillet 2026",
+          "rubrique": "anciens combattants et victimes de guerre",
+          "titre": "Médaille de la défense nationale avec agrafe « Monde combattant »",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17228"
+        },
+        {
           "numero": "Question écrite n° 16671",
           "date": "7 juillet 2026",
           "rubrique": "état civil",
@@ -3022,30 +3046,6 @@
           "titre": "Situation en Iran",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1172"
-        },
-        {
-          "numero": "Question écrite n° 10882",
-          "date": "11 novembre 2025",
-          "rubrique": "mort et décès",
-          "titre": "TVA appliqué aux prestations funéraires",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE10882"
-        },
-        {
-          "numero": "Question écrite n° 10658",
-          "date": "28 octobre 2025",
-          "rubrique": "transports routiers",
-          "titre": "PTAC",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE10658"
-        },
-        {
-          "numero": "Question écrite n° 10638",
-          "date": "28 octobre 2025",
-          "rubrique": "retraites : fonctionnaires civils et militaires",
-          "titre": "Surcotisation retraite",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE10638"
         }
       ],
       "rapports": [
@@ -3886,6 +3886,14 @@
       "circo": "Manche 4e circ.",
       "questions": [
         {
+          "numero": "Question écrite n° 17388",
+          "date": "28 juillet 2026",
+          "rubrique": "police",
+          "titre": "Moyens alloués aux services techniques du ministère de l'Intérieur",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17388"
+        },
+        {
           "numero": "Question écrite n° 17179",
           "date": "21 juillet 2026",
           "rubrique": "police",
@@ -4036,14 +4044,6 @@
           "titre": "Préservation du réseau de l'enseignement français à l'étranger",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12579"
-        },
-        {
-          "numero": null,
-          "date": "6 janvier 2026",
-          "rubrique": "enseignement",
-          "titre": "Fermeture de la formation au métier de CPE à l'INSPE de Caen",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD514"
         }
       ],
       "rapports": [
@@ -5965,6 +5965,14 @@
       "circo": "Seine-Maritime 5e circ.",
       "questions": [
         {
+          "numero": "Question écrite n° 17233",
+          "date": "28 juillet 2026",
+          "rubrique": "arts et spectacles",
+          "titre": "Revente des billets de spectacles",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17233"
+        },
+        {
           "numero": "Question écrite n° 17080",
           "date": "21 juillet 2026",
           "rubrique": "cours d'eau, étangs et lacs",
@@ -6115,14 +6123,6 @@
           "titre": "Fraudes du système d'immatriculation des véhicules",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12548"
-        },
-        {
-          "numero": "Question au Gouvernement n° 1065",
-          "date": "4 décembre 2025",
-          "rubrique": "impôts et taxes",
-          "titre": "Imposition du patrimoine",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1065"
         }
       ],
       "rapports": [
@@ -7202,6 +7202,14 @@
       "circo": "Seine-Maritime 9e circ.",
       "questions": [
         {
+          "numero": "Question écrite n° 17261",
+          "date": "28 juillet 2026",
+          "rubrique": "déchets",
+          "titre": "Avenir de la filière solidaire de collecte et recyclage des bouchons plastiques",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17261"
+        },
+        {
           "numero": "Question écrite n° 16549",
           "date": "30 juin 2026",
           "rubrique": "santé",
@@ -7352,14 +7360,6 @@
           "titre": "Absence de financement des activités péri-éducatives en Seine-Maritime",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12163"
-        },
-        {
-          "numero": "Question écrite n° 11855",
-          "date": "23 décembre 2025",
-          "rubrique": "aide aux victimes",
-          "titre": "Retard de publication du décret \"aller-vers\"",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11855"
         }
       ],
       "rapports": [],
@@ -7442,6 +7442,14 @@
       "dept": "76",
       "circo": "Seine-Maritime 10e circ.",
       "questions": [
+        {
+          "numero": "Question écrite n° 17398",
+          "date": "28 juillet 2026",
+          "rubrique": "prestations familiales",
+          "titre": "Allongement du délai de traitement des demandes d'AJPP",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17398"
+        },
         {
           "numero": "Question écrite n° 16694",
           "date": "7 juillet 2026",
@@ -7593,14 +7601,6 @@
           "titre": "Suivi des recommandations du rapport relatif à la gestion des marnières",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD372"
-        },
-        {
-          "numero": "Question écrite n° 6080",
-          "date": "22 avril 2025",
-          "rubrique": "communes",
-          "titre": "Allongement du délai de remboursement de la tarification sociale des cantines",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE6080"
         }
       ],
       "rapports": [
