@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:54:51",
+  "generated_at": "2026-08-04T08:45:39",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -847,6 +847,14 @@
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16860"
         },
         {
+          "numero": "Question au Gouvernement n° 1742",
+          "date": "2 juillet 2026",
+          "rubrique": "commerce et artisanat",
+          "titre": "Taxation des petits colis",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1742"
+        },
+        {
           "numero": "Question écrite n° 15778",
           "date": "9 juin 2026",
           "rubrique": "entreprises",
@@ -989,14 +997,6 @@
           "titre": "PPGID",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11528"
-        },
-        {
-          "numero": "Question écrite n° 11516",
-          "date": "9 décembre 2025",
-          "rubrique": "justice",
-          "titre": "Développement de la reconnaissance vocale dans les enquêtes judiciaires",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11516"
         }
       ],
       "rapports": [
@@ -1595,6 +1595,30 @@
       "circo": "Eure 1re circ.",
       "questions": [
         {
+          "numero": "Question écrite n° 17583",
+          "date": "4 août 2026",
+          "rubrique": "professions de santé",
+          "titre": "Rémunération des maîtres de stage accueillant des docteurs juniors",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17583"
+        },
+        {
+          "numero": "Question écrite n° 17582",
+          "date": "4 août 2026",
+          "rubrique": "professions de santé",
+          "titre": "Pénurie de dermatologues dans l'Eure",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17582"
+        },
+        {
+          "numero": "Question écrite n° 17581",
+          "date": "4 août 2026",
+          "rubrique": "professions de santé",
+          "titre": "Objectifs territoriaux et suivi de la quatrième année de médecine générale",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17581"
+        },
+        {
           "numero": "Question écrite n° 17086",
           "date": "21 juillet 2026",
           "rubrique": "dépendance",
@@ -1729,30 +1753,6 @@
           "titre": "Crise de la dermatose nodulaire : vaccination, proportionnalité et dialogue",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11907"
-        },
-        {
-          "numero": "Question écrite n° 11830",
-          "date": "16 décembre 2025",
-          "rubrique": "santé",
-          "titre": "Valproate : reconnaître enfin les pères et leurs enfants comme victimes",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11830"
-        },
-        {
-          "numero": "Question écrite n° 10797",
-          "date": "11 novembre 2025",
-          "rubrique": "agriculture",
-          "titre": "Moderniser le fermage, préserver les exploitants",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE10797"
-        },
-        {
-          "numero": "Question écrite n° 10717",
-          "date": "4 novembre 2025",
-          "rubrique": "examens, concours et diplômes",
-          "titre": "Délais d'attente et qualité de la formation au permis de conduire",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE10717"
         }
       ],
       "rapports": [],
@@ -3281,6 +3281,22 @@
       "circo": "Manche 2e circ.",
       "questions": [
         {
+          "numero": "Question écrite n° 17593",
+          "date": "4 août 2026",
+          "rubrique": "retraites : généralités",
+          "titre": "Surcote parentale pour la génération 1964 et 1er trimestre 1965",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17593"
+        },
+        {
+          "numero": "Question écrite n° 17490",
+          "date": "4 août 2026",
+          "rubrique": "commerce et artisanat",
+          "titre": "Protection des biens propres des débitants de tabac",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17490"
+        },
+        {
           "numero": "Question écrite n° 16842",
           "date": "14 juillet 2026",
           "rubrique": "commerce et artisanat",
@@ -3295,6 +3311,14 @@
           "titre": "Extension au mareyage du dispositif de déduction pour épargne de précaution",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16821"
+        },
+        {
+          "numero": "Question au Gouvernement n° 1748",
+          "date": "2 juillet 2026",
+          "rubrique": "patrimoine culturel",
+          "titre": "Gouvernance du Mont-Saint-Michel",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1748"
         },
         {
           "numero": "Question écrite n° 16448",
@@ -3415,30 +3439,6 @@
           "titre": "Situation et perspectives pêche artisanale sur la côte ouest de la Manche",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD631"
-        },
-        {
-          "numero": "Question écrite n° 13136",
-          "date": "24 février 2026",
-          "rubrique": "formation professionnelle et apprentissage",
-          "titre": "Fin du CPF pour financer le permis de conduire des actifs",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13136"
-        },
-        {
-          "numero": "Question écrite n° 12878",
-          "date": "17 février 2026",
-          "rubrique": "aquaculture et pêche professionnelle",
-          "titre": "Impact des jachères d'estrans dans les ZPF",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12878"
-        },
-        {
-          "numero": "Question écrite n° 12840",
-          "date": "10 février 2026",
-          "rubrique": "professions judiciaires et juridiques",
-          "titre": "Délai de paiement pour les missions d'expert judiciaire",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12840"
         }
       ],
       "rapports": [
@@ -4441,6 +4441,22 @@
       "circo": "Orne 2e circ.",
       "questions": [
         {
+          "numero": "Question écrite n° 17626",
+          "date": "4 août 2026",
+          "rubrique": "taxe sur la valeur ajoutée",
+          "titre": "TVA promesses vente, contrat réservation conclusion fait générateur art.257I1-2°",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17626"
+        },
+        {
+          "numero": "Question écrite n° 17625",
+          "date": "4 août 2026",
+          "rubrique": "taxe sur la valeur ajoutée",
+          "titre": "TVA baux constitutifs de droits réels maintien de l'option art. 260, 5° CGI",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17625"
+        },
+        {
           "numero": "Question écrite n° 16989",
           "date": "14 juillet 2026",
           "rubrique": "prestations familiales",
@@ -4583,22 +4599,6 @@
           "titre": "Industrie de défense",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG836"
-        },
-        {
-          "numero": "Question écrite n° 7880",
-          "date": "24 juin 2025",
-          "rubrique": "taxe sur la valeur ajoutée",
-          "titre": "TVA : mise à disposition d'un véhicule par l'employeur à son salarié",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE7880"
-        },
-        {
-          "numero": "Question écrite n° 6798",
-          "date": "20 mai 2025",
-          "rubrique": "impôts et taxes",
-          "titre": "TVA et DMTO : qualification des travaux portant sur des immeubles existants",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE6798"
         }
       ],
       "rapports": [],
@@ -5479,6 +5479,14 @@
       "circo": "Seine-Maritime 3e circ.",
       "questions": [
         {
+          "numero": "Question écrite n° 17526",
+          "date": "4 août 2026",
+          "rubrique": "espace et politique spatiale",
+          "titre": "Projet Bromo de fusion des activités spatiales de Thales, Airbus et Leonardo",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17526"
+        },
+        {
           "numero": "Question écrite n° 16731",
           "date": "7 juillet 2026",
           "rubrique": "personnes handicapées",
@@ -5629,14 +5637,6 @@
           "titre": "Allégement des contrôles des produits phytopharmaceutiques déjà autorisés",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11847"
-        },
-        {
-          "numero": "Question écrite n° 11301",
-          "date": "2 décembre 2025",
-          "rubrique": "enfants",
-          "titre": "Contrôle santé mentale professions de la petite enfance assistantes maternelles",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11301"
         }
       ],
       "rapports": [
@@ -5965,6 +5965,22 @@
       "circo": "Seine-Maritime 5e circ.",
       "questions": [
         {
+          "numero": "Question écrite n° 17530",
+          "date": "4 août 2026",
+          "rubrique": "finances publiques",
+          "titre": "Responsabilité des gestionnaires publics locaux",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17530"
+        },
+        {
+          "numero": "Question écrite n° 17512",
+          "date": "4 août 2026",
+          "rubrique": "emploi et activité",
+          "titre": "Offre de repérage et de remobilisation",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17512"
+        },
+        {
           "numero": "Question écrite n° 17233",
           "date": "28 juillet 2026",
           "rubrique": "arts et spectacles",
@@ -6107,22 +6123,6 @@
           "titre": "Conditions de réussite du déploiement des SERM",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13226"
-        },
-        {
-          "numero": "Question écrite n° 13203",
-          "date": "24 février 2026",
-          "rubrique": "retraites : généralités",
-          "titre": "Versement trimestriel à terme échu des pensions de retraite",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13203"
-        },
-        {
-          "numero": "Question écrite n° 12548",
-          "date": "3 février 2026",
-          "rubrique": "automobiles",
-          "titre": "Fraudes du système d'immatriculation des véhicules",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12548"
         }
       ],
       "rapports": [
@@ -6909,6 +6909,14 @@
       "circo": "Seine-Maritime 8e circ.",
       "questions": [
         {
+          "numero": "Question écrite n° 17635",
+          "date": "4 août 2026",
+          "rubrique": "transports routiers",
+          "titre": "Travaux sur le tube Nord du tunel de Saint-Cloud",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17635"
+        },
+        {
           "numero": "Question écrite n° 15845",
           "date": "9 juin 2026",
           "rubrique": "prestations familiales",
@@ -7059,14 +7067,6 @@
           "titre": "Maintien des primes et indemnités de agents bénéficiant d'une décharge syndicale",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE1196"
-        },
-        {
-          "numero": "Question écrite n° 1000",
-          "date": "15 octobre 2024",
-          "rubrique": "professions judiciaires et juridiques",
-          "titre": "Protection judiciaire de la jeunesse (PJJ)",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE1000"
         }
       ],
       "rapports": [
@@ -7208,6 +7208,14 @@
           "titre": "Avenir de la filière solidaire de collecte et recyclage des bouchons plastiques",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17261"
+        },
+        {
+          "numero": "Question au Gouvernement n° 1735",
+          "date": null,
+          "rubrique": "environnement",
+          "titre": "Freins aux projets industriels décarbonés",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1735"
         },
         {
           "numero": "Question écrite n° 16549",
@@ -7352,14 +7360,6 @@
           "titre": "Traitement insuffisant des situations d'usurpation d'identité",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD532"
-        },
-        {
-          "numero": "Question écrite n° 12163",
-          "date": "13 janvier 2026",
-          "rubrique": "enseignement",
-          "titre": "Absence de financement des activités péri-éducatives en Seine-Maritime",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12163"
         }
       ],
       "rapports": [],
@@ -7442,6 +7442,38 @@
       "dept": "76",
       "circo": "Seine-Maritime 10e circ.",
       "questions": [
+        {
+          "numero": "Question écrite n° 17618",
+          "date": "4 août 2026",
+          "rubrique": "sécurité routière",
+          "titre": "Données sur l'évolution des retraits de points",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17618"
+        },
+        {
+          "numero": "Question écrite n° 17617",
+          "date": "4 août 2026",
+          "rubrique": "sécurité routière",
+          "titre": "Données sur les retraits de permis de conduire",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17617"
+        },
+        {
+          "numero": "Question écrite n° 17614",
+          "date": "4 août 2026",
+          "rubrique": "sécurité routière",
+          "titre": "Accidents impliquant des véhicules sans permis",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17614"
+        },
+        {
+          "numero": "Question écrite n° 17475",
+          "date": "4 août 2026",
+          "rubrique": "automobiles",
+          "titre": "Données sur l'évolution des immatriculations de voitures sans permis",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17475"
+        },
         {
           "numero": "Question écrite n° 17398",
           "date": "28 juillet 2026",
@@ -7569,38 +7601,6 @@
           "titre": "Importation et prise en charge de prothèses dentaires hors UE",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11651"
-        },
-        {
-          "numero": null,
-          "date": "2 décembre 2025",
-          "rubrique": "ruralité",
-          "titre": "Maintien et sanctuarisation de la DETR",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD474"
-        },
-        {
-          "numero": "Question écrite n° 8514",
-          "date": "15 juillet 2025",
-          "rubrique": "défense",
-          "titre": "Obligation vaccinale contre la covid-19 dans les armées",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE8514"
-        },
-        {
-          "numero": "Question écrite n° 7545",
-          "date": "17 juin 2025",
-          "rubrique": "étrangers",
-          "titre": "Augmentation des traversées illégales de migrants en Normandie",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE7545"
-        },
-        {
-          "numero": null,
-          "date": "3 juin 2025",
-          "rubrique": "mines et carrières",
-          "titre": "Suivi des recommandations du rapport relatif à la gestion des marnières",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD372"
         }
       ],
       "rapports": [
