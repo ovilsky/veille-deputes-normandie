@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T07:49:47",
+  "generated_at": "2026-08-11T07:15:10",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -4189,6 +4189,22 @@
       "circo": "Orne 1re circ.",
       "questions": [
         {
+          "numero": "Question écrite n° 17723",
+          "date": "11 août 2026",
+          "rubrique": "travail",
+          "titre": "Fermeture annuelle des entreprises et congés payés",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17723"
+        },
+        {
+          "numero": "Question écrite n° 17690",
+          "date": "11 août 2026",
+          "rubrique": "lieux de privation de liberté",
+          "titre": "Objectif « zéro contention »",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17690"
+        },
+        {
           "numero": "Question écrite n° 16453",
           "date": "30 juin 2026",
           "rubrique": "institutions sociales et médico sociales",
@@ -4331,22 +4347,6 @@
           "titre": "Décret n° 2025-468 concernant les PADHUE",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE8132"
-        },
-        {
-          "numero": "Question écrite n° 7282",
-          "date": "10 juin 2025",
-          "rubrique": "administration",
-          "titre": "Dysfonctionnement du site INPI",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE7282"
-        },
-        {
-          "numero": null,
-          "date": "3 juin 2025",
-          "rubrique": "lieux de privation de liberté",
-          "titre": "Prime en faveur des agents des établissements pénitentiaires de haute sécurité",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD375"
         }
       ],
       "rapports": [
@@ -5965,6 +5965,22 @@
       "circo": "Seine-Maritime 5e circ.",
       "questions": [
         {
+          "numero": "Question écrite n° 17680",
+          "date": "11 août 2026",
+          "rubrique": "État",
+          "titre": "Avantages des anciens Premiers ministres",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17680"
+        },
+        {
+          "numero": "Question écrite n° 17647",
+          "date": "11 août 2026",
+          "rubrique": "assurance maladie maternité",
+          "titre": "Baisse de la prise en charge par la sécurité sociale",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17647"
+        },
+        {
           "numero": "Question écrite n° 17530",
           "date": "4 août 2026",
           "rubrique": "finances publiques",
@@ -6107,22 +6123,6 @@
           "titre": "Situation des contrôleurs techniques",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13715"
-        },
-        {
-          "numero": "Question écrite n° 13383",
-          "date": "10 mars 2026",
-          "rubrique": "assurance maladie maternité",
-          "titre": "Appels payants pour les plateformes de tiers payant des mutuelles",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13383"
-        },
-        {
-          "numero": "Question écrite n° 13226",
-          "date": "24 février 2026",
-          "rubrique": "transports ferroviaires",
-          "titre": "Conditions de réussite du déploiement des SERM",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13226"
         }
       ],
       "rapports": [
