@@ -161,14 +161,24 @@ DOC_NUM_RE = re.compile(r"n°\s*(\d+)")
 
 TITLE_SUFFIX_RE = re.compile(r"\s-\s\d+e législature\s-\s")
 
+# Repère une référence courte sans thème ("Proposition n° 1234", "Rapport
+# n°1996 - Annexe 33", "Proposition de loi n° 827 rectifiée"...) — dans ce
+# cas on ira chercher le vrai thème sur la page du document lui-même.
+SHORT_REF_RE = re.compile(
+    r"^(Proposition(\s+de\s+loi|\s+de\s+résolution)?|Rapport)\s*n[°o]\s*\d+"
+    r"(\s*-\s*Annexe\s*\d+)?\s*(rectifi[ée]e?)?\s*$",
+    re.IGNORECASE
+)
 
-def fetch_rapport_theme(url):
-    """Pour un rapport dont le libellé sur la page de dépôts n'est qu'une
-    référence courte ("Rapport n°1996 - Annexe 33", fréquent pour les
-    rapports budgétaires par mission), va chercher le vrai thème sur la page
-    du document lui-même : son <title> contient le nom de la mission
-    budgétaire (ex. "Annexe 33 - Participations financières de l'État : ...
-    - 17e législature - Assemblée nationale")."""
+
+def fetch_document_theme(url):
+    """Pour un document (rapport ou proposition) dont le libellé sur la page
+    de dépôts n'est qu'une référence courte, va chercher le vrai thème sur la
+    page du document lui-même : son <title> le contient toujours (ex.
+    "Proposition de loi visant à moderniser la lutte contre la contrefaçon,
+    n° 827 - 17e législature - Assemblée nationale", ou "Annexe 33 -
+    Participations financières de l'État : ... - 17e législature -
+    Assemblée nationale")."""
     try:
         soup = get(url)
     except requests.RequestException:
@@ -178,7 +188,7 @@ def fetch_rapport_theme(url):
     raw = soup.title.string.strip()
     theme = TITLE_SUFFIX_RE.split(raw)[0].strip()
     theme = re.sub(r"\s-\sAssemblée nationale\s*$", "", theme).strip()
-    if not theme or theme.lower() in ("documents", "rapport"):
+    if not theme or theme.lower() in ("documents", "rapport", "proposition"):
         return None
     return theme
 
@@ -248,12 +258,13 @@ def fetch_documents(pa_id, type_document, max_pages=DOCUMENTS_MAX_PAGES):
 
             doc_url = href if href.startswith("http") else f"https://www.assemblee-nationale.fr{href}"
 
-            # Pas de description trouvée sur la page de listing (fréquent pour
-            # les rapports budgétaires par annexe) : on va chercher le thème
-            # directement sur la page du document — une requête de plus, mais
+            # Pas de vrai thème trouvé sur la page de listing — juste une
+            # référence courte (fréquent pour les rapports budgétaires par
+            # annexe, et pour certaines propositions) : on va le chercher sur
+            # la page du document lui-même. Une requête de plus, mais
             # seulement pour les documents qui en ont besoin.
-            if type_document == "rapport" and titre_complet == titre:
-                theme = fetch_rapport_theme(doc_url)
+            if SHORT_REF_RE.match(titre_complet):
+                theme = fetch_document_theme(doc_url)
                 if theme:
                     titre_complet = f"{theme} ({titre})"
                 time.sleep(REQUEST_DELAY)
