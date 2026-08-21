@@ -172,10 +172,14 @@ def fetch_documents(pa_id, type_document, max_pages=DOCUMENTS_MAX_PAGES):
             print(f"    ! documents({type_document}) page {page}: {e}", file=sys.stderr)
             break
 
-        # Chaque document a un lien dont le texte EST le titre complet
-        # (ex. "Proposition de loi visant à ..., n° 518") — confirmé en
-        # inspectant la page réelle. On ne remonte au bloc parent que pour
-        # trouver la date de dépôt, pas pour le titre.
+        # Chaque document a un lien de référence courte ("Rapport n°704") et,
+        # quand elle existe, une description complète juste à côté en texte
+        # simple ("Rapport sur la proposition de loi ... n° 704") — pas
+        # toujours présente (ex. annexes budgétaires "Rapport n°1996 - Annexe
+        # 33" n'ont souvent pas de description). Chaque item a aussi 2 liens de
+        # navigation redondants ("Accéder à la page du document", "Accéder au
+        # document au format pdf") qu'il faut ignorer, sinon ils sont comptés
+        # comme des documents distincts avec un "titre" inutile.
         items = soup.select("a[href]")
         found_this_page = 0
         for a in items:
@@ -183,19 +187,20 @@ def fetch_documents(pa_id, type_document, max_pages=DOCUMENTS_MAX_PAGES):
             titre = a.get_text(strip=True)
             if not href.startswith("/dyn/17/") or ("textes" not in href and "rapports" not in href):
                 continue
-            if not titre or len(titre) < 8:
-                continue  # lien icône/pagination sans texte utile
+            if not titre or len(titre) < 4:
+                continue
+            if titre.strip().lower().startswith(("accéder", "voir ", "partager")):
+                continue  # lien de navigation redondant, pas le vrai document
 
-            # Un même document apparaît parfois avec deux liens différents sur la
-            # page (ex. version .pdf ET version texte). On déduplique par son
-            # numéro ("n° 704") plutôt que par URL, pour ne le compter qu'une fois.
             num_m = DOC_NUM_RE.search(titre)
             dedup_key = num_m.group(1) if num_m else titre
             if dedup_key in seen_keys:
                 continue
             seen_keys.add(dedup_key)
 
-            # Remonte au bloc parent uniquement pour trouver la date de dépôt
+            # Remonte au bloc parent pour trouver la date de dépôt et, si elle
+            # existe, une ligne de description plus complète que la référence
+            # courte du lien.
             block = a
             block_text = ""
             for _ in range(4):
@@ -206,10 +211,20 @@ def fetch_documents(pa_id, type_document, max_pages=DOCUMENTS_MAX_PAGES):
                 if DATE_RE.search(block_text):
                     break
             date_m = DATE_RE.search(block_text)
+            date_val = date_m.group(1) if date_m else None
+
+            def is_noise(line):
+                l = line.strip()
+                ll = l.lower()
+                return (not l or l == titre or DATE_RE.search(l) or ll == "partager"
+                        or ll.startswith(("accéder", "http", "voir ")))
+
+            candidates = [l.strip() for l in block_text.split("\n") if not is_noise(l)]
+            titre_complet = max(candidates, key=len) if candidates else titre
 
             results.append({
-                "date": date_m.group(1) if date_m else None,
-                "titre": titre,
+                "date": date_val,
+                "titre": titre_complet,
                 "url": href if href.startswith("http") else f"https://www.assemblee-nationale.fr{href}",
             })
             found_this_page += 1
