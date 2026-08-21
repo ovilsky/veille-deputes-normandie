@@ -161,14 +161,13 @@ DOC_NUM_RE = re.compile(r"n°\s*(\d+)")
 
 TITLE_SUFFIX_RE = re.compile(r"\s-\s\d+e législature\s-\s")
 
-# Repère une référence courte sans thème ("Proposition n° 1234", "Rapport
-# n°1996 - Annexe 33", "Proposition de loi n° 827 rectifiée"...) — dans ce
-# cas on ira chercher le vrai thème sur la page du document lui-même.
-SHORT_REF_RE = re.compile(
-    r"^(Proposition(\s+de\s+loi|\s+de\s+résolution)?|Rapport)\s*n[°o]\s*\d+"
-    r"(\s*-\s*Annexe\s*\d+)?\s*(rectifi[ée]e?)?\s*$",
-    re.IGNORECASE
-)
+# Un vrai titre descriptif fait toujours au moins ~45-50 caractères en
+# pratique ("Proposition de loi visant à ..."). Une référence courte, quelle
+# que soit sa formulation exacte ("Rapport n°704", "Rapport d'information
+# n°3020", "Proposition de loi, n° 3042", "Rapport d'enquête n°..."), reste
+# toujours en dessous. Un seuil de longueur est plus robuste qu'une liste de
+# formulations possibles, forcément incomplète.
+SHORT_REF_MAX_LEN = 45
 
 
 def fetch_document_theme(url):
@@ -263,9 +262,14 @@ def fetch_documents(pa_id, type_document, max_pages=DOCUMENTS_MAX_PAGES):
             # annexe, et pour certaines propositions) : on va le chercher sur
             # la page du document lui-même. Une requête de plus, mais
             # seulement pour les documents qui en ont besoin.
-            if SHORT_REF_RE.match(titre_complet):
+            if len(titre_complet.strip()) < SHORT_REF_MAX_LEN:
                 theme = fetch_document_theme(doc_url)
-                if theme:
+                # N'enrichit que si le thème trouvé est vraiment plus complet
+                # que la référence courte déjà en main — sinon (le document
+                # lui-même n'a pas plus d'info, souvent le cas pour un texte
+                # très récemment déposé) on garde la référence courte telle
+                # quelle plutôt que de l'afficher deux fois pour rien.
+                if theme and len(theme) > len(titre_complet) + 10:
                     titre_complet = f"{theme} ({titre})"
                 time.sleep(REQUEST_DELAY)
 
