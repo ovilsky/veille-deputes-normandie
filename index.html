@@ -363,6 +363,98 @@
     color:var(--ink-soft);
     font-size:14px;
   }
+
+  .vote-card{
+    background:var(--white);
+    border:1px solid var(--line);
+    border-radius:6px;
+    padding:16px 18px;
+    margin-bottom:14px;
+  }
+  .vote-card-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:12px;
+    flex-wrap:wrap;
+  }
+  .vote-card-objet{
+    display:block;
+    font-size:14.5px;
+    color:var(--ink);
+    text-decoration:none;
+    margin-top:4px;
+    line-height:1.4;
+    max-width:640px;
+  }
+  .vote-card-objet:hover{color:var(--red);}
+  .vote-card-resultat{
+    display:inline-block;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10.5px;
+    text-transform:uppercase;
+    letter-spacing:.03em;
+    color:var(--ink-soft);
+    margin-top:6px;
+  }
+  .vote-csv-btn{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11.5px;
+    padding:6px 12px;
+    border-radius:5px;
+    border:1px solid var(--line);
+    background:var(--parchment);
+    color:var(--marine-2);
+    cursor:pointer;
+    white-space:nowrap;
+    transition:.15s;
+  }
+  .vote-csv-btn:hover{border-color:var(--ochre);color:var(--red);}
+
+  .vote-bar{
+    display:flex;
+    height:8px;
+    border-radius:4px;
+    overflow:hidden;
+    background:var(--parchment-2);
+    margin-top:12px;
+  }
+  .vote-bar-seg{height:100%;}
+  .vote-bar-pour{background:#2f6b3a;}
+  .vote-bar-contre{background:#8a2e2e;}
+  .vote-bar-abs{background:#b8862e;}
+  .vote-bar-legend{
+    display:flex;
+    gap:16px;
+    margin-top:6px;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10.5px;
+    color:var(--ink-soft);
+  }
+  .vote-bar-legend .dot{
+    display:inline-block;
+    width:7px;height:7px;
+    border-radius:50%;
+    margin-right:4px;
+  }
+
+  .vote-deputes{
+    margin-top:14px;
+    padding-top:12px;
+    border-top:1px solid var(--line);
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(260px, 1fr));
+    gap:6px 18px;
+  }
+  .vote-depute-row{
+    display:flex;
+    align-items:center;
+    gap:6px;
+    flex-wrap:wrap;
+    font-size:12.5px;
+    padding:3px 0;
+  }
+  .vote-depute-nom{color:var(--ink);min-width:150px;}
   footer{
     text-align:center;
     padding:24px;
@@ -424,6 +516,7 @@
       <tr><td>Interventions vidéo</td><td>Fiche AN — <code>/dyn/deputes/{PA}/interventions</code></td><td><b>Automatisé.</b> Les 2 interventions les plus récentes (commission ou séance), avec lien direct vers l'extrait vidéo horodaté.</td></tr>
       <tr><td>Amendements déposés</td><td>Aucune page par député trouvée ; uniquement un moteur de recherche global ou l'archive complète en XML/JSON</td><td>Hors périmètre pour l'instant (sur demande).</td></tr>
     </table>
+    <p><b>Vue « Positions de vote » :</b> les votes y sont regroupés par scrutin (et non plus un par député) — chaque carte montre le sujet, le résultat global, un graphique Pour/Contre/Abstention parmi les députés normands suivis, et la liste de leurs positions individuelles. Un bouton « ⬇ CSV » exporte les données de ce scrutin (député, département, groupe, position, conformité à son groupe).</p>
     <p><b>À propos des couleurs de groupe :</b> l'Assemblée nationale ne publie pas de couleur officielle par groupe politique. Les couleurs affichées suivent une convention éditoriale courante dans la presse française (proche de celle utilisée pour les graphiques d'hémicycle) — ce ne sont pas des couleurs officielles.</p>
     <p><b>Limite du badge « contre son groupe » :</b> il compare la position individuelle à la position <i>majoritaire</i> du groupe sur ce scrutin précis. Si le groupe est partagé de façon quasi égale (ex. 30 pour / 28 contre), le badge « dissident » peut apparaître alors que le vote reflète une vraie division interne plutôt qu'un désaccord isolé — le détail du décompte du groupe est inclus dans les données pour vérification.</p>
     <p><b>Mise à jour des données :</b> le script planifié réécrit directement ce fichier HTML chaque jour avec les données fraîches. Pas de serveur ni de manipulation nécessaire : il suffit d'ouvrir (ou de rafraîchir, si déjà ouvert) ce fichier pour voir les dernières données. Voir le guide d'installation fourni séparément.</p>
@@ -805,7 +898,18 @@ function buildChronoList(category){
   return items;
 }
 
+function groupeColorFor(pa){
+  const rec = ACTIVITY_DATA.deputes[pa];
+  const g = (rec && rec.groupe) || GROUPES_PAR_DEFAUT[pa] || '';
+  return {groupe: g, color: GROUP_COLORS[g] || DEFAULT_GROUP_COLOR};
+}
+
 function renderChrono(){
+  if(activeView === 'votes'){
+    renderVotesGrouped();
+    return;
+  }
+
   const container = document.getElementById('chronoResults');
   let entries = buildChronoList(activeView);
 
@@ -822,22 +926,11 @@ function renderChrono(){
     return;
   }
 
-  const groupeColorFor = (pa) => {
-    const rec = ACTIVITY_DATA.deputes[pa];
-    const g = (rec && rec.groupe) || GROUPES_PAR_DEFAUT[pa] || '';
-    return {groupe: g, color: GROUP_COLORS[g] || DEFAULT_GROUP_COLOR};
-  };
-
   container.innerHTML = entries.map(({item, depute}) => {
     const gc = groupeColorFor(depute.pa);
     const titre = item.titre || item.objet || '(sans titre)';
     let extra = '';
-    if(activeView === 'votes'){
-      const posClass = item.position === 'Pour' ? 'qe-pos-pour' : item.position === 'Contre' ? 'qe-pos-contre' : 'qe-pos-abs';
-      extra = `<span class="qe-statut ${posClass}">${item.position || ''}</span>`;
-      if(item.conforme_groupe === true) extra += `<span class="qe-conforme qe-conforme-oui">comme son groupe</span>`;
-      else if(item.conforme_groupe === false) extra += `<span class="qe-conforme qe-conforme-non">⚡ contre son groupe</span>`;
-    } else if(activeView === 'questions' && item.statut){
+    if(activeView === 'questions' && item.statut){
       extra = `<span class="qe-statut">${item.statut === 'Question sans réponse' ? '· sans réponse' : item.statut.startsWith('Réponse') ? '· répondue' : ''}</span>`;
     }
     return `
@@ -853,6 +946,135 @@ function renderChrono(){
         </span>
       </a>`;
   }).join('');
+}
+
+// ---------- Votes : regroupés par scrutin, avec graphique et export CSV ----------
+
+let voteGroupsCache = [];
+
+function buildVoteGroups(){
+  const entries = buildChronoList('votes');
+  const byUrl = new Map();
+  entries.forEach(({item, depute}) => {
+    const key = item.url;
+    if(!byUrl.has(key)){
+      byUrl.set(key, {url: item.url, date: item.date, objet: item.objet, resultat: item.resultat, items: []});
+    }
+    byUrl.get(key).items.push({item, depute});
+  });
+  const groups = Array.from(byUrl.values());
+  groups.sort((a, b) => {
+    const da = parseFrenchDate(a.date), db = parseFrenchDate(b.date);
+    if(!da && !db) return 0;
+    if(!da) return 1;
+    if(!db) return -1;
+    return db - da;
+  });
+  return groups;
+}
+
+function csvEscape(val){
+  const s = String(val == null ? '' : val);
+  if(/[;"\n]/.test(s)) return '"' + s.replace(/"/g, '""') + '"';
+  return s;
+}
+
+function downloadVoteCSV(groupIdx){
+  const group = voteGroupsCache[groupIdx];
+  if(!group) return;
+  const header = ['Député', 'Département', 'Groupe politique', 'Position', 'Conforme à son groupe', 'Date', 'Objet du scrutin', 'Lien'];
+  const rows = group.items.map(({item, depute}) => {
+    const gc = groupeColorFor(depute.pa);
+    const conforme = item.conforme_groupe === true ? 'Oui' : item.conforme_groupe === false ? 'Non' : 'Non déterminé';
+    return [depute.nom, DEPT_NAMES[depute.dept], gc.groupe, item.position || '', conforme, item.date || '', group.objet || '', item.url || ''];
+  });
+  const csv = [header, ...rows].map(r => r.map(csvEscape).join(';')).join('\r\n');
+  const blob = new Blob(['\ufeff' + csv], {type: 'text/csv;charset=utf-8;'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  const scrutinNum = (group.objet.match(/n°\s*(\d+)/) || [,'scrutin'])[1];
+  a.href = url;
+  a.download = `vote-scrutin-${scrutinNum}.csv`;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+}
+
+function renderVotesGrouped(){
+  const container = document.getElementById('chronoResults');
+  let groups = buildVoteGroups();
+
+  if(chronoQuery.trim()){
+    const q = chronoQuery.trim().toLowerCase();
+    groups = groups
+      .map(g => {
+        const objetMatch = (g.objet || '').toLowerCase().includes(q);
+        if(objetMatch) return g; // l'objet matche : on garde tous les députés du scrutin
+        const filteredItems = g.items.filter(({depute}) => depute.nom.toLowerCase().includes(q));
+        return filteredItems.length ? {...g, items: filteredItems} : null;
+      })
+      .filter(Boolean);
+  }
+
+  voteGroupsCache = groups;
+
+  if(groups.length === 0){
+    container.innerHTML = '<div class="chrono-empty">Rien à afficher — pas encore extrait, ou aucun résultat pour cette recherche.</div>';
+    return;
+  }
+
+  container.innerHTML = groups.map((g, idx) => {
+    const counts = {Pour: 0, Contre: 0, Abstention: 0};
+    g.items.forEach(({item}) => { if(counts[item.position] !== undefined) counts[item.position]++; });
+    const total = g.items.length || 1;
+    const bar = ['Pour', 'Contre', 'Abstention'].map(pos => {
+      const pct = Math.round((counts[pos] / total) * 100);
+      if(counts[pos] === 0) return '';
+      const cls = pos === 'Pour' ? 'vote-bar-pour' : pos === 'Contre' ? 'vote-bar-contre' : 'vote-bar-abs';
+      return `<span class="vote-bar-seg ${cls}" style="width:${pct}%" title="${pos} : ${counts[pos]}"></span>`;
+    }).join('');
+
+    const deputeRows = g.items
+      .sort((a, b) => a.depute.nom.localeCompare(b.depute.nom))
+      .map(({item, depute}) => {
+        const gc = groupeColorFor(depute.pa);
+        const posClass = item.position === 'Pour' ? 'qe-pos-pour' : item.position === 'Contre' ? 'qe-pos-contre' : 'qe-pos-abs';
+        let conformeBadge = '';
+        if(item.conforme_groupe === true) conformeBadge = `<span class="qe-conforme qe-conforme-oui">comme son groupe</span>`;
+        else if(item.conforme_groupe === false) conformeBadge = `<span class="qe-conforme qe-conforme-non">⚡ contre son groupe</span>`;
+        return `
+          <div class="vote-depute-row">
+            <span class="vote-depute-nom">${depute.nom}</span>
+            <span class="card-groupe" style="background:${gc.color.bg};color:${gc.color.fg}"><span class="dot" style="background:${gc.color.fg}"></span>${gc.groupe}</span>
+            <span class="qe-statut ${posClass}">${item.position || ''}</span>
+            ${conformeBadge}
+          </div>`;
+      }).join('');
+
+    return `
+      <div class="vote-card">
+        <div class="vote-card-header">
+          <div>
+            <span class="chrono-date">${g.date || 'date inconnue'}</span>
+            <a class="vote-card-objet" href="${g.url}" target="_blank" rel="noopener">${g.objet || '(objet inconnu)'}</a>
+            ${g.resultat ? `<span class="vote-card-resultat">${g.resultat}</span>` : ''}
+          </div>
+          <button class="vote-csv-btn" data-idx="${idx}">⬇ CSV</button>
+        </div>
+        <div class="vote-bar" title="${g.items.length} député(s) normand(s) sur ce scrutin">${bar}</div>
+        <div class="vote-bar-legend">
+          <span><span class="dot" style="background:#2f6b3a"></span>Pour (${counts.Pour})</span>
+          <span><span class="dot" style="background:#8a2e2e"></span>Contre (${counts.Contre})</span>
+          <span><span class="dot" style="background:#b8862e"></span>Abstention (${counts.Abstention})</span>
+        </div>
+        <div class="vote-deputes">${deputeRows}</div>
+      </div>`;
+  }).join('');
+
+  container.querySelectorAll('.vote-csv-btn').forEach(btn => {
+    btn.addEventListener('click', () => downloadVoteCSV(parseInt(btn.dataset.idx, 10)));
+  });
 }
 
 document.getElementById('chronoSearchInput').addEventListener('input', (e) => {
