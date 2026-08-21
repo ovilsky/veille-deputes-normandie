@@ -48,34 +48,34 @@ HEADERS = {
 }
 
 DEPUTES = [
-    {"nom": "Joël Bruneau", "dept": "14", "circo": "Calvados 1re circ.", "pa": "PA840817"},
-    {"nom": "Arthur Delaporte", "dept": "14", "circo": "Calvados 2e circ.", "pa": "PA793394"},
-    {"nom": "Jérémie Patrier-Leitus", "dept": "14", "circo": "Calvados 3e circ.", "pa": "PA793398"},
-    {"nom": "Christophe Blanchet", "dept": "14", "circo": "Calvados 4e circ.", "pa": "PA719024"},
-    {"nom": "Bertrand Bouyx", "dept": "14", "circo": "Calvados 5e circ.", "pa": "PA719032"},
-    {"nom": "Élisabeth Borne", "dept": "14", "circo": "Calvados 6e circ.", "pa": "PA717161"},
-    {"nom": "Christine Loir", "dept": "27", "circo": "Eure 1re circ.", "pa": "PA793672"},
-    {"nom": "Katiana Levavasseur", "dept": "27", "circo": "Eure 2e circ.", "pa": "PA793608"},
-    {"nom": "Kévin Mauvieux", "dept": "27", "circo": "Eure 3e circ.", "pa": "PA793616"},
-    {"nom": "Philippe Brun", "dept": "27", "circo": "Eure 4e circ.", "pa": "PA793624"},
-    {"nom": "Timothée Houssin", "dept": "27", "circo": "Eure 5e circ.", "pa": "PA793632"},
-    {"nom": "Philippe Gosselin", "dept": "50", "circo": "Manche 1re circ.", "pa": "PA266797"},
-    {"nom": "Bertrand Sorre", "dept": "50", "circo": "Manche 2e circ.", "pa": "PA720190"},
-    {"nom": "Stéphane Travert", "dept": "50", "circo": "Manche 3e circ.", "pa": "PA607395"},
-    {"nom": "Anna Pic", "dept": "50", "circo": "Manche 4e circ.", "pa": "PA794270"},
-    {"nom": "Chantal Jourdan", "dept": "61", "circo": "Orne 1re circ.", "pa": "PA643192"},
-    {"nom": "Thierry Liger", "dept": "61", "circo": "Orne 2e circ.", "pa": "PA794750"},
-    {"nom": "Cendrine Chazé", "dept": "61", "circo": "Orne 3e circ.", "pa": "PA841595"},
-    {"nom": "Florence Herouin-Léautey", "dept": "76", "circo": "Seine-Maritime 1re circ.", "pa": "PA841813"},
-    {"nom": "Annie Vidal", "dept": "76", "circo": "Seine-Maritime 2e circ.", "pa": "PA722102"},
-    {"nom": "Édouard Bénard", "dept": "76", "circo": "Seine-Maritime 3e circ.", "pa": "PA796106"},
-    {"nom": "Alma Dufour", "dept": "76", "circo": "Seine-Maritime 4e circ.", "pa": "PA795200"},
-    {"nom": "Gérard Leseul", "dept": "76", "circo": "Seine-Maritime 5e circ.", "pa": "PA774958"},
-    {"nom": "Patrice Martin", "dept": "76", "circo": "Seine-Maritime 6e circ.", "pa": "PA841825"},
-    {"nom": "Agnès Firmin Le Bodo", "dept": "76", "circo": "Seine-Maritime 7e circ.", "pa": "PA267780"},
-    {"nom": "Jean-Paul Lecoq", "dept": "76", "circo": "Seine-Maritime 8e circ.", "pa": "PA335612"},
-    {"nom": "Marie-Agnès Poussier-Winsback", "dept": "76", "circo": "Seine-Maritime 9e circ.", "pa": "PA795270"},
-    {"nom": "Robert Le Bourgeois", "dept": "76", "circo": "Seine-Maritime 10e circ.", "pa": "PA841837"},
+    {"nom": "Joël Bruneau", "dept": "14", "circo": "Calvados 1re circ.", "pa": "PA840817", "groupe": "Libertés, Indépendants, Outre-mer et Territoires"},
+    {"nom": "Arthur Delaporte", "dept": "14", "circo": "Calvados 2e circ.", "pa": "PA793394", "groupe": "Socialistes et apparentés"},
+    {"nom": "Jérémie Patrier-Leitus", "dept": "14", "circo": "Calvados 3e circ.", "pa": "PA793398", "groupe": "Horizons & Indépendants"},
+    {"nom": "Christophe Blanchet", "dept": "14", "circo": "Calvados 4e circ.", "pa": "PA719024", "groupe": "Les Démocrates"},
+    {"nom": "Bertrand Bouyx", "dept": "14", "circo": "Calvados 5e circ.", "pa": "PA719032", "groupe": "Horizons & Indépendants"},
+    {"nom": "Élisabeth Borne", "dept": "14", "circo": "Calvados 6e circ.", "pa": "PA717161", "groupe": "Ensemble pour la République"},
+    {"nom": "Christine Loir", "dept": "27", "circo": "Eure 1re circ.", "pa": "PA793672", "groupe": "Rassemblement National"},
+    {"nom": "Katiana Levavasseur", "dept": "27", "circo": "Eure 2e circ.", "pa": "PA793608", "groupe": "Rassemblement National"},
+    {"nom": "Kévin Mauvieux", "dept": "27", "circo": "Eure 3e circ.", "pa": "PA793616", "groupe": "Rassemblement National"},
+    {"nom": "Philippe Brun", "dept": "27", "circo": "Eure 4e circ.", "pa": "PA793624", "groupe": "Socialistes et apparentés"},
+    {"nom": "Timothée Houssin", "dept": "27", "circo": "Eure 5e circ.", "pa": "PA793632", "groupe": "Rassemblement National"},
+    {"nom": "Philippe Gosselin", "dept": "50", "circo": "Manche 1re circ.", "pa": "PA266797", "groupe": "Droite Républicaine"},
+    {"nom": "Bertrand Sorre", "dept": "50", "circo": "Manche 2e circ.", "pa": "PA720190", "groupe": "Ensemble pour la République"},
+    {"nom": "Stéphane Travert", "dept": "50", "circo": "Manche 3e circ.", "pa": "PA607395", "groupe": "Ensemble pour la République"},
+    {"nom": "Anna Pic", "dept": "50", "circo": "Manche 4e circ.", "pa": "PA794270", "groupe": "Socialistes et apparentés"},
+    {"nom": "Chantal Jourdan", "dept": "61", "circo": "Orne 1re circ.", "pa": "PA643192", "groupe": "Socialistes et apparentés"},
+    {"nom": "Thierry Liger", "dept": "61", "circo": "Orne 2e circ.", "pa": "PA794750", "groupe": "Droite Républicaine"},
+    {"nom": "Cendrine Chazé", "dept": "61", "circo": "Orne 3e circ.", "pa": "PA841595", "groupe": "Droite Républicaine"},
+    {"nom": "Florence Herouin-Léautey", "dept": "76", "circo": "Seine-Maritime 1re circ.", "pa": "PA841813", "groupe": "Socialistes et apparentés"},
+    {"nom": "Annie Vidal", "dept": "76", "circo": "Seine-Maritime 2e circ.", "pa": "PA722102", "groupe": "Ensemble pour la République"},
+    {"nom": "Édouard Bénard", "dept": "76", "circo": "Seine-Maritime 3e circ.", "pa": "PA796106", "groupe": "Gauche Démocrate et Républicaine"},
+    {"nom": "Alma Dufour", "dept": "76", "circo": "Seine-Maritime 4e circ.", "pa": "PA795200", "groupe": "La France insoumise - Nouveau Front Populaire"},
+    {"nom": "Gérard Leseul", "dept": "76", "circo": "Seine-Maritime 5e circ.", "pa": "PA774958", "groupe": "Socialistes et apparentés"},
+    {"nom": "Patrice Martin", "dept": "76", "circo": "Seine-Maritime 6e circ.", "pa": "PA841825", "groupe": "Rassemblement National"},
+    {"nom": "Agnès Firmin Le Bodo", "dept": "76", "circo": "Seine-Maritime 7e circ.", "pa": "PA267780", "groupe": "Horizons & Indépendants"},
+    {"nom": "Jean-Paul Lecoq", "dept": "76", "circo": "Seine-Maritime 8e circ.", "pa": "PA335612", "groupe": "Gauche Démocrate et Républicaine"},
+    {"nom": "Marie-Agnès Poussier-Winsback", "dept": "76", "circo": "Seine-Maritime 9e circ.", "pa": "PA795270", "groupe": "Horizons & Indépendants"},
+    {"nom": "Robert Le Bourgeois", "dept": "76", "circo": "Seine-Maritime 10e circ.", "pa": "PA841837", "groupe": "Rassemblement National"},
 ]
 
 QUESTIONS_MAX_PAGES = 2   # 10 résultats/page
@@ -156,8 +156,12 @@ def fetch_questions(pa_id):
 
 # ---------- Rapports & propositions (documents?typeDocument=...) ----------
 
+DOC_NUM_RE = re.compile(r"n°\s*(\d+)")
+
+
 def fetch_documents(pa_id, type_document, max_pages=DOCUMENTS_MAX_PAGES):
     results = []
+    seen_keys = set()
     for page in range(1, max_pages + 1):
         url = f"https://www.assemblee-nationale.fr/dyn/deputes/{pa_id}/documents?typeDocument={type_document}"
         if page > 1:
@@ -168,19 +172,30 @@ def fetch_documents(pa_id, type_document, max_pages=DOCUMENTS_MAX_PAGES):
             print(f"    ! documents({type_document}) page {page}: {e}", file=sys.stderr)
             break
 
-        # Chaque document a un lien "Accéder à la page du document"
+        # Chaque document a un lien dont le texte EST le titre complet
+        # (ex. "Proposition de loi visant à ..., n° 518") — confirmé en
+        # inspectant la page réelle. On ne remonte au bloc parent que pour
+        # trouver la date de dépôt, pas pour le titre.
         items = soup.select("a[href]")
         found_this_page = 0
-        seen_urls = set()
         for a in items:
             href = a.get("href", "")
-            text = a.get_text(strip=True)
-            if not href.startswith("/dyn/17/") or "textes" not in href and "rapports" not in href:
+            titre = a.get_text(strip=True)
+            if not href.startswith("/dyn/17/") or ("textes" not in href and "rapports" not in href):
                 continue
-            if href in seen_urls:
+            if not titre or len(titre) < 8:
+                continue  # lien icône/pagination sans texte utile
+
+            # Un même document apparaît parfois avec deux liens différents sur la
+            # page (ex. version .pdf ET version texte). On déduplique par son
+            # numéro ("n° 704") plutôt que par URL, pour ne le compter qu'une fois.
+            num_m = DOC_NUM_RE.search(titre)
+            dedup_key = num_m.group(1) if num_m else titre
+            if dedup_key in seen_keys:
                 continue
-            seen_urls.add(href)
-            # Remonte au bloc contenant le titre complet + la date de dépôt
+            seen_keys.add(dedup_key)
+
+            # Remonte au bloc parent uniquement pour trouver la date de dépôt
             block = a
             block_text = ""
             for _ in range(4):
@@ -188,12 +203,10 @@ def fetch_documents(pa_id, type_document, max_pages=DOCUMENTS_MAX_PAGES):
                     break
                 block = block.parent
                 block_text = block.get_text("\n", strip=True)
-                if DATE_RE.search(block_text) and len(block_text) > len(text):
+                if DATE_RE.search(block_text):
                     break
             date_m = DATE_RE.search(block_text)
-            # Le titre le plus long trouvé dans le bloc est en général le libellé complet du document
-            lines = [l.strip() for l in block_text.split("\n") if l.strip()]
-            titre = max(lines, key=len) if lines else text
+
             results.append({
                 "date": date_m.group(1) if date_m else None,
                 "titre": titre,
@@ -212,8 +225,117 @@ POSITION_RE = re.compile(r"^(Pour|Contre|Abstention)$", re.MULTILINE)
 SCRUTIN_RE = re.compile(r"(Scrutin public n°\s*\d+ sur [^\n]+?)\s*(?:\n|$)")
 RESULT_RE = re.compile(r"(L'Assemblée nationale a adopté|L'Assemblée nationale n'a pas adopté)")
 
+# Cache en mémoire : un même scrutin est souvent partagé par plusieurs
+# députés normands dans une même exécution, pas la peine de le refetcher.
+_scrutin_group_cache = {}
 
-def fetch_votes(pa_id, max_pages=VOTES_MAX_PAGES):
+GROUP_POSITION_LINE_RE = re.compile(r"^(Pour|Contre|Abstention|Non votant)\s*:\s*(\d+)$")
+
+
+def fetch_scrutin_group_breakdown(scrutin_url):
+    """Récupère, pour un scrutin donné, le nombre de voix Pour/Contre/Abstention
+    par groupe politique (section "Votes des groupes" de la page d'analyse du
+    scrutin). Résultat mis en cache pour ne pas refetcher deux fois le même
+    scrutin. Retourne {nom_du_groupe: {"Pour": N, "Contre": N, ...}}."""
+    if scrutin_url in _scrutin_group_cache:
+        return _scrutin_group_cache[scrutin_url]
+
+    result = {}
+    try:
+        soup = get(scrutin_url)
+        text = soup.get_text("\n")
+        lines = [l.strip() for l in text.split("\n")]
+        start_idx = next((i for i, l in enumerate(lines) if l == "Votes des groupes"), None)
+        if start_idx is not None:
+            current_group = None
+            for line in lines[start_idx + 1:]:
+                if not line:
+                    continue
+                m = GROUP_POSITION_LINE_RE.match(line)
+                if m and current_group:
+                    result.setdefault(current_group, {})[m.group(1)] = int(m.group(2))
+                elif not m:
+                    if any(stop in line for stop in ("Mentions légales", "LCP", "OPEN DATA", "Assemblée nationale -")):
+                        break
+                    current_group = line
+    except requests.RequestException as e:
+        print(f"    ! scrutin {scrutin_url}: {e}", file=sys.stderr)
+
+    _scrutin_group_cache[scrutin_url] = result
+    return result
+
+
+def majority_position(counts):
+    """Position majoritaire d'un groupe pour un scrutin, en ignorant les
+    non-votants (sauf s'il n'y a que ça)."""
+    if not counts:
+        return None
+    substantive = {k: v for k, v in counts.items() if k != "Non votant"}
+    pool = substantive if substantive else counts
+    return max(pool, key=pool.get)
+
+
+DATE_FR_LINE_RE = re.compile(
+    r"^(lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche)\s+\d{1,2}\s+"
+    r"(janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre)\s+\d{4}$"
+)
+
+
+def fetch_interventions(pa_id, max_items=2):
+    """Récupère les dernières interventions vidéo d'un député (commission et
+    séance publique). page=1 renvoie les plus récentes en premier (vérifié :
+    la page 1 montre des dates de juillet 2026, la page 31 des dates de fin
+    2024 — tri anti-chronologique confirmé)."""
+    url = f"https://www.assemblee-nationale.fr/dyn/deputes/{pa_id}/interventions?page=1&limit={max_items}"
+    try:
+        soup = get(url)
+    except requests.RequestException as e:
+        print(f"    ! interventions: {e}", file=sys.stderr)
+        return []
+
+    results = []
+    seen = set()
+    video_links = [a for a in soup.select("a[href*='/dyn/videos/']") if "timeCode" in a.get("href", "")]
+    for a in video_links:
+        href = a.get("href", "")
+        if href in seen:
+            continue
+        seen.add(href)
+
+        block = a
+        block_text = ""
+        for _ in range(6):
+            if block.parent is None:
+                break
+            block = block.parent
+            block_text = block.get_text("\n", strip=True)
+            if "partager" in block_text.lower():
+                break
+
+        lines = [l.strip() for l in block_text.split("\n") if l.strip()]
+        date_val, titre_val = None, None
+        for i, line in enumerate(lines):
+            if DATE_FR_LINE_RE.match(line):
+                date_val = line
+                for line2 in lines[i + 1:]:
+                    if line2.lower() == "partager":
+                        break
+                    titre_val = line2
+                    break
+                break
+
+        if titre_val:
+            results.append({
+                "date": date_val,
+                "titre": titre_val,
+                "url": href if href.startswith("http") else f"https://www.assemblee-nationale.fr{href}",
+            })
+        if len(results) >= max_items:
+            break
+    return results
+
+
+def fetch_votes(pa_id, groupe, max_pages=VOTES_MAX_PAGES):
     results = []
     for page in range(1, max_pages + 1):
         url = f"https://www.assemblee-nationale.fr/dyn/deputes/{pa_id}/positions-de-vote"
@@ -248,13 +370,28 @@ def fetch_votes(pa_id, max_pages=VOTES_MAX_PAGES):
             pos_m = POSITION_RE.search(text)
             result_m = RESULT_RE.search(text)
 
+            scrutin_url = href if href.startswith("http") else f"https://www.assemblee-nationale.fr{href}"
+
+            # Compare le vote individuel à la position majoritaire de son groupe
+            # pour ce scrutin (source : section "Votes des groupes" de la page
+            # d'analyse du scrutin — un appel réseau de plus par vote, mis en
+            # cache car plusieurs députés normands votent souvent sur les mêmes
+            # scrutins).
+            group_breakdown = fetch_scrutin_group_breakdown(scrutin_url)
+            group_counts = group_breakdown.get(groupe, {})
+            groupe_majorite = majority_position(group_counts)
+            position = pos_m.group(1) if pos_m else None
+            conforme_groupe = (position == groupe_majorite) if (position and groupe_majorite) else None
+
             results.append({
                 "date": date_m.group(1) if date_m else None,
                 "objet": scrutin_m.group(1).strip() if scrutin_m else link.get_text(strip=True),
-                "position": pos_m.group(1) if pos_m else None,
+                "position": position,
                 "resultat": ("Adopté" if result_m and "a adopté" in result_m.group(1) else
                              "Rejeté" if result_m else None),
-                "url": href if href.startswith("http") else f"https://www.assemblee-nationale.fr{href}",
+                "url": scrutin_url,
+                "conforme_groupe": conforme_groupe,
+                "detail_groupe": group_counts if group_counts else None,
             })
             found += 1
         if found == 0:
@@ -311,6 +448,7 @@ def main():
             "rapports": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/documents?typeDocument=rapport",
             "propositions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/documents?typeDocument=proposition",
             "votes": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/positions-de-vote",
+            "interventions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/interventions",
         },
         "deputes": {},
     }
@@ -323,17 +461,21 @@ def main():
         print(f"    {len(rapports)} rapport(s)")
         propositions = fetch_documents(depute["pa"], "proposition")
         print(f"    {len(propositions)} proposition(s)")
-        votes = fetch_votes(depute["pa"])
+        votes = fetch_votes(depute["pa"], depute["groupe"])
         print(f"    {len(votes)} position(s) de vote (page la plus récente)")
+        interventions = fetch_interventions(depute["pa"])
+        print(f"    {len(interventions)} intervention(s) vidéo")
 
         output["deputes"][depute["pa"]] = {
             "nom": depute["nom"],
             "dept": depute["dept"],
             "circo": depute["circo"],
+            "groupe": depute["groupe"],
             "questions": questions,
             "rapports": rapports,
             "propositions": propositions,
             "votes": votes,
+            "interventions": interventions,
         }
 
     with open("activite-data.json", "w", encoding="utf-8") as f:
