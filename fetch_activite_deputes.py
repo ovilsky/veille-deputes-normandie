@@ -159,6 +159,30 @@ def fetch_questions(pa_id):
 DOC_NUM_RE = re.compile(r"n°\s*(\d+)")
 
 
+TITLE_SUFFIX_RE = re.compile(r"\s-\s\d+e législature\s-\s")
+
+
+def fetch_rapport_theme(url):
+    """Pour un rapport dont le libellé sur la page de dépôts n'est qu'une
+    référence courte ("Rapport n°1996 - Annexe 33", fréquent pour les
+    rapports budgétaires par mission), va chercher le vrai thème sur la page
+    du document lui-même : son <title> contient le nom de la mission
+    budgétaire (ex. "Annexe 33 - Participations financières de l'État : ...
+    - 17e législature - Assemblée nationale")."""
+    try:
+        soup = get(url)
+    except requests.RequestException:
+        return None
+    if not soup.title or not soup.title.string:
+        return None
+    raw = soup.title.string.strip()
+    theme = TITLE_SUFFIX_RE.split(raw)[0].strip()
+    theme = re.sub(r"\s-\sAssemblée nationale\s*$", "", theme).strip()
+    if not theme or theme.lower() in ("documents", "rapport"):
+        return None
+    return theme
+
+
 def fetch_documents(pa_id, type_document, max_pages=DOCUMENTS_MAX_PAGES):
     results = []
     seen_keys = set()
@@ -222,10 +246,22 @@ def fetch_documents(pa_id, type_document, max_pages=DOCUMENTS_MAX_PAGES):
             candidates = [l.strip() for l in block_text.split("\n") if not is_noise(l)]
             titre_complet = max(candidates, key=len) if candidates else titre
 
+            doc_url = href if href.startswith("http") else f"https://www.assemblee-nationale.fr{href}"
+
+            # Pas de description trouvée sur la page de listing (fréquent pour
+            # les rapports budgétaires par annexe) : on va chercher le thème
+            # directement sur la page du document — une requête de plus, mais
+            # seulement pour les documents qui en ont besoin.
+            if type_document == "rapport" and titre_complet == titre:
+                theme = fetch_rapport_theme(doc_url)
+                if theme:
+                    titre_complet = f"{theme} ({titre})"
+                time.sleep(REQUEST_DELAY)
+
             results.append({
                 "date": date_val,
                 "titre": titre_complet,
-                "url": href if href.startswith("http") else f"https://www.assemblee-nationale.fr{href}",
+                "url": doc_url,
             })
             found_this_page += 1
         if found_this_page == 0:
