@@ -486,11 +486,8 @@
   <div class="masthead-inner">
     <p class="eyebrow">Prototype v1 — usage interne rédaction</p>
     <h1>Veille des députés normands</h1>
-    <p>Répertoire consolidé des 28 députés des cinq départements normands, avec accès direct aux votes, textes, questions écrites et amendements. Bâti à partir de l'open data de l'Assemblée nationale et de CIVIX.</p>
-  </div>
-  <div class="scope-banner">
-    <b>Note de périmètre :</b> l'API CIVIX couvre les votes, scrutins, dossiers législatifs et fiches députés. Questions écrites, rapports, propositions de loi et positions de vote viennent des fiches officielles de l'Assemblée nationale et sont désormais affichés ci-dessous. Les amendements déposés restent hors périmètre (pas de source par député exploitable simplement).
-    <br><span id="dataFreshness" style="opacity:.8"></span>
+    <p>Répertoire consolidé des 28 députés des cinq départements normands, avec accès direct aux votes, textes, questions écrites et interventions vidéo.</p>
+    <p id="dataFreshness" style="opacity:.75;font-size:13px;margin-top:10px;"></p>
   </div>
 </div>
 
@@ -518,7 +515,7 @@
     <div id="chronoResults"></div>
   </div>
 
-  <div class="legend">
+  <div id="aboutView" class="legend" style="display:none">
     <h2>Note méthodologique</h2>
     <p>Cet outil v1 est un <b>répertoire curé</b>, pas encore un flux automatisé. Il pointe vers les bonnes sources pour chaque type de suivi, en attendant le branchement de l'automatisation (étape 2).</p>
     <table>
@@ -857,6 +854,7 @@ const VIEW_TABS = [
   {id:'propositions', label:'Propositions de loi'},
   {id:'votes', label:'Positions de vote'},
   {id:'interventions', label:'Vidéos'},
+  {id:'about', label:'À propos'},
 ];
 
 let activeView = 'dept';
@@ -879,9 +877,12 @@ function switchView(viewId){
   activeView = viewId;
   buildViewTabs();
   const isDept = viewId === 'dept';
+  const isAbout = viewId === 'about';
+  const isChrono = !isDept && !isAbout;
   document.getElementById('deptView').style.display = isDept ? '' : 'none';
-  document.getElementById('chronoView').style.display = isDept ? 'none' : '';
-  if(!isDept){
+  document.getElementById('chronoView').style.display = isChrono ? '' : 'none';
+  document.getElementById('aboutView').style.display = isAbout ? '' : 'none';
+  if(isChrono){
     buildChronoDeptFilters();
     renderChrono();
   }
