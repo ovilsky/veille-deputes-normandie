@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:19:31",
+  "generated_at": "2026-09-15T11:26:03",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -546,8 +546,142 @@
           "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1113_proposition-resolution-europeenne"
         }
       ],
-      "votes": [],
-      "interventions": []
+      "votes": [
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 56,
+            "Abstention": 1
+          }
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 19,
+            "Abstention": 1
+          }
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+          "conforme_groupe": false,
+          "detail_groupe": {
+            "Pour": 30,
+            "Abstention": 28
+          }
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 63
+          }
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 9,
+            "Contre": 20,
+            "Abstention": 4
+          }
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 15,
+            "Contre": 17,
+            "Abstention": 1
+          }
+        },
+        {
+          "date": "20 juillet 2026",
+          "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 66,
+            "Abstention": 2
+          }
+        },
+        {
+          "date": "20 juillet 2026",
+          "objet": "Scrutin public n°8426 sur l'amendement n° 1 de M. Jean-René Cazeneuve au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8426",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 37,
+            "Abstention": 2
+          }
+        },
+        {
+          "date": "20 juillet 2026",
+          "objet": "Scrutin public n°8425 sur l'amendement n° 8 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8425",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 35,
+            "Contre": 1,
+            "Abstention": 3
+          }
+        },
+        {
+          "date": "20 juillet 2026",
+          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 33,
+            "Abstention": 2
+          }
+        }
+      ],
+      "interventions": [
+        {
+          "date": "mardi 21 juillet 2026",
+          "titre": "1ère séance : Questions au Gouvernement ; Protection des enfants (vote solennel) ; Protéger les mineurs des réseaux sociaux (CMP)",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19400643?timeCode=16203.76&depute=PA793394"
+        },
+        {
+          "date": "mardi 21 juillet 2026",
+          "titre": "1ère séance : Questions au Gouvernement ; Protection des enfants (vote solennel) ; Protéger les mineurs des réseaux sociaux (CMP)",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19400643?timeCode=14296.3&depute=PA793394"
+        }
+      ]
     },
     "PA793398": {
       "nom": "Jérémie Patrier-Leitus",
@@ -3522,6 +3656,22 @@
       "groupe": "Ensemble pour la République",
       "questions": [
         {
+          "numero": "Question écrite n° 18122",
+          "date": "15 septembre 2026",
+          "rubrique": "décorations, insignes et emblèmes",
+          "titre": "Médaille de la défense nationale avec agrafe « Monde Combattant »",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18122"
+        },
+        {
+          "numero": "Question écrite n° 18078",
+          "date": "15 septembre 2026",
+          "rubrique": "agriculture",
+          "titre": "Conditions éligibilité indemnité carburant pour les agriculteurs",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18078"
+        },
+        {
           "numero": "Question écrite n° 17593",
           "date": "4 août 2026",
           "rubrique": "retraites : généralités",
@@ -3664,22 +3814,6 @@
           "titre": "Évolution du statut des agents d'exploitation de la sécurité des routes",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13998"
-        },
-        {
-          "numero": "Question écrite n° 13831",
-          "date": "24 mars 2026",
-          "rubrique": "travail",
-          "titre": "Pérennisation des CDD multi-remplacements",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13831"
-        },
-        {
-          "numero": null,
-          "date": "17 mars 2026",
-          "rubrique": "aquaculture et pêche professionnelle",
-          "titre": "Situation et perspectives pêche artisanale sur la côte ouest de la Manche",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD631"
         }
       ],
       "rapports": [
@@ -5157,6 +5291,22 @@
       "circo": "Orne 3e circ.",
       "groupe": "Droite Républicaine",
       "questions": [
+        {
+          "numero": "Question écrite n° 18148",
+          "date": "15 septembre 2026",
+          "rubrique": "étrangers",
+          "titre": "Position de la France sur la suspension de l'exemption de visa avec la Géorgie",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18148"
+        },
+        {
+          "numero": "Question écrite n° 18123",
+          "date": "15 septembre 2026",
+          "rubrique": "dépendance",
+          "titre": "Déploiement et financement de la prestation de relayage (baluchonnage)",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18123"
+        },
         {
           "numero": "Question écrite n° 16394",
           "date": "30 juin 2026",
@@ -7908,6 +8058,30 @@
       "groupe": "Horizons & Indépendants",
       "questions": [
         {
+          "numero": "Question écrite n° 18127",
+          "date": "15 septembre 2026",
+          "rubrique": "économie sociale et solidaire",
+          "titre": "Exonération de la taxe d'apprentissage sur les structures de l'ESS",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18127"
+        },
+        {
+          "numero": "Question écrite n° 18113",
+          "date": "15 septembre 2026",
+          "rubrique": "communes",
+          "titre": "Changement de clé de répartition de l'IFER nucléaire",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18113"
+        },
+        {
+          "numero": "Question écrite n° 18088",
+          "date": "15 septembre 2026",
+          "rubrique": "agriculture",
+          "titre": "Révision des mécanismes de soutien à la méthanisation",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18088"
+        },
+        {
           "numero": "Question écrite n° 17261",
           "date": "28 juillet 2026",
           "rubrique": "déchets",
@@ -8042,30 +8216,6 @@
           "titre": "Durée de validité des plaques d'immatriculation temporaires WW (\"plaques roses\")",
           "statut": null,
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13261"
-        },
-        {
-          "numero": "Question écrite n° 12669",
-          "date": "3 février 2026",
-          "rubrique": "transports par eau",
-          "titre": "Impact de la directive européenne 2017/2108 sur la flotte de navires à passagers",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12669"
-        },
-        {
-          "numero": "Question écrite n° 12532",
-          "date": "27 janvier 2026",
-          "rubrique": "urbanisme",
-          "titre": "Réviser les avis défavorables des ABF bloquant des projets d'intérêt général",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12532"
-        },
-        {
-          "numero": null,
-          "date": "20 janvier 2026",
-          "rubrique": "papiers d'identité",
-          "titre": "Traitement insuffisant des situations d'usurpation d'identité",
-          "statut": null,
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD532"
         }
       ],
       "rapports": [],
