@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:12:06",
+  "generated_at": "2026-09-17T11:20:31",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -1605,7 +1605,13 @@
           }
         }
       ],
-      "interventions": []
+      "interventions": [
+        {
+          "date": "mercredi 16 septembre 2026",
+          "titre": "Augmentation de la pauvreté : Représentants du CNLE ; Représentants de la DGCS",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19433453?timeCode=5956.03&depute=PA719032"
+        }
+      ]
     },
     "PA717161": {
       "nom": "Élisabeth Borne",
@@ -4320,14 +4326,14 @@
       ],
       "interventions": [
         {
-          "date": "mercredi 15 juillet 2026",
-          "titre": "Commission des affaires économiques : M. Olivier Le Nézet, président du Comité national des pêches et des élevages marins",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19357781?timeCode=1107.57&depute=PA607395"
+          "date": "mercredi 16 septembre 2026",
+          "titre": "Commission des affaires économiques : M. Vincent Jeanbrun, ministre de la Ville et du Logement ; Mme Annie Genevard, ministre de l’Agriculture",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19435799?timeCode=16354.38&depute=PA607395"
         },
         {
-          "date": "mardi 7 juillet 2026",
-          "titre": "Commission des affaires économiques et Commission des finances : M. Olivier Sichel, directeur général de la Caisse des dépôts",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19322872?timeCode=5133.87&depute=PA607395"
+          "date": "mercredi 16 septembre 2026",
+          "titre": "Commission des affaires économiques : M. Vincent Jeanbrun, ministre de la Ville et du Logement ; Mme Annie Genevard, ministre de l’Agriculture",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19435799?timeCode=14630.8&depute=PA607395"
         }
       ]
     },
@@ -7060,14 +7066,14 @@
       ],
       "interventions": [
         {
-          "date": "mardi 15 septembre 2026",
-          "titre": "Augmentation de la pauvreté : Mme Claire Hédon, ancienne défenseure des droits (2020-2026)",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19432446?timeCode=6541.09&depute=PA774958"
+          "date": "mercredi 16 septembre 2026",
+          "titre": "Augmentation de la pauvreté : Représentants du CNLE ; Représentants de la DGCS",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19433453?timeCode=12329.75&depute=PA774958"
         },
         {
-          "date": "mardi 15 septembre 2026",
-          "titre": "Augmentation de la pauvreté : Mme Claire Hédon, ancienne défenseure des droits (2020-2026)",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19432446?timeCode=6469.04&depute=PA774958"
+          "date": "mercredi 16 septembre 2026",
+          "titre": "Augmentation de la pauvreté : Représentants du CNLE ; Représentants de la DGCS",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19433453?timeCode=12020.59&depute=PA774958"
         }
       ]
     },
@@ -7365,14 +7371,14 @@
       ],
       "interventions": [
         {
-          "date": "mercredi 15 juillet 2026",
-          "titre": "Commission des affaires économiques : M. Olivier Le Nézet, président du Comité national des pêches et des élevages marins",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19357781?timeCode=5697.8&depute=PA841825"
+          "date": "mercredi 16 septembre 2026",
+          "titre": "Commission des affaires économiques : M. Vincent Jeanbrun, ministre de la Ville et du Logement ; Mme Annie Genevard, ministre de l’Agriculture",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19435799?timeCode=15285.54&depute=PA841825"
         },
         {
-          "date": "mardi 16 juin 2026",
-          "titre": "1ère séance : Questions orales sans débat",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19149466?timeCode=1796.26&depute=PA841825"
+          "date": "mercredi 16 septembre 2026",
+          "titre": "Commission des affaires économiques : M. Joël Fourny, président de CMA France ; Situation et perspectives économiques des équipementiers automobiles en France",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19433519?timeCode=11076.37&depute=PA841825"
         }
       ]
     },
@@ -7714,14 +7720,14 @@
       ],
       "interventions": [
         {
+          "date": "mercredi 16 septembre 2026",
+          "titre": "« Loi intégrale » face aux violences sexuelles et sexistes : M. Gérald Darmanin et Mme Aurore Bergé, ministres",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19435716?timeCode=8596.74&depute=PA267780"
+        },
+        {
           "date": "mardi 8 septembre 2026",
           "titre": "Commission des affaires sociales et Commission des lois : Suites à donner sur l’affaire Joël Le Scouarnec",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19425453?timeCode=3016.06&depute=PA267780"
-        },
-        {
-          "date": "lundi 20 juillet 2026",
-          "titre": "1ère séance : Organisation, gestion et financement du sport professionnel (CMP) ; Accélérer la prévention cardio-neuro-vasculaire (CMP) ; Pour une montagne vivante et souveraine (CMP)",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19384675?timeCode=7584.47&depute=PA267780"
         }
       ]
     },
@@ -8644,14 +8650,14 @@
       ],
       "interventions": [
         {
-          "date": "mercredi 8 juillet 2026",
-          "titre": "Commission des affaires économiques : Avenir des commerces de proximité",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19330283?timeCode=4178.8&depute=PA841837"
+          "date": "mercredi 16 septembre 2026",
+          "titre": "Commission des affaires économiques : M. Vincent Jeanbrun, ministre de la Ville et du Logement ; Mme Annie Genevard, ministre de l’Agriculture",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19435799?timeCode=15793.06&depute=PA841837"
         },
         {
-          "date": "mardi 16 juin 2026",
-          "titre": "Commission des affaires économiques : M. François Houllier, président directeur général de l’Ifremer ; Prévenir les occupations sans droit ni titre en encadrant la souscription des contrats essentiels",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19153915?timeCode=2132.06&depute=PA841837"
+          "date": "mercredi 16 septembre 2026",
+          "titre": "Commission des affaires économiques : M. Vincent Jeanbrun, ministre de la Ville et du Logement ; Mme Annie Genevard, ministre de l’Agriculture",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19435799?timeCode=6527.69&depute=PA841837"
         }
       ]
     }
