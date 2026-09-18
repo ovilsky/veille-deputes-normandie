@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:20:31",
+  "generated_at": "2026-09-18T10:54:26",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -1606,6 +1606,11 @@
         }
       ],
       "interventions": [
+        {
+          "date": "jeudi 17 septembre 2026",
+          "titre": "« Loi intégrale » face aux violences sexuelles et sexistes : M. Laurent Nuñez, ministre de l’Intérieur ; M. Jean-Pierre Farandou, ministre du Travail et des Solidarités, et Mme Stéphanie Rist, ministre de la Santé, des familles, de l’autonomie",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19438468?timeCode=5453.38&depute=PA719032"
+        },
         {
           "date": "mercredi 16 septembre 2026",
           "titre": "Augmentation de la pauvreté : Représentants du CNLE ; Représentants de la DGCS",
@@ -3644,14 +3649,14 @@
       ],
       "interventions": [
         {
-          "date": "mardi 30 juin 2026",
-          "titre": "2ème séance : Questions au Gouvernement ; Fin de vie (vote solennel) ; Justice criminelle (projets de loi ordinaire et organique)",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19270648?timeCode=18265.83&depute=PA266797"
+          "date": "jeudi 17 septembre 2026",
+          "titre": "« Loi intégrale » face aux violences sexuelles et sexistes : M. Laurent Nuñez, ministre de l’Intérieur ; M. Jean-Pierre Farandou, ministre du Travail et des Solidarités, et Mme Stéphanie Rist, ministre de la Santé, des familles, de l’autonomie",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19438468?timeCode=5125.9&depute=PA266797"
         },
         {
           "date": "mardi 30 juin 2026",
           "titre": "2ème séance : Questions au Gouvernement ; Fin de vie (vote solennel) ; Justice criminelle (projets de loi ordinaire et organique)",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19270648?timeCode=16045.43&depute=PA266797"
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19270648?timeCode=18265.83&depute=PA266797"
         }
       ]
     },
@@ -7066,14 +7071,14 @@
       ],
       "interventions": [
         {
-          "date": "mercredi 16 septembre 2026",
-          "titre": "Augmentation de la pauvreté : Représentants du CNLE ; Représentants de la DGCS",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19433453?timeCode=12329.75&depute=PA774958"
+          "date": "jeudi 17 septembre 2026",
+          "titre": "Augmentation de la pauvreté : Représentantes de la Commission nationale consultative des droits de l’homme (CNCDH)",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19438456?timeCode=6160.4&depute=PA774958"
         },
         {
-          "date": "mercredi 16 septembre 2026",
-          "titre": "Augmentation de la pauvreté : Représentants du CNLE ; Représentants de la DGCS",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19433453?timeCode=12020.59&depute=PA774958"
+          "date": "jeudi 17 septembre 2026",
+          "titre": "Augmentation de la pauvreté : Représentantes de la Commission nationale consultative des droits de l’homme (CNCDH)",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19438456?timeCode=6021.21&depute=PA774958"
         }
       ]
     },
