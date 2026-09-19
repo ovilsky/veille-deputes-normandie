@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-09-19T10:36:52",
+  "generated_at": "2026-09-19T12:56:57",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
     "rapports": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/documents?typeDocument=rapport",
     "propositions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/documents?typeDocument=proposition",
     "votes": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/positions-de-vote",
-    "interventions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/interventions"
+    "interventions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/interventions",
+    "assiduite": "https://www.nosdeputes.fr/synthese/data/json"
   },
   "deputes": {
     "PA840817": {
@@ -343,7 +344,8 @@
           "titre": "Commission des finances : M. David Amiel, ministre, sur le rapport présenté en application du I de l’article 48 de la loi organique relative à la loi de finances",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19370825?timeCode=6927.93&depute=PA840817"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA793394": {
       "nom": "Arthur Delaporte",
@@ -681,7 +683,8 @@
           "titre": "1ère séance : Questions au Gouvernement ; Protection des enfants (vote solennel) ; Protéger les mineurs des réseaux sociaux (CMP)",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19400643?timeCode=14296.3&depute=PA793394"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA793398": {
       "nom": "Jérémie Patrier-Leitus",
@@ -914,7 +917,8 @@
           "titre": "Commission des affaires culturelles : Mme Marina Ferrari, ministre des sports, de la jeunesse et de la vie associative",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19125302?timeCode=2632.2&depute=PA793398"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA719024": {
       "nom": "Christophe Blanchet",
@@ -1142,15 +1146,308 @@
           "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0827_proposition-loi"
         }
       ],
-      "votes": [],
-      "interventions": []
+      "votes": [
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 29
+          }
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 33
+          }
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8432 sur la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8432",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 17
+          }
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 32,
+            "Contre": 1,
+            "Abstention": 2
+          }
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8430 sur l'ensemble du projet de loi relatif à la protection des enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8430",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 33,
+            "Abstention": 1
+          }
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8429 sur l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8429",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 21,
+            "Contre": 1
+          }
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8428 sur le sous-amendement n° 2 de Mme Perrine Goulet à l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8428",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 21
+          }
+        },
+        {
+          "date": "20 juillet 2026",
+          "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+          "conforme_groupe": false,
+          "detail_groupe": {
+            "Pour": 19,
+            "Contre": 11,
+            "Abstention": 6
+          }
+        },
+        {
+          "date": "20 juillet 2026",
+          "objet": "Scrutin public n°8426 sur l'amendement n° 1 de M. Jean-René Cazeneuve au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8426",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 20,
+            "Abstention": 7
+          }
+        },
+        {
+          "date": "20 juillet 2026",
+          "objet": "Scrutin public n°8425 sur l'amendement n° 8 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8425",
+          "conforme_groupe": false,
+          "detail_groupe": {
+            "Pour": 18,
+            "Contre": 3,
+            "Abstention": 6
+          }
+        }
+      ],
+      "interventions": [
+        {
+          "date": "mercredi 8 juillet 2026",
+          "titre": "Commission des lois : Proposition de résolution de Mme Yaël Braun-Pivet, présidente de l’Assemblée nationale, tendant à modifier le Règlement",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19328220?timeCode=2261.25&depute=PA719024"
+        },
+        {
+          "date": "mercredi 24 juin 2026",
+          "titre": "Commission du développement durable et Commission de la défense : Changements environnementaux et enjeux de défense",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19215126?timeCode=5473.13&depute=PA719024"
+        }
+      ],
+      "assiduite": null
     },
     "PA719032": {
       "nom": "Bertrand Bouyx",
       "dept": "14",
       "circo": "Calvados 5e circ.",
       "groupe": "Horizons & Indépendants",
-      "questions": [],
+      "questions": [
+        {
+          "numero": "Question écrite n° 17042",
+          "date": "14 juillet 2026",
+          "rubrique": "sports",
+          "titre": "Limite de mandat des Présidents des organes régionaux des fédérations sportives",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17042"
+        },
+        {
+          "numero": "Question écrite n° 17003",
+          "date": "14 juillet 2026",
+          "rubrique": "professions judiciaires et juridiques",
+          "titre": "Délais de paiement des missions des experts judiciaires",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17003"
+        },
+        {
+          "numero": "Question écrite n° 16973",
+          "date": "14 juillet 2026",
+          "rubrique": "pharmacie et médicaments",
+          "titre": "Attractivité de l'accès précoce aux médicaments innovants",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16973"
+        },
+        {
+          "numero": "Question écrite n° 15704",
+          "date": "2 juin 2026",
+          "rubrique": "transports par eau",
+          "titre": "Effectivité de la loi luttant contre le dumping social sur le transmanche",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15704"
+        },
+        {
+          "numero": "Question écrite n° 15554",
+          "date": "2 juin 2026",
+          "rubrique": "économie sociale et solidaire",
+          "titre": "Taxe d'apprentissage pour les structures de l'insertion",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15554"
+        },
+        {
+          "numero": "Question écrite n° 14512",
+          "date": "21 avril 2026",
+          "rubrique": "Mutualité sociale agricole",
+          "titre": "Moyens et effectifs de la MSA",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14512"
+        },
+        {
+          "numero": "Question écrite n° 14206",
+          "date": "14 avril 2026",
+          "rubrique": "aquaculture et pêche professionnelle",
+          "titre": "Hausse du coût des carburants pour la filière conchylicole",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14206"
+        },
+        {
+          "numero": "Question au Gouvernement n° 1377",
+          "date": "25 mars 2026",
+          "rubrique": "entreprises",
+          "titre": "Situation du groupe Ziegler en France",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1377"
+        },
+        {
+          "numero": "Question écrite n° 13833",
+          "date": "24 mars 2026",
+          "rubrique": "urbanisme",
+          "titre": "Difficultés concernant l'outil d'occupation du sol à grande échelle",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13833"
+        },
+        {
+          "numero": "Question écrite n° 13247",
+          "date": "3 mars 2026",
+          "rubrique": "aquaculture et pêche professionnelle",
+          "titre": "Déploiement de jachères sur les estrans",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13247"
+        },
+        {
+          "numero": "Question écrite n° 11475",
+          "date": "9 décembre 2025",
+          "rubrique": "enseignement",
+          "titre": "Encadrement et clarification du recours aux postes de vacataires",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11475"
+        },
+        {
+          "numero": "Question écrite n° 9262",
+          "date": "5 août 2025",
+          "rubrique": "institutions sociales et médico sociales",
+          "titre": "Utilisation du système d'information Synaé",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE9262"
+        },
+        {
+          "numero": "Question écrite n° 9162",
+          "date": "29 juillet 2025",
+          "rubrique": "services à la personne",
+          "titre": "Crédit d'impôt emploi à domicile",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE9162"
+        },
+        {
+          "numero": "Question écrite n° 9104",
+          "date": "29 juillet 2025",
+          "rubrique": "pharmacie et médicaments",
+          "titre": "Financiarisation des officines",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE9104"
+        },
+        {
+          "numero": "Question écrite n° 8663",
+          "date": "15 juillet 2025",
+          "rubrique": "retraites : généralités",
+          "titre": "Absence de publication du décret pour la retraite des pompiers volontaires",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE8663"
+        },
+        {
+          "numero": "Question écrite n° 7882",
+          "date": "24 juin 2025",
+          "rubrique": "taxis",
+          "titre": "Reconnaissance de certaines entreprises de transport avec chauffeur",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE7882"
+        },
+        {
+          "numero": "Question écrite n° 7624",
+          "date": "17 juin 2025",
+          "rubrique": "pharmacie et médicaments",
+          "titre": "Protection des patients face aux risques liés à la prise d'acide valproïque",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE7624"
+        },
+        {
+          "numero": "Question écrite n° 7030",
+          "date": "27 mai 2025",
+          "rubrique": "formation professionnelle et apprentissage",
+          "titre": "Formation à la gestion des risques liés aux champs électromagnétiques en IRM",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE7030"
+        },
+        {
+          "numero": "Question écrite n° 6356",
+          "date": "29 avril 2025",
+          "rubrique": "transports ferroviaires",
+          "titre": "Fermeture prévue de la ligne ferroviaire Paris-Normandie en 2028 ou 2029",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE6356"
+        },
+        {
+          "numero": "Question écrite n° 6279",
+          "date": "29 avril 2025",
+          "rubrique": "fonction publique hospitalière",
+          "titre": "Reconnaissance et des ambulanciers SMUR et hospitaliers",
+          "statut": null,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE6279"
+        }
+      ],
       "rapports": [
         {
           "date": "1 juillet 2026",
@@ -1324,7 +1621,8 @@
           "titre": "Augmentation de la pauvreté : Représentants du CNLE ; Représentants de la DGCS",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19433453?timeCode=5956.03&depute=PA719032"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA717161": {
       "nom": "Élisabeth Borne",
@@ -1476,7 +1774,8 @@
           "titre": "35ème Journée du Livre Politique : « S’engager » (Seconde partie)",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV18645620?timeCode=4995.75&depute=PA717161"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA793672": {
       "nom": "Christine Loir",
@@ -1784,7 +2083,8 @@
           "titre": "2ème séance : Protection des enfants (suite)",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19370638?timeCode=8977.53&depute=PA793672"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA793608": {
       "nom": "Katiana Levavasseur",
@@ -2089,7 +2389,8 @@
           "titre": "1ère séance : Questions au Gouvernement ; Conventions France-Finlande et France-Suède en matière d'imposition ; Approbation des comptes de l'année 2025 ; Approbation des comptes de la sécurité sociale de l'année 2025",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19104252?timeCode=5718.72&depute=PA793608"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA793616": {
       "nom": "Kévin Mauvieux",
@@ -2371,7 +2672,8 @@
           "titre": "Commission des finances : M. Roland Lescure, ministre, sur l'effet boule de neige de la dette ; Mise en œuvre des repas à 1 euro pour les boursiers",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19301123?timeCode=4244.52&depute=PA793616"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA793624": {
       "nom": "Philippe Brun",
@@ -2696,7 +2998,8 @@
           "titre": "Commission des finances : Lutte contre l’évasion fiscale ; Mme Amélie Verdier, directrice générale des finances publiques",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19388595?timeCode=3729.81&depute=PA793624"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA793632": {
       "nom": "Timothée Houssin",
@@ -2991,7 +3294,8 @@
           "titre": "2ème séance : Questions au gouvernement ; Accélérer le développement du transport maritime à propulsion vélique(suite) ; Information et protection des victimes de violences sexuelles",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV18886859?timeCode=6755.93&depute=PA793632"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA266797": {
       "nom": "Philippe Gosselin",
@@ -3366,7 +3670,8 @@
           "titre": "2ème séance : Questions au Gouvernement ; Fin de vie (vote solennel) ; Justice criminelle (projets de loi ordinaire et organique)",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19270648?timeCode=18265.83&depute=PA266797"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA720190": {
       "nom": "Bertrand Sorre",
@@ -3702,7 +4007,8 @@
           "titre": "Assemblée parlementaire franco-allemande : Séance plénière de l’APFA (suite)",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19199257?timeCode=7218.45&depute=PA720190"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA607395": {
       "nom": "Stéphane Travert",
@@ -4048,7 +4354,8 @@
           "titre": "Commission des affaires économiques : M. Vincent Jeanbrun, ministre de la Ville et du Logement ; Mme Annie Genevard, ministre de l’Agriculture",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19435799?timeCode=14630.8&depute=PA607395"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA794270": {
       "nom": "Anna Pic",
@@ -4380,7 +4687,8 @@
           "titre": "Assemblée parlementaire franco-allemande : Séance plénière de l’APFA (suite)",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19199257?timeCode=4088.11&depute=PA794270"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA643192": {
       "nom": "Chantal Jourdan",
@@ -4692,7 +5000,8 @@
           "titre": "Commission du développement durable : M. Sébastien Soriano, directeur général de l’Institut national de l'information géographique et forestière (IGN) ; Autonomie stratégique de la France pour la production décarbonée d'engrais azotés",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19162144?timeCode=7241.98&depute=PA643192"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA794750": {
       "nom": "Thierry Liger",
@@ -5002,7 +5311,8 @@
           "titre": "Commission des finances : M. Florian Colas, directeur général des Douanes et droits indirects ; M. Fabrice Lenglart, directeur général de l’INSEE",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV18900096?timeCode=11479.5&depute=PA794750"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA841595": {
       "nom": "Cendrine Chazé",
@@ -5211,7 +5521,8 @@
           "titre": "1ère séance : Questions orales sans débat",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV18882696?timeCode=2095.5&depute=PA841595"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA841813": {
       "nom": "Florence Herouin-Léautey",
@@ -5548,7 +5859,8 @@
           "titre": "3ème séance : Protection des enfants (suite)",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19374012?timeCode=7059.32&depute=PA841813"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA722102": {
       "nom": "Annie Vidal",
@@ -5899,7 +6211,8 @@
           "titre": "Commission des affaires sociales et Commission des lois : Suites à donner sur l’affaire Joël Le Scouarnec",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19425453?timeCode=3503.29&depute=PA722102"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA796106": {
       "nom": "Édouard Bénard",
@@ -6220,7 +6533,8 @@
           "titre": "1ère séance : Renforcer la solidarité envers les retraités pauvres ; Nationalisation d'ArcelorMittal France (deuxième lecture)",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19128777?timeCode=8642.44&depute=PA796106"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA795200": {
       "nom": "Alma Dufour",
@@ -6438,7 +6752,8 @@
           "titre": "Commission des affaires économiques : Perspectives économiques des constructeurs automobile ; Filière automobile et distribution des véhicules",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV18670191?timeCode=10652.59&depute=PA795200"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA774958": {
       "nom": "Gérard Leseul",
@@ -6788,7 +7103,8 @@
           "titre": "Augmentation de la pauvreté : Représentantes de la Commission nationale consultative des droits de l’homme (CNCDH)",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19438456?timeCode=6021.21&depute=PA774958"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA841825": {
       "nom": "Patrice Martin",
@@ -7093,7 +7409,8 @@
           "titre": "Commission des affaires économiques : M. Joël Fourny, président de CMA France ; Situation et perspectives économiques des équipementiers automobiles en France",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19433519?timeCode=11076.37&depute=PA841825"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA267780": {
       "nom": "Agnès Firmin Le Bodo",
@@ -7442,7 +7759,8 @@
           "titre": "Commission des affaires sociales et Commission des lois : Suites à donner sur l’affaire Joël Le Scouarnec",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19425453?timeCode=3016.06&depute=PA267780"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA335612": {
       "nom": "Jean-Paul Lecoq",
@@ -7768,7 +8086,8 @@
           "titre": "Commission des affaires étrangères : M. Christophe Lecourtier, directeur général de l’Agence française de développement (AFD), sur les activités et les perspectives du groupe AFD",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19327606?timeCode=3221.05&depute=PA335612"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA795270": {
       "nom": "Marie-Agnès Poussier-Winsback",
@@ -8068,7 +8387,8 @@
           "titre": "Commission des affaires économiques : Situation économique et perspectives de développement de la filière ameublement",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19221983?timeCode=3706.35&depute=PA795270"
         }
-      ]
+      ],
+      "assiduite": null
     },
     "PA841837": {
       "nom": "Robert Le Bourgeois",
@@ -8372,7 +8692,8 @@
           "titre": "Commission des affaires économiques : M. Vincent Jeanbrun, ministre de la Ville et du Logement ; Mme Annie Genevard, ministre de l’Agriculture",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19435799?timeCode=6527.69&depute=PA841837"
         }
-      ]
+      ],
+      "assiduite": null
     }
   }
 }
