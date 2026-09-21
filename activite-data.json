@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T12:26:32",
+  "generated_at": "2026-09-21T15:45:59",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -324,6 +324,22 @@
       "groupe": "Socialistes et apparentés",
       "questions": [
         {
+          "numero": "Question écrite n° 18347",
+          "date": "22 septembre 2026",
+          "rubrique": "presse et livres",
+          "titre": "Conditions de rachat de 60 millions de consommateurs",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18347"
+        },
+        {
+          "numero": "Question écrite n° 18340",
+          "date": "22 septembre 2026",
+          "rubrique": "pharmacie et médicaments",
+          "titre": "Remboursements des traitements antimigraines",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18340"
+        },
+        {
           "numero": "Question écrite n° 16606",
           "date": "7 juillet 2026",
           "rubrique": "banques et établissements financiers",
@@ -368,7 +384,7 @@
           "date": "28 avril 2026",
           "rubrique": "étrangers",
           "titre": "Augmentation des taxes relatives aux titres de séjour",
-          "statut": "Question sans réponse",
+          "statut": "Réponse publiée le 22 septembre 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14684"
         },
         {
@@ -432,7 +448,7 @@
           "date": "9 décembre 2025",
           "rubrique": "étrangers",
           "titre": "Exonération des droits d'inscription des étudiants extracommunautaires",
-          "statut": "Question sans réponse",
+          "statut": "Réponse publiée le 22 septembre 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11487"
         },
         {
@@ -466,22 +482,6 @@
           "titre": "Situation CHU de Caen et crise de la psychiatrie dans le Calvados",
           "statut": "Réponse publiée le 26 novembre 2025",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD443"
-        },
-        {
-          "numero": "Question écrite n° 9269",
-          "date": "5 août 2025",
-          "rubrique": "lieux de privation de liberté",
-          "titre": "Situation du SPIP et des CPIP",
-          "statut": "Réponse publiée le 21 avril 2026",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE9269"
-        },
-        {
-          "numero": "Question écrite n° 9189",
-          "date": "5 août 2025",
-          "rubrique": "associations et fondations",
-          "titre": "Situation du Planning familial dans le Calvados",
-          "statut": "Réponse publiée le 24 mars 2026",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE9189"
         }
       ],
       "rapports": [
@@ -622,7 +622,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19400643?timeCode=14296.3&depute=PA793394"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 74,
+        "champ_source": "semaines_presence",
+        "slug": "arthur-delaporte"
+      }
     },
     "PA793398": {
       "nom": "Jérémie Patrier-Leitus",
@@ -830,7 +834,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19125302?timeCode=2632.2&depute=PA793398"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 71,
+        "champ_source": "semaines_presence",
+        "slug": "jeremie-patrier-leitus"
+      }
     },
     "PA719024": {
       "nom": "Christophe Blanchet",
@@ -1162,7 +1170,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19215126?timeCode=5473.13&depute=PA719024"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 70,
+        "champ_source": "semaines_presence",
+        "slug": "christophe-blanchet"
+      }
     },
     "PA719032": {
       "nom": "Bertrand Bouyx",
@@ -1479,7 +1491,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19433453?timeCode=5956.03&depute=PA719032"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 64,
+        "champ_source": "semaines_presence",
+        "slug": "bertrand-bouyx"
+      }
     },
     "PA717161": {
       "nom": "Élisabeth Borne",
@@ -1601,6 +1617,22 @@
       "circo": "Eure 1re circ.",
       "groupe": "Rassemblement National",
       "questions": [
+        {
+          "numero": "Question écrite n° 18390",
+          "date": "22 septembre 2026",
+          "rubrique": "sécurité routière",
+          "titre": "Identification et contrôle des motos non homologuées",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18390"
+        },
+        {
+          "numero": "Question écrite n° 18286",
+          "date": "22 septembre 2026",
+          "rubrique": "énergie et carburants",
+          "titre": "Hausse du coût du fioul pour les ménages et les petites entreprises",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18286"
+        },
         {
           "numero": "Question écrite n° 17932",
           "date": "8 septembre 2026",
@@ -1744,22 +1776,6 @@
           "titre": "Organisation du secours à personne et rôle du SAMU",
           "statut": "Question sans réponse",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13192"
-        },
-        {
-          "numero": "Question écrite n° 13074",
-          "date": "24 février 2026",
-          "rubrique": "assurance maladie maternité",
-          "titre": "Dépistage du cancer du sein et retard d'application de la loi du 5 février 2025",
-          "statut": "Question sans réponse",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13074"
-        },
-        {
-          "numero": "Question écrite n° 13017",
-          "date": "17 février 2026",
-          "rubrique": "retraites : généralités",
-          "titre": "Effets du décret sur la retraite des sapeurs-pompiers volontaires",
-          "statut": "Réponse publiée le 2 juin 2026",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13017"
         }
       ],
       "rapports": [],
@@ -1879,7 +1895,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19370638?timeCode=8977.53&depute=PA793672"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 72,
+        "champ_source": "semaines_presence",
+        "slug": "christine-loir"
+      }
     },
     "PA793608": {
       "nom": "Katiana Levavasseur",
@@ -2160,7 +2180,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19104252?timeCode=5718.72&depute=PA793608"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 64,
+        "champ_source": "semaines_presence",
+        "slug": "katiana-levavasseur"
+      }
     },
     "PA793616": {
       "nom": "Kévin Mauvieux",
@@ -2419,7 +2443,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19301123?timeCode=4244.52&depute=PA793616"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 75,
+        "champ_source": "semaines_presence",
+        "slug": "kevin-mauvieux"
+      }
     },
     "PA793624": {
       "nom": "Philippe Brun",
@@ -2716,7 +2744,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19388595?timeCode=3729.81&depute=PA793624"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 76,
+        "champ_source": "semaines_presence",
+        "slug": "philippe-brun"
+      }
     },
     "PA793632": {
       "nom": "Timothée Houssin",
@@ -2991,7 +3023,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV18886859?timeCode=6755.93&depute=PA793632"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 70,
+        "champ_source": "semaines_presence",
+        "slug": "timothee-houssin"
+      }
     },
     "PA266797": {
       "nom": "Philippe Gosselin",
@@ -3343,7 +3379,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19270648?timeCode=18265.83&depute=PA266797"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 69,
+        "champ_source": "semaines_presence",
+        "slug": "philippe-gosselin"
+      }
     },
     "PA720190": {
       "nom": "Bertrand Sorre",
@@ -3351,6 +3391,14 @@
       "circo": "Manche 2e circ.",
       "groupe": "Ensemble pour la République",
       "questions": [
+        {
+          "numero": "Question écrite n° 18246",
+          "date": "22 septembre 2026",
+          "rubrique": "audiovisuel et communication",
+          "titre": "Accès à la radio France Musique",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18246"
+        },
         {
           "numero": "Question écrite n° 18122",
           "date": "15 septembre 2026",
@@ -3502,14 +3550,6 @@
           "titre": "Protection des victimes face aux fraudes bancaires",
           "statut": "Question sans réponse",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14037"
-        },
-        {
-          "numero": "Question écrite n° 13998",
-          "date": "31 mars 2026",
-          "rubrique": "sécurité routière",
-          "titre": "Évolution du statut des agents d'exploitation de la sécurité des routes",
-          "statut": "Réponse publiée le 28 avril 2026",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13998"
         }
       ],
       "rapports": [
@@ -3644,7 +3684,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19199257?timeCode=7218.45&depute=PA720190"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 70,
+        "champ_source": "semaines_presence",
+        "slug": "bertrand-sorre"
+      }
     },
     "PA607395": {
       "nom": "Stéphane Travert",
@@ -3652,6 +3696,14 @@
       "circo": "Manche 3e circ.",
       "groupe": "Ensemble pour la République",
       "questions": [
+        {
+          "numero": "Question écrite n° 18403",
+          "date": "22 septembre 2026",
+          "rubrique": "urbanisme",
+          "titre": "Contraintes fiscales et administratives des serres de jardin",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18403"
+        },
         {
           "numero": "Question écrite n° 16888",
           "date": "14 juillet 2026",
@@ -3803,14 +3855,6 @@
           "titre": "Cotisants solidaires - calamités agricoles",
           "statut": "Réponse publiée le 21 juillet 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13042"
-        },
-        {
-          "numero": null,
-          "date": "20 janvier 2026",
-          "rubrique": "mer et littoral",
-          "titre": "Recul du trait de côte dans le département de la Manche",
-          "statut": "Réponse publiée le 29 janvier 2026",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD526"
         }
       ],
       "rapports": [
@@ -3951,7 +3995,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19435799?timeCode=14630.8&depute=PA607395"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 69,
+        "champ_source": "semaines_presence",
+        "slug": "stephane-travert"
+      }
     },
     "PA794270": {
       "nom": "Anna Pic",
@@ -3959,6 +4007,22 @@
       "circo": "Manche 4e circ.",
       "groupe": "Socialistes et apparentés",
       "questions": [
+        {
+          "numero": "Question écrite n° 18370",
+          "date": "22 septembre 2026",
+          "rubrique": "santé",
+          "titre": "Politique de prévention des infections sexuellement transmissibles (IST)",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18370"
+        },
+        {
+          "numero": "Question écrite n° 18275",
+          "date": "22 septembre 2026",
+          "rubrique": "droits fondamentaux",
+          "titre": "Recours à l'isolement et à la contention en psychiatrie",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18275"
+        },
         {
           "numero": "Question écrite n° 17388",
           "date": "28 juillet 2026",
@@ -4102,22 +4166,6 @@
           "titre": "Contribution française au fonds mondial",
           "statut": "Réponse publiée le 28 avril 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12803"
-        },
-        {
-          "numero": "Question écrite n° 12750",
-          "date": "10 février 2026",
-          "rubrique": "établissements de santé",
-          "titre": "Difficultés rencontrées par les établissements publics de santé",
-          "statut": "Question sans réponse",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12750"
-        },
-        {
-          "numero": "Question écrite n° 12579",
-          "date": "3 février 2026",
-          "rubrique": "enseignement",
-          "titre": "Préservation du réseau de l'enseignement français à l'étranger",
-          "statut": "Réponse publiée le 14 juillet 2026",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12579"
         }
       ],
       "rapports": [
@@ -4258,7 +4306,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19199257?timeCode=4088.11&depute=PA794270"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 67,
+        "champ_source": "semaines_presence",
+        "slug": "anna-pic"
+      }
     },
     "PA643192": {
       "nom": "Chantal Jourdan",
@@ -4539,7 +4591,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19162144?timeCode=7241.98&depute=PA643192"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 74,
+        "champ_source": "semaines_presence",
+        "slug": "chantal-jourdan"
+      }
     },
     "PA794750": {
       "nom": "Thierry Liger",
@@ -4834,6 +4890,22 @@
       "groupe": "Droite Républicaine",
       "questions": [
         {
+          "numero": "Question écrite n° 18243",
+          "date": "22 septembre 2026",
+          "rubrique": "assurance maladie maternité",
+          "titre": "Remboursement du transport sanitaire pour les patients en ALD non exonérante",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18243"
+        },
+        {
+          "numero": "Question écrite n° 18216",
+          "date": "22 septembre 2026",
+          "rubrique": "agriculture",
+          "titre": "Avancement de la PAC au 1er octobre pour les exploitations en difficulté",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18216"
+        },
+        {
           "numero": "Question écrite n° 18148",
           "date": "15 septembre 2026",
           "rubrique": "étrangers",
@@ -4862,7 +4934,7 @@
           "date": "30 juin 2026",
           "rubrique": "chasse et pêche",
           "titre": "Régulation de la population de blaireaux",
-          "statut": "Question sans réponse",
+          "statut": "Réponse publiée le 22 septembre 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16370"
         },
         {
@@ -5629,7 +5701,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19425453?timeCode=3503.29&depute=PA722102"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 70,
+        "champ_source": "semaines_presence",
+        "slug": "annie-vidal"
+      }
     },
     "PA796106": {
       "nom": "Édouard Bénard",
@@ -5638,12 +5714,28 @@
       "groupe": "Gauche Démocrate et Républicaine",
       "questions": [
         {
+          "numero": "Question écrite n° 18235",
+          "date": "22 septembre 2026",
+          "rubrique": "assurance maladie maternité",
+          "titre": "Baisse des remboursements des soins bucco-dentaires par l'assurance maladie",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18235"
+        },
+        {
           "numero": "Question écrite n° 17526",
           "date": "4 août 2026",
           "rubrique": "espace et politique spatiale",
           "titre": "Projet Bromo de fusion des activités spatiales de Thales, Airbus et Leonardo",
           "statut": "Question sans réponse",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17526"
+        },
+        {
+          "numero": "Question au Gouvernement n° 1793",
+          "date": "22 juillet 2026",
+          "rubrique": "sécurité des biens et des personnes",
+          "titre": "Droits du travail et canicules",
+          "statut": "Question posée en séance",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1793"
         },
         {
           "numero": "Question écrite n° 16731",
@@ -5780,22 +5872,6 @@
           "titre": "Renforcement du contrôle des jouets non conformes",
           "statut": "Réponse publiée le 14 avril 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11889"
-        },
-        {
-          "numero": "Question écrite n° 11868",
-          "date": "23 décembre 2025",
-          "rubrique": "assurance maladie maternité",
-          "titre": "Menace sur le programme d'accompagnement de retour à domicile PRADO",
-          "statut": "Question sans réponse",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11868"
-        },
-        {
-          "numero": "Question écrite n° 11847",
-          "date": "23 décembre 2025",
-          "rubrique": "agriculture",
-          "titre": "Allégement des contrôles des produits phytopharmaceutiques déjà autorisés",
-          "statut": "Question sans réponse",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11847"
         }
       ],
       "rapports": [
@@ -6123,7 +6199,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV18670191?timeCode=10652.59&depute=PA795200"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 69,
+        "champ_source": "semaines_presence",
+        "slug": "alma-dufour"
+      }
     },
     "PA774958": {
       "nom": "Gérard Leseul",
@@ -6445,7 +6525,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19438456?timeCode=6021.21&depute=PA774958"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 70,
+        "champ_source": "semaines_presence",
+        "slug": "gerard-leseul"
+      }
     },
     "PA841825": {
       "nom": "Patrice Martin",
@@ -6453,6 +6537,14 @@
       "circo": "Seine-Maritime 6e circ.",
       "groupe": "Rassemblement National",
       "questions": [
+        {
+          "numero": "Question écrite n° 18404",
+          "date": "22 septembre 2026",
+          "rubrique": "voirie",
+          "titre": "Difficultés des petites communes à entretenir leur réseau routier",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18404"
+        },
         {
           "numero": null,
           "date": "9 juin 2026",
@@ -6604,14 +6696,6 @@
           "titre": "Agressions sur les sapeurs-pompiers",
           "statut": "Réponse publiée le 14 janvier 2025",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE2178"
-        },
-        {
-          "numero": "Question écrite n° 1842",
-          "date": "12 novembre 2024",
-          "rubrique": "commerce extérieur",
-          "titre": "Accord commercial du Mercosur",
-          "statut": "Réponse publiée le 11 février 2025",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE1842"
         }
       ],
       "rapports": [],
@@ -7351,7 +7435,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19327606?timeCode=3221.05&depute=PA335612"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 73,
+        "champ_source": "semaines_presence",
+        "slug": "jean-paul-lecoq"
+      }
     },
     "PA795270": {
       "nom": "Marie-Agnès Poussier-Winsback",
@@ -7626,7 +7714,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19221983?timeCode=3706.35&depute=PA795270"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 76,
+        "champ_source": "semaines_presence",
+        "slug": "marie-agnes-poussier-winsback"
+      }
     },
     "PA841837": {
       "nom": "Robert Le Bourgeois",
@@ -7634,6 +7726,14 @@
       "circo": "Seine-Maritime 10e circ.",
       "groupe": "Rassemblement National",
       "questions": [
+        {
+          "numero": "Question écrite n° 18323",
+          "date": "22 septembre 2026",
+          "rubrique": "mort et décès",
+          "titre": "Incitation à l'aide à mourir",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18323"
+        },
         {
           "numero": "Question écrite n° 17618",
           "date": "4 août 2026",
@@ -7785,14 +7885,6 @@
           "titre": "Décret d'application de la loi visant à lutter contre le frelon asiatique",
           "statut": "Réponse publiée le 20 janvier 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11862"
-        },
-        {
-          "numero": "Question écrite n° 11651",
-          "date": "16 décembre 2025",
-          "rubrique": "assurance maladie maternité",
-          "titre": "Importation et prise en charge de prothèses dentaires hors UE",
-          "statut": "Question sans réponse",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11651"
         }
       ],
       "rapports": [
