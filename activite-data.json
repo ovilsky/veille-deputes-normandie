@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:33:47",
+  "generated_at": "2026-09-21T12:26:32",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -622,11 +622,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19400643?timeCode=14296.3&depute=PA793394"
         }
       ],
-      "assiduite": {
-        "valeur": 74,
-        "champ_source": "semaines_presence",
-        "slug": "arthur-delaporte"
-      }
+      "assiduite": null
     },
     "PA793398": {
       "nom": "Jérémie Patrier-Leitus",
@@ -834,11 +830,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19125302?timeCode=2632.2&depute=PA793398"
         }
       ],
-      "assiduite": {
-        "valeur": 71,
-        "champ_source": "semaines_presence",
-        "slug": "jeremie-patrier-leitus"
-      }
+      "assiduite": null
     },
     "PA719024": {
       "nom": "Christophe Blanchet",
@@ -1170,11 +1162,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19215126?timeCode=5473.13&depute=PA719024"
         }
       ],
-      "assiduite": {
-        "valeur": 70,
-        "champ_source": "semaines_presence",
-        "slug": "christophe-blanchet"
-      }
+      "assiduite": null
     },
     "PA719032": {
       "nom": "Bertrand Bouyx",
@@ -1491,11 +1479,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19433453?timeCode=5956.03&depute=PA719032"
         }
       ],
-      "assiduite": {
-        "valeur": 64,
-        "champ_source": "semaines_presence",
-        "slug": "bertrand-bouyx"
-      }
+      "assiduite": null
     },
     "PA717161": {
       "nom": "Élisabeth Borne",
@@ -1609,11 +1593,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV18645620?timeCode=4995.75&depute=PA717161"
         }
       ],
-      "assiduite": {
-        "valeur": null,
-        "champ_source": null,
-        "slug": "elisabeth-borne"
-      }
+      "assiduite": null
     },
     "PA793672": {
       "nom": "Christine Loir",
@@ -1899,11 +1879,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19370638?timeCode=8977.53&depute=PA793672"
         }
       ],
-      "assiduite": {
-        "valeur": 72,
-        "champ_source": "semaines_presence",
-        "slug": "christine-loir"
-      }
+      "assiduite": null
     },
     "PA793608": {
       "nom": "Katiana Levavasseur",
@@ -2184,11 +2160,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19104252?timeCode=5718.72&depute=PA793608"
         }
       ],
-      "assiduite": {
-        "valeur": 64,
-        "champ_source": "semaines_presence",
-        "slug": "katiana-levavasseur"
-      }
+      "assiduite": null
     },
     "PA793616": {
       "nom": "Kévin Mauvieux",
@@ -2447,11 +2419,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19301123?timeCode=4244.52&depute=PA793616"
         }
       ],
-      "assiduite": {
-        "valeur": 75,
-        "champ_source": "semaines_presence",
-        "slug": "kevin-mauvieux"
-      }
+      "assiduite": null
     },
     "PA793624": {
       "nom": "Philippe Brun",
@@ -2748,11 +2716,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19388595?timeCode=3729.81&depute=PA793624"
         }
       ],
-      "assiduite": {
-        "valeur": 76,
-        "champ_source": "semaines_presence",
-        "slug": "philippe-brun"
-      }
+      "assiduite": null
     },
     "PA793632": {
       "nom": "Timothée Houssin",
@@ -3027,11 +2991,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV18886859?timeCode=6755.93&depute=PA793632"
         }
       ],
-      "assiduite": {
-        "valeur": 70,
-        "champ_source": "semaines_presence",
-        "slug": "timothee-houssin"
-      }
+      "assiduite": null
     },
     "PA266797": {
       "nom": "Philippe Gosselin",
@@ -3383,11 +3343,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19270648?timeCode=18265.83&depute=PA266797"
         }
       ],
-      "assiduite": {
-        "valeur": 69,
-        "champ_source": "semaines_presence",
-        "slug": "philippe-gosselin"
-      }
+      "assiduite": null
     },
     "PA720190": {
       "nom": "Bertrand Sorre",
@@ -3688,11 +3644,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19199257?timeCode=7218.45&depute=PA720190"
         }
       ],
-      "assiduite": {
-        "valeur": 70,
-        "champ_source": "semaines_presence",
-        "slug": "bertrand-sorre"
-      }
+      "assiduite": null
     },
     "PA607395": {
       "nom": "Stéphane Travert",
@@ -3999,11 +3951,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19435799?timeCode=14630.8&depute=PA607395"
         }
       ],
-      "assiduite": {
-        "valeur": 69,
-        "champ_source": "semaines_presence",
-        "slug": "stephane-travert"
-      }
+      "assiduite": null
     },
     "PA794270": {
       "nom": "Anna Pic",
@@ -4310,11 +4258,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19199257?timeCode=4088.11&depute=PA794270"
         }
       ],
-      "assiduite": {
-        "valeur": 67,
-        "champ_source": "semaines_presence",
-        "slug": "anna-pic"
-      }
+      "assiduite": null
     },
     "PA643192": {
       "nom": "Chantal Jourdan",
@@ -4595,11 +4539,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19162144?timeCode=7241.98&depute=PA643192"
         }
       ],
-      "assiduite": {
-        "valeur": 74,
-        "champ_source": "semaines_presence",
-        "slug": "chantal-jourdan"
-      }
+      "assiduite": null
     },
     "PA794750": {
       "nom": "Thierry Liger",
@@ -5689,11 +5629,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19425453?timeCode=3503.29&depute=PA722102"
         }
       ],
-      "assiduite": {
-        "valeur": 70,
-        "champ_source": "semaines_presence",
-        "slug": "annie-vidal"
-      }
+      "assiduite": null
     },
     "PA796106": {
       "nom": "Édouard Bénard",
@@ -6187,11 +6123,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV18670191?timeCode=10652.59&depute=PA795200"
         }
       ],
-      "assiduite": {
-        "valeur": 69,
-        "champ_source": "semaines_presence",
-        "slug": "alma-dufour"
-      }
+      "assiduite": null
     },
     "PA774958": {
       "nom": "Gérard Leseul",
@@ -6513,11 +6445,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19438456?timeCode=6021.21&depute=PA774958"
         }
       ],
-      "assiduite": {
-        "valeur": 70,
-        "champ_source": "semaines_presence",
-        "slug": "gerard-leseul"
-      }
+      "assiduite": null
     },
     "PA841825": {
       "nom": "Patrice Martin",
@@ -7423,11 +7351,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19327606?timeCode=3221.05&depute=PA335612"
         }
       ],
-      "assiduite": {
-        "valeur": 73,
-        "champ_source": "semaines_presence",
-        "slug": "jean-paul-lecoq"
-      }
+      "assiduite": null
     },
     "PA795270": {
       "nom": "Marie-Agnès Poussier-Winsback",
@@ -7702,11 +7626,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19221983?timeCode=3706.35&depute=PA795270"
         }
       ],
-      "assiduite": {
-        "valeur": 76,
-        "champ_source": "semaines_presence",
-        "slug": "marie-agnes-poussier-winsback"
-      }
+      "assiduite": null
     },
     "PA841837": {
       "nom": "Robert Le Bourgeois",
