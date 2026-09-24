@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:09:19",
+  "generated_at": "2026-09-24T11:25:40",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -622,7 +622,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19400643?timeCode=14296.3&depute=PA793394"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 74,
+        "champ_source": "semaines_presence",
+        "slug": "arthur-delaporte"
+      }
     },
     "PA793398": {
       "nom": "Jérémie Patrier-Leitus",
@@ -830,7 +834,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19125302?timeCode=2632.2&depute=PA793398"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 71,
+        "champ_source": "semaines_presence",
+        "slug": "jeremie-patrier-leitus"
+      }
     },
     "PA719024": {
       "nom": "Christophe Blanchet",
@@ -1162,7 +1170,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19215126?timeCode=5473.13&depute=PA719024"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 70,
+        "champ_source": "semaines_presence",
+        "slug": "christophe-blanchet"
+      }
     },
     "PA719032": {
       "nom": "Bertrand Bouyx",
@@ -1479,7 +1491,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19433453?timeCode=5956.03&depute=PA719032"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 64,
+        "champ_source": "semaines_presence",
+        "slug": "bertrand-bouyx"
+      }
     },
     "PA717161": {
       "nom": "Élisabeth Borne",
@@ -1879,7 +1895,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19370638?timeCode=8977.53&depute=PA793672"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 72,
+        "champ_source": "semaines_presence",
+        "slug": "christine-loir"
+      }
     },
     "PA793608": {
       "nom": "Katiana Levavasseur",
@@ -2160,7 +2180,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19104252?timeCode=5718.72&depute=PA793608"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 64,
+        "champ_source": "semaines_presence",
+        "slug": "katiana-levavasseur"
+      }
     },
     "PA793616": {
       "nom": "Kévin Mauvieux",
@@ -2419,7 +2443,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19301123?timeCode=4244.52&depute=PA793616"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 75,
+        "champ_source": "semaines_presence",
+        "slug": "kevin-mauvieux"
+      }
     },
     "PA793624": {
       "nom": "Philippe Brun",
@@ -2716,7 +2744,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19388595?timeCode=3729.81&depute=PA793624"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 76,
+        "champ_source": "semaines_presence",
+        "slug": "philippe-brun"
+      }
     },
     "PA793632": {
       "nom": "Timothée Houssin",
@@ -2991,7 +3023,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV18886859?timeCode=6755.93&depute=PA793632"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 70,
+        "champ_source": "semaines_presence",
+        "slug": "timothee-houssin"
+      }
     },
     "PA266797": {
       "nom": "Philippe Gosselin",
@@ -3343,7 +3379,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19270648?timeCode=18265.83&depute=PA266797"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 69,
+        "champ_source": "semaines_presence",
+        "slug": "philippe-gosselin"
+      }
     },
     "PA720190": {
       "nom": "Bertrand Sorre",
@@ -3644,7 +3684,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19199257?timeCode=7218.45&depute=PA720190"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 70,
+        "champ_source": "semaines_presence",
+        "slug": "bertrand-sorre"
+      }
     },
     "PA607395": {
       "nom": "Stéphane Travert",
@@ -3951,7 +3995,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19451843?timeCode=954.31&depute=PA607395"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 69,
+        "champ_source": "semaines_presence",
+        "slug": "stephane-travert"
+      }
     },
     "PA794270": {
       "nom": "Anna Pic",
@@ -4258,7 +4306,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19199257?timeCode=4088.11&depute=PA794270"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 67,
+        "champ_source": "semaines_presence",
+        "slug": "anna-pic"
+      }
     },
     "PA643192": {
       "nom": "Chantal Jourdan",
@@ -4539,7 +4591,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19162144?timeCode=7241.98&depute=PA643192"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 74,
+        "champ_source": "semaines_presence",
+        "slug": "chantal-jourdan"
+      }
     },
     "PA794750": {
       "nom": "Thierry Liger",
@@ -5016,14 +5072,14 @@
       ],
       "interventions": [
         {
-          "date": "mardi 12 mai 2026",
-          "titre": "2ème séance : Questions au gouvernement ; Accélérer le développement du transport maritime à propulsion vélique(suite) ; Information et protection des victimes de violences sexuelles",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV18886859?timeCode=3456.46&depute=PA841595"
+          "date": "mercredi 23 septembre 2026",
+          "titre": "Commission des affaires étrangères : Représentants de la Commission d’évaluation de l’aide publique au développement",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19455448?timeCode=3839.36&depute=PA841595"
         },
         {
-          "date": "mardi 12 mai 2026",
-          "titre": "1ère séance : Questions orales sans débat",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV18882696?timeCode=2095.5&depute=PA841595"
+          "date": "mercredi 23 septembre 2026",
+          "titre": "Commission des affaires étrangères : Représentants de la Commission d’évaluation de l’aide publique au développement",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19454154?timeCode=4239.36&depute=PA841595"
         }
       ],
       "assiduite": null
@@ -5645,7 +5701,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19425453?timeCode=3503.29&depute=PA722102"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 70,
+        "champ_source": "semaines_presence",
+        "slug": "annie-vidal"
+      }
     },
     "PA796106": {
       "nom": "Édouard Bénard",
@@ -6139,7 +6199,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV18670191?timeCode=10652.59&depute=PA795200"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 69,
+        "champ_source": "semaines_presence",
+        "slug": "alma-dufour"
+      }
     },
     "PA774958": {
       "nom": "Gérard Leseul",
@@ -6461,7 +6525,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19451524?timeCode=4245.4&depute=PA774958"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 70,
+        "champ_source": "semaines_presence",
+        "slug": "gerard-leseul"
+      }
     },
     "PA841825": {
       "nom": "Patrice Martin",
@@ -7357,17 +7425,21 @@
       ],
       "interventions": [
         {
-          "date": "lundi 20 juillet 2026",
-          "titre": "1ère séance : Organisation, gestion et financement du sport professionnel (CMP) ; Accélérer la prévention cardio-neuro-vasculaire (CMP) ; Pour une montagne vivante et souveraine (CMP)",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19384675?timeCode=9553.33&depute=PA335612"
+          "date": "mercredi 23 septembre 2026",
+          "titre": "Commission des affaires étrangères : Représentants de la Commission d’évaluation de l’aide publique au développement",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19455448?timeCode=5759.43&depute=PA335612"
         },
         {
-          "date": "mercredi 8 juillet 2026",
-          "titre": "Commission des affaires étrangères : M. Christophe Lecourtier, directeur général de l’Agence française de développement (AFD), sur les activités et les perspectives du groupe AFD",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19327606?timeCode=3221.05&depute=PA335612"
+          "date": "mercredi 23 septembre 2026",
+          "titre": "Commission des affaires étrangères : Représentants de la Commission d’évaluation de l’aide publique au développement",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19454154?timeCode=6159.43&depute=PA335612"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 73,
+        "champ_source": "semaines_presence",
+        "slug": "jean-paul-lecoq"
+      }
     },
     "PA795270": {
       "nom": "Marie-Agnès Poussier-Winsback",
@@ -7642,7 +7714,11 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19221983?timeCode=3706.35&depute=PA795270"
         }
       ],
-      "assiduite": null
+      "assiduite": {
+        "valeur": 76,
+        "champ_source": "semaines_presence",
+        "slug": "marie-agnes-poussier-winsback"
+      }
     },
     "PA841837": {
       "nom": "Robert Le Bourgeois",
