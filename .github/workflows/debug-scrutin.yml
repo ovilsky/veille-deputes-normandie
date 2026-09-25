@@ -7,6 +7,14 @@ on:
         description: "URL du scrutin à diagnostiquer"
         required: true
         default: "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987"
+      mode:
+        description: "Type de diagnostic"
+        required: true
+        default: "dump"
+        type: choice
+        options:
+          - dump
+          - debug
 
 jobs:
   debug:
@@ -17,4 +25,4 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install requests beautifulsoup4
-      - run: python fetch_activite_deputes.py --debug-scrutin "${{ github.event.inputs.scrutin_url }}"
+      - run: python fetch_activite_deputes.py --${{ github.event.inputs.mode }}-scrutin "${{ github.event.inputs.scrutin_url }}"
