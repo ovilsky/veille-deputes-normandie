@@ -660,22 +660,30 @@ def fetch_assiduite():
     result = {}
     payload = None
     last_error = None
-    for attempt in range(1, 3):
+    # Constaté sur les runs réels (historique de activite-data.json) : environ
+    # un run sur trois repartait avec 0/28 parce que cette requête unique
+    # échouait deux fois de suite. On insiste donc plus longtemps, avec un
+    # délai croissant ; et si ça échoue quand même, main() reprend les
+    # valeurs du run précédent (voir reprendre_assiduite_precedente) au lieu
+    # de vider tout l'onglet.
+    max_attempts = 4
+    for attempt in range(1, max_attempts + 1):
         try:
-            resp = requests.get(NOSDEPUTES_SYNTHESE_URL, headers=HEADERS, timeout=60)
+            resp = requests.get(NOSDEPUTES_SYNTHESE_URL, headers=HEADERS, timeout=90)
             resp.raise_for_status()
             payload = resp.json()
             break
         except Exception as e:
             last_error = e
-            if attempt < 2:
-                print(f"  ! Tentative {attempt} échouée ({e}) — nouvel essai...", file=sys.stderr)
-                time.sleep(3)
+            if attempt < max_attempts:
+                wait = 10 * 2 ** (attempt - 1)
+                print(f"  ! Tentative {attempt} échouée ({e}) — nouvel essai dans {wait}s...", file=sys.stderr)
+                time.sleep(wait)
     if payload is None:
-        print(f"  ! Impossible de récupérer https://www.nosdeputes.fr/synthese/data/json après 2 essais : "
-              f"{last_error} — l'onglet Assiduité restera vide pour cette extraction, le reste du script "
-              f"continue normalement.", file=sys.stderr)
-        return result
+        print(f"  ! Impossible de récupérer {NOSDEPUTES_SYNTHESE_URL} après {max_attempts} essais : "
+              f"{last_error} — on reprendra les valeurs du run précédent si elles existent.",
+              file=sys.stderr)
+        return None
 
     if isinstance(payload, list):
         rows = payload
@@ -750,6 +758,14 @@ def fetch_assiduite():
                 valeur = row[ck]
                 champ_source = ck
                 break
+        if valeur is None:
+            # Constaté sur les runs réels : la fiche individuelle répond bien
+            # mais sans aucune des clés attendues (valeur vide dans le JSON).
+            # On liste les clés réellement présentes pour pouvoir ajuster.
+            print(f"    ! {depute['nom']} : fiche trouvée (slug={slug}) mais aucun champ "
+                  f"{ASSIDUITE_CANDIDATE_KEYS} — clés disponibles : {sorted(row.keys())}",
+                  file=sys.stderr)
+            continue
         result[depute["pa"]] = {
             "valeur": valeur,
             "champ_source": champ_source,
@@ -762,6 +778,26 @@ def fetch_assiduite():
     manques = [d["nom"] for d in DEPUTES if d["pa"] not in result]
     if manques:
         print(f"  ! Non retrouvés par correspondance de nom (à vérifier) : {', '.join(manques)}")
+    return result
+
+
+def reprendre_assiduite_precedente(chemin="activite-data.json"):
+    """Si NosDéputés.fr est injoignable pendant ce run, on reprend les
+    valeurs d'indice d'activité du run précédent (déjà dans le dépôt) plutôt
+    que d'afficher un onglet vide. Chaque valeur garde sa date d'origine
+    ("date_donnees") pour que le dashboard puisse signaler qu'elle n'est pas
+    fraîche."""
+    try:
+        with open(chemin, encoding="utf-8") as f:
+            precedent = json.load(f)
+    except (OSError, ValueError):
+        return {}
+    date_precedente = (precedent.get("generated_at") or "")[:10] or None
+    result = {}
+    for pa, rec in (precedent.get("deputes") or {}).items():
+        a = rec.get("assiduite") if isinstance(rec, dict) else None
+        if isinstance(a, dict) and a.get("valeur") is not None:
+            result[pa] = {**a, "date_donnees": a.get("date_donnees") or date_precedente}
     return result
 
 
@@ -820,6 +856,17 @@ def main():
 
     print("→ Indice d'activité (NosDéputés.fr, une requête pour les 28 députés)")
     assiduite_par_pa = fetch_assiduite()
+    if assiduite_par_pa is None:
+        assiduite_par_pa = reprendre_assiduite_precedente()
+        dates = sorted({a["date_donnees"] for a in assiduite_par_pa.values() if a.get("date_donnees")})
+        output["assiduite_statut"] = {"a_jour": False, "date_donnees": dates[0] if dates else None}
+        print(f"  → {len(assiduite_par_pa)}/{len(DEPUTES)} valeur(s) reprise(s) du run précédent "
+              f"(données du {dates[0] if dates else '?'})")
+    else:
+        aujourd_hui = output["generated_at"][:10]
+        for a in assiduite_par_pa.values():
+            a["date_donnees"] = aujourd_hui
+        output["assiduite_statut"] = {"a_jour": True, "date_donnees": aujourd_hui}
 
     for depute in DEPUTES:
         print(f"→ {depute['nom']} ({depute['circo']})")
