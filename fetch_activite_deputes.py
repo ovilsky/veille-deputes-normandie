@@ -334,26 +334,40 @@ RESULT_RE = re.compile(r"(L'Assemblée nationale a adopté|L'Assemblée national
 # députés normands dans une même exécution, pas la peine de le refetcher.
 _scrutin_detail_cache = {}
 
-GROUP_POSITION_LINE_RE = re.compile(r"^(Pour|Contre|Abstention|Non votant)\s*:\s*(\d+)$")
-GROUP_HEADING_RE = re.compile(r"^(.+?)\(\s*\d+\s*membres?\s*\)$")
+# Structure RÉELLE de la page de scrutin (confirmée le 25/09/2026 via un
+# dump brut du texte de la page — voir --dump-scrutin) : la section
+# commence à "Répartition des votes par groupe", puis pour chaque groupe :
+#   <Nom du groupe>              ex. "Rassemblement National"
+#   (N membres)                  ex. "(122 membres)"
+#   <Catégorie>                  ex. "Pour"      (label seul, sur sa ligne)
+#   : <N>                        ex. ": 122"     (compte, sur la ligne suivante)
+#   <Civilité> <Nom député>      ex. "M. Franck Allisio", répété N fois
+#   [<Catégorie> / ": N" / noms...]   répété pour Contre / Abstention / Non votant
+#   <groupe suivant>
+# Une catégorie à 0 n'apparaît pas du tout (pas de "Contre : 0" fantôme).
+SCRUTIN_SECTION_START = "Répartition des votes par groupe"
+GROUP_MEMBERS_RE = re.compile(r"^\(\s*\d+\s*membres?\s*\)$")
+POSITION_LABEL_LINE = ("Pour", "Contre", "Abstention", "Non votant")
+POSITION_COUNT_RE = re.compile(r"^:\s*(\d+)$")
+DEPUTE_NAME_LINE_RE = re.compile(r"^(?:M\.|Mme)\s+(.+)$")
 
 
 def fetch_scrutin_detail(scrutin_url):
     """Récupère, pour un scrutin donné, à la fois le décompte Pour/Contre/
     Abstention par groupe politique ET la position individuelle de CHAQUE
     député nommément cité sur la page (tous groupes confondus), en un seul
-    passage sur la section "Votes des groupes" de la page d'analyse du
-    scrutin. Résultat mis en cache pour ne pas refetcher deux fois le même
-    scrutin.
+    passage sur la section "Répartition des votes par groupe" de la page
+    d'analyse du scrutin. Résultat mis en cache pour ne pas refetcher deux
+    fois le même scrutin.
 
     La page liste, pour chaque groupe, ses membres classés par catégorie de
-    vote ("Pour : N", "Contre : N", ...) suivie de leurs noms — cette liste
-    nominative permet de savoir QUELS députés normands ont pris part à un
-    scrutin donné, même quand ce scrutin ne figure pas parmi les votes
-    personnels les plus récents de tel ou tel député (cf. note sur
-    VOTES_MAX_PAGES) : un scrutin découvert via l'historique d'UN seul
-    député normand peut ainsi être complété avec tous les autres députés
-    normands qui y ont eux aussi pris part.
+    vote, chacun précédé de sa civilité ("M. Franck Allisio", "Mme Bénédicte
+    Auzanot", ...) — cette liste nominative permet de savoir QUELS députés
+    normands ont pris part à un scrutin donné, même quand ce scrutin ne
+    figure pas parmi les votes personnels les plus récents de tel ou tel
+    député (cf. note sur VOTES_MAX_PAGES) : un scrutin découvert via
+    l'historique d'UN seul député normand peut ainsi être complété avec
+    tous les autres députés normands qui y ont eux aussi pris part.
 
     Retourne (group_counts, votes_by_name) :
       - group_counts  : {nom_du_groupe: {"Pour": N, "Contre": N, ...}}
@@ -368,30 +382,38 @@ def fetch_scrutin_detail(scrutin_url):
         soup = get(scrutin_url)
         text = soup.get_text("\n")
         lines = [l.strip() for l in text.split("\n") if l.strip()]
-        start_idx = next((i for i, l in enumerate(lines) if l == "Votes des groupes"), None)
+        start_idx = next((i for i, l in enumerate(lines) if l == SCRUTIN_SECTION_START), None)
         if start_idx is not None:
             current_group = None
             current_position = None
-            for line in lines[start_idx + 1:]:
+            i = start_idx + 1
+            n = len(lines)
+            while i < n:
+                line = lines[i]
                 if any(stop in line for stop in ("Mentions légales", "LCP", "OPEN DATA", "Assemblée nationale -")):
                     break
-                heading_m = GROUP_HEADING_RE.match(line)
-                if heading_m:
-                    current_group = heading_m.group(1).strip()
+                # Titre de groupe : la ligne SUIVANTE est "(N membres)".
+                if i + 1 < n and GROUP_MEMBERS_RE.match(lines[i + 1]):
+                    current_group = line
                     current_position = None
+                    i += 2
                     continue
-                label_m = GROUP_POSITION_LINE_RE.match(line)
-                if label_m:
-                    current_position = label_m.group(1)
-                    if current_group:
-                        group_counts.setdefault(current_group, {})[current_position] = int(label_m.group(2))
-                    continue
-                # Ni un titre de groupe, ni un label de catégorie : c'est le
-                # nom d'un député nommément cité dans la catégorie en cours.
-                if current_position and current_group:
-                    key = normalize_name(line)
+                # Label de catégorie seul, suivi de ": N" sur la ligne suivante.
+                if line in POSITION_LABEL_LINE:
+                    count_m = POSITION_COUNT_RE.match(lines[i + 1]) if i + 1 < n else None
+                    if count_m:
+                        current_position = line
+                        if current_group:
+                            group_counts.setdefault(current_group, {})[current_position] = int(count_m.group(1))
+                        i += 2
+                        continue
+                # Nom de député, précédé de sa civilité.
+                name_m = DEPUTE_NAME_LINE_RE.match(line)
+                if name_m and current_position:
+                    key = normalize_name(name_m.group(1))
                     if key:
                         votes_by_name[key] = current_position
+                i += 1
     except requests.RequestException as e:
         print(f"    ! scrutin {scrutin_url}: {e}", file=sys.stderr)
 
