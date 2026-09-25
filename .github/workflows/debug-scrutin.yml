@@ -1,0 +1,20 @@
+name: Diagnostic scrutin
+
+on:
+  workflow_dispatch:
+    inputs:
+      scrutin_url:
+        description: "URL du scrutin à diagnostiquer"
+        required: true
+        default: "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987"
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - run: python fetch_activite_deputes.py --debug-scrutin "${{ github.event.inputs.scrutin_url }}"
