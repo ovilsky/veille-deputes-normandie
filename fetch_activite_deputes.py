@@ -918,8 +918,35 @@ def debug_scrutin(scrutin_url):
         print(f"  {marque:<45} {depute['nom']} ({depute['circo']})")
 
 
+def dump_scrutin_text(scrutin_url, context_lines=200):
+    """Diagnostic brut : affiche le texte RÉEL de la page, ligne par ligne,
+    à partir de la première ligne contenant "vote" (insensible à la casse
+    et aux accents). Contrairement à fetch_scrutin_detail (qui suppose une
+    structure précise), ceci n'interprète rien — sert à examiner la
+    structure exacte de la page quand cette hypothèse de structure s'avère
+    fausse (ex. "Groupes politiques détectés : 0"), pour corriger le motif
+    de reconnaissance sur des données réelles plutôt que des suppositions.
+
+    Usage : python3 fetch_activite_deputes.py --dump-scrutin <url>
+    """
+    try:
+        soup = get(scrutin_url)
+    except requests.RequestException as e:
+        print(f"! Échec de récupération de la page : {e}", file=sys.stderr)
+        return
+    lines = [l.strip() for l in soup.get_text("\n").split("\n") if l.strip()]
+    print(f"→ {len(lines)} lignes de texte non vides au total sur la page\n")
+    start = next((i for i, l in enumerate(lines) if "vote" in normalize_name(l)), 0)
+    end = min(len(lines), start + context_lines)
+    print(f"--- Lignes {start} à {end - 1} (sur {len(lines)}) ---")
+    for i in range(start, end):
+        print(f"{i:4d}: {lines[i]!r}")
+
+
 if __name__ == "__main__":
     if len(sys.argv) >= 3 and sys.argv[1] == "--debug-scrutin":
         debug_scrutin(sys.argv[2])
+    elif len(sys.argv) >= 3 and sys.argv[1] == "--dump-scrutin":
+        dump_scrutin_text(sys.argv[2])
     else:
         main()
