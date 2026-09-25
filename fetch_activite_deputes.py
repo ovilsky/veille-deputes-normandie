@@ -708,18 +708,30 @@ def fetch_assiduite():
               file=sys.stderr)
         return result
 
-    by_name = {}
+    # Trois index de correspondance, du plus fiable au moins fiable :
+    #  1. id_an : identifiant officiel AN (la partie chiffrée du "PA…"),
+    #     présent dans chaque ligne du flux — insensible aux accents, noms
+    #     d'usage, particules, etc. ;
+    #  2. slug NosDéputés.fr (pour ASSIDUITE_SLUG_OVERRIDES) ;
+    #  3. nom complet normalisé (ancienne méthode, gardée en dernier recours).
+    by_id_an, by_slug, by_name = {}, {}, {}
     for row in rows:
         if not isinstance(row, dict):
             continue
+        id_an = re.sub(r"\D", "", str(row.get("id_an") or ""))
+        if id_an:
+            by_id_an[id_an] = row
+        if row.get("slug"):
+            by_slug[row["slug"]] = row
         nom_complet = row.get("nom") or f"{row.get('prenom', '')} {row.get('nom_de_famille', '')}".strip()
-        if not nom_complet:
-            continue
-        by_name[normalize_name(nom_complet)] = row
+        if nom_complet:
+            by_name[normalize_name(nom_complet)] = row
 
     debug_printed = False
     for depute in DEPUTES:
-        row = by_name.get(normalize_name(depute["nom"]))
+        row = (by_id_an.get(re.sub(r"\D", "", depute["pa"]))
+               or by_slug.get(ASSIDUITE_SLUG_OVERRIDES.get(depute["pa"], ""))
+               or by_name.get(normalize_name(depute["nom"])))
         if row is None:
             continue
         valeur = None
@@ -775,9 +787,20 @@ def fetch_assiduite():
 
     matched = len(result)
     print(f"  → {matched}/{len(DEPUTES)} député(s) normand(s) retrouvé(s) sur NosDéputés.fr")
-    manques = [d["nom"] for d in DEPUTES if d["pa"] not in result]
+    manques = [d for d in DEPUTES if d["pa"] not in result]
     if manques:
-        print(f"  ! Non retrouvés par correspondance de nom (à vérifier) : {', '.join(manques)}")
+        print(f"  ! Absents du flux de synthèse NosDéputés.fr (ni par id AN, ni par slug, ni par nom) : "
+              f"{', '.join(d['nom'] for d in manques)}")
+        # Diagnostic : une ligne du flux porte-t-elle le même nom de famille ?
+        # Si oui, c'est un souci de correspondance à corriger ; sinon, le
+        # député n'est tout simplement pas couvert par ce flux.
+        for d in manques:
+            nom_famille = normalize_name(d["nom"]).split()[-1]
+            proches = [f"{r.get('nom')} (id_an={r.get('id_an')}, slug={r.get('slug')})"
+                       for r in rows if isinstance(r, dict)
+                       and nom_famille in normalize_name(r.get("nom_de_famille") or r.get("nom") or "").split()]
+            if proches:
+                print(f"    ? {d['nom']} ({d['pa']}) — homonymes possibles dans le flux : {'; '.join(proches)}")
     return result
 
 
