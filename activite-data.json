@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:38:12",
+  "generated_at": "2026-09-26T11:06:07",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -11418,7 +11418,7 @@
     }
   },
   "assiduite_statut": {
-    "a_jour": true,
+    "a_jour": false,
     "date_donnees": "2026-09-25"
   }
 }
