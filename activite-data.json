@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T11:44:39",
+  "generated_at": "2026-09-28T13:24:08",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -4096,7 +4096,168 @@
       "dept": "27",
       "circo": "Eure 5e circ.",
       "groupe": "Rassemblement National",
-      "questions": [],
+      "questions": [
+        {
+          "numero": "Question écrite n° 16062",
+          "date": "16 juin 2026",
+          "rubrique": "retraites : généralités",
+          "titre": "Prise en compte des prestations de prévoyance dans les droits à la retraite",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16062"
+        },
+        {
+          "numero": "Question écrite n° 14105",
+          "date": "7 avril 2026",
+          "rubrique": "impôts et taxes",
+          "titre": "Estimation du surplus de recettes fiscales lié à la hausse des prix du carburant",
+          "statut": "Réponse publiée le 2 juin 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14105"
+        },
+        {
+          "numero": "Question écrite n° 11845",
+          "date": "23 décembre 2025",
+          "rubrique": "administration",
+          "titre": "Conditions d'accès aux publications de La Documentation française",
+          "statut": "Réponse publiée le 3 mars 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11845"
+        },
+        {
+          "numero": null,
+          "date": "18 novembre 2025",
+          "rubrique": "industrie",
+          "titre": "Avenir du site ArianeGroup de Vernon",
+          "statut": "Réponse publiée le 26 novembre 2025",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD440"
+        },
+        {
+          "numero": "Question écrite n° 10875",
+          "date": "11 novembre 2025",
+          "rubrique": "industrie",
+          "titre": "Avenir du site ArianeGroup de Vernon",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE10875"
+        },
+        {
+          "numero": "Question au Gouvernement n° 900",
+          "date": "22 octobre 2025",
+          "rubrique": "énergie et carburants",
+          "titre": "Taxes sur les biocarburants",
+          "statut": "Question posée en séance",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG900"
+        },
+        {
+          "numero": "Question écrite n° 10041",
+          "date": "7 octobre 2025",
+          "rubrique": "banques et établissements financiers",
+          "titre": "Conséquences du fichage bancaire pour les particuliers en situation de fragilité",
+          "statut": "Réponse publiée le 3 février 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE10041"
+        },
+        {
+          "numero": "Question écrite n° 6799",
+          "date": "20 mai 2025",
+          "rubrique": "impôts locaux",
+          "titre": "Cotisation foncière des entreprises",
+          "statut": "Réponse publiée le 16 septembre 2025",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE6799"
+        },
+        {
+          "numero": "Question écrite n° 4924",
+          "date": "11 mars 2025",
+          "rubrique": "police",
+          "titre": "Effectifs de police à Vernon",
+          "statut": "Réponse publiée le 3 juin 2025",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE4924"
+        },
+        {
+          "numero": "Question écrite n° 2831",
+          "date": "10 décembre 2024",
+          "rubrique": "voirie",
+          "titre": "Péages à flux libres",
+          "statut": "Réponse publiée le 4 février 2025",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE2831"
+        },
+        {
+          "numero": "Question écrite n° 2202",
+          "date": "26 novembre 2024",
+          "rubrique": "agriculture",
+          "titre": "Difficultés des producteurs de cidre français",
+          "statut": "Réponse publiée le 20 mai 2025",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE2202"
+        },
+        {
+          "numero": "Question écrite n° 1802",
+          "date": "5 novembre 2024",
+          "rubrique": "travail",
+          "titre": "Visite médicale de reprise pour les intérimaires ayant plusieurs employeurs",
+          "statut": "Réponse publiée le 11 février 2025",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE1802"
+        },
+        {
+          "numero": "Question écrite n° 1799",
+          "date": "5 novembre 2024",
+          "rubrique": "transports ferroviaires",
+          "titre": "Ligne nouvelle Paris-Normandie",
+          "statut": "Réponse publiée le 10 décembre 2024",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE1799"
+        },
+        {
+          "numero": "Question écrite n° 1788",
+          "date": "5 novembre 2024",
+          "rubrique": "sécurité routière",
+          "titre": "Permis de conduire des jeunes forains",
+          "statut": "Réponse publiée le 18 février 2025",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE1788"
+        },
+        {
+          "numero": "Question écrite n° 1764",
+          "date": "5 novembre 2024",
+          "rubrique": "retraites : généralités",
+          "titre": "Gestion des relevés de carrière par les caisses de retraite complémentaire",
+          "statut": "Réponse publiée le 3 juin 2025",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE1764"
+        },
+        {
+          "numero": "Question écrite n° 1755",
+          "date": "5 novembre 2024",
+          "rubrique": "professions et activités sociales",
+          "titre": "Prime Laforcade",
+          "statut": "Réponse publiée le 15 avril 2025",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE1755"
+        },
+        {
+          "numero": "Question écrite n° 1746",
+          "date": "5 novembre 2024",
+          "rubrique": "professions de santé",
+          "titre": "Application de la loi visant à améliorer l'accès aux soins",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE1746"
+        },
+        {
+          "numero": "Question écrite n° 1745",
+          "date": "5 novembre 2024",
+          "rubrique": "professions de santé",
+          "titre": "Action de santé libérale en équipe",
+          "statut": "Réponse publiée le 22 avril 2025",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE1745"
+        },
+        {
+          "numero": "Question écrite n° 1743",
+          "date": "5 novembre 2024",
+          "rubrique": "pollution",
+          "titre": "Transmission d'informations d'épandage aux citoyens",
+          "statut": "Réponse publiée le 10 décembre 2024",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE1743"
+        },
+        {
+          "numero": "Question écrite n° 1709",
+          "date": "5 novembre 2024",
+          "rubrique": "logement : aides et prêts",
+          "titre": "Mise en œuvre du « prêt avance rénovation »",
+          "statut": "Réponse publiée le 9 septembre 2025",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE1709"
+        }
+      ],
       "rapports": [],
       "propositions": [],
       "votes": [
@@ -4365,9 +4526,247 @@
       "dept": "50",
       "circo": "Manche 1re circ.",
       "groupe": "Droite Républicaine",
-      "questions": [],
-      "rapports": [],
-      "propositions": [],
+      "questions": [
+        {
+          "numero": "Question écrite n° 18005",
+          "date": "8 septembre 2026",
+          "rubrique": "mort et décès",
+          "titre": "Obstacles médico-légaux à l'inhumation et décisions d'autopsie",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18005"
+        },
+        {
+          "numero": "Question écrite n° 17453",
+          "date": "28 juillet 2026",
+          "rubrique": "travail",
+          "titre": "Convention collective nationale des entreprises de prévention et de sécurité",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17453"
+        },
+        {
+          "numero": "Question écrite n° 17366",
+          "date": "28 juillet 2026",
+          "rubrique": "ordre public",
+          "titre": "Manifestation Iran",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17366"
+        },
+        {
+          "numero": "Question écrite n° 17228",
+          "date": "28 juillet 2026",
+          "rubrique": "anciens combattants et victimes de guerre",
+          "titre": "Médaille de la défense nationale avec agrafe « Monde combattant »",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17228"
+        },
+        {
+          "numero": "Question écrite n° 16671",
+          "date": "7 juillet 2026",
+          "rubrique": "état civil",
+          "titre": "Fonctions d'officier d'état civil",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16671"
+        },
+        {
+          "numero": "Question écrite n° 15510",
+          "date": "26 mai 2026",
+          "rubrique": "transports par eau",
+          "titre": "Dumping social observées dans le transport maritime",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15510"
+        },
+        {
+          "numero": "Question écrite n° 14988",
+          "date": "12 mai 2026",
+          "rubrique": "automobiles",
+          "titre": "Système d'immatriculation des véhicules",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14988"
+        },
+        {
+          "numero": "Question écrite n° 14513",
+          "date": "21 avril 2026",
+          "rubrique": "Mutualité sociale agricole",
+          "titre": "Ressources de la MSA",
+          "statut": "Réponse publiée le 28 avril 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14513"
+        },
+        {
+          "numero": "Question écrite n° 14510",
+          "date": "21 avril 2026",
+          "rubrique": "Mutualité sociale agricole",
+          "titre": "Moyens de la MSA",
+          "statut": "Réponse publiée le 28 avril 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14510"
+        },
+        {
+          "numero": "Question écrite n° 14509",
+          "date": "21 avril 2026",
+          "rubrique": "Mutualité sociale agricole",
+          "titre": "Moyens de la MSA",
+          "statut": "Réponse publiée le 23 juin 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14509"
+        },
+        {
+          "numero": "Question écrite n° 14506",
+          "date": "21 avril 2026",
+          "rubrique": "mort et décès",
+          "titre": "Obstacles médico-légaux à l'inhumation et des décisions d'autopsie judiciaire",
+          "statut": "Réponse publiée le 30 juin 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14506"
+        },
+        {
+          "numero": "Question écrite n° 14485",
+          "date": "21 avril 2026",
+          "rubrique": "impôt sur le revenu",
+          "titre": "Exonération fiscale applicable aux gratifications médailles",
+          "statut": "Réponse publiée le 30 juin 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14485"
+        },
+        {
+          "numero": "Question écrite n° 14410",
+          "date": "21 avril 2026",
+          "rubrique": "assurance maladie maternité",
+          "titre": "Déremboursement médecins non conventionnés",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14410"
+        },
+        {
+          "numero": "Question écrite n° 14386",
+          "date": "21 avril 2026",
+          "rubrique": "agriculture",
+          "titre": "MSA",
+          "statut": "Réponse publiée le 28 avril 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14386"
+        },
+        {
+          "numero": null,
+          "date": "17 mars 2026",
+          "rubrique": "transports ferroviaires",
+          "titre": "Avenir de la LNPN",
+          "statut": "Réponse publiée le 25 mars 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD624"
+        },
+        {
+          "numero": "Question écrite n° 13322",
+          "date": "3 mars 2026",
+          "rubrique": "numérique",
+          "titre": "Arnaques liées aux cryptomonnaies",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13322"
+        },
+        {
+          "numero": "Question écrite n° 13275",
+          "date": "3 mars 2026",
+          "rubrique": "consommation",
+          "titre": "Délégation des contrôles d'hygiène",
+          "statut": "Réponse publiée le 21 juillet 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13275"
+        },
+        {
+          "numero": "Question écrite n° 13259",
+          "date": "3 mars 2026",
+          "rubrique": "assurances",
+          "titre": "Assurance habitation",
+          "statut": "Réponse publiée le 28 avril 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13259"
+        },
+        {
+          "numero": "Question écrite n° 12777",
+          "date": "10 février 2026",
+          "rubrique": "industrie",
+          "titre": "LMB Aerospace",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12777"
+        },
+        {
+          "numero": "Question écrite n° 12775",
+          "date": "10 février 2026",
+          "rubrique": "industrie",
+          "titre": "Accélérer la construction d'installations industrielles relevant de la BITD",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12775"
+        }
+      ],
+      "rapports": [
+        {
+          "date": "19 mai 2026",
+          "titre": "Rapport n°2807",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b2807_rapport-fond"
+        },
+        {
+          "date": "25 mars 2026",
+          "titre": "Rapport n°2579",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b2579_rapport-fond"
+        },
+        {
+          "date": "27 octobre 2025",
+          "titre": "Rapport n°2005",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/1969/l17b2005_rapport-fond"
+        },
+        {
+          "date": "20 octobre 2025",
+          "titre": "Rapport n°1980",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1980_rapport-fond"
+        },
+        {
+          "date": "1 juillet 2025",
+          "titre": "Rapport d'information déposé par la délégation aux outre-mer sur la situation en Nouvelle-Calédonie (M. Philippe Gosselin, M. Nicolas Metzdorf, M. Davy Rimane et M. Emmanuel Tjibaou), n° 1653 (Rapport d'information n°1653)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/om/l17b1653_rapport-information"
+        },
+        {
+          "date": "12 juin 2025",
+          "titre": "Rapport n°1573",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1573_rapport-fond"
+        },
+        {
+          "date": "1 avril 2025",
+          "titre": "Rapport n°1199",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/693/l17b1199_rapport-fond"
+        },
+        {
+          "date": "29 janvier 2025",
+          "titre": "Rapport n°864",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b0864_rapport-fond"
+        },
+        {
+          "date": "15 janvier 2025",
+          "titre": "Rapport d'information déposé par la délégation aux outre-mer sur l’avenir institutionnel des outre-mer (M. Philippe Gosselin et M. Davy Rimane), n° 774 (Rapport d'information n°774)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/om/l17b0774_rapport-information"
+        }
+      ],
+      "propositions": [
+        {
+          "date": "14 avril 2026",
+          "titre": "Proposition de loi n°2653",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2653_proposition-loi"
+        },
+        {
+          "date": "14 avril 2026",
+          "titre": "Proposition de loi n°2649",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2649_proposition-loi"
+        },
+        {
+          "date": "3 décembre 2024",
+          "titre": "Proposition de loi n°693",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0693_proposition-loi"
+        },
+        {
+          "date": "3 décembre 2024",
+          "titre": "Proposition de loi n°683",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0683_proposition-loi"
+        },
+        {
+          "date": "26 septembre 2024",
+          "titre": "Proposition de résolution n°295",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0295_proposition-resolution"
+        },
+        {
+          "date": "17 septembre 2024",
+          "titre": "Proposition de loi n°205",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0205_proposition-loi"
+        }
+      ],
       "votes": [
         {
           "date": "21 juillet 2026",
@@ -4632,8 +5031,195 @@
       "dept": "50",
       "circo": "Manche 2e circ.",
       "groupe": "Ensemble pour la République",
-      "questions": [],
-      "rapports": [],
+      "questions": [
+        {
+          "numero": "Question écrite n° 18246",
+          "date": "22 septembre 2026",
+          "rubrique": "audiovisuel et communication",
+          "titre": "Accès à la radio France Musique",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18246"
+        },
+        {
+          "numero": "Question écrite n° 18122",
+          "date": "15 septembre 2026",
+          "rubrique": "décorations, insignes et emblèmes",
+          "titre": "Médaille de la défense nationale avec agrafe « Monde Combattant »",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18122"
+        },
+        {
+          "numero": "Question écrite n° 18078",
+          "date": "15 septembre 2026",
+          "rubrique": "agriculture",
+          "titre": "Conditions éligibilité indemnité carburant pour les agriculteurs",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18078"
+        },
+        {
+          "numero": "Question écrite n° 17593",
+          "date": "4 août 2026",
+          "rubrique": "retraites : généralités",
+          "titre": "Surcote parentale pour la génération 1964 et 1er trimestre 1965",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17593"
+        },
+        {
+          "numero": "Question écrite n° 17490",
+          "date": "4 août 2026",
+          "rubrique": "commerce et artisanat",
+          "titre": "Protection des biens propres des débitants de tabac",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17490"
+        },
+        {
+          "numero": "Question écrite n° 16842",
+          "date": "14 juillet 2026",
+          "rubrique": "commerce et artisanat",
+          "titre": "Clarification du développement des « drives piétons »",
+          "statut": "Réponse publiée le 1er septembre 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16842"
+        },
+        {
+          "numero": "Question écrite n° 16821",
+          "date": "14 juillet 2026",
+          "rubrique": "aquaculture et pêche professionnelle",
+          "titre": "Extension au mareyage du dispositif de déduction pour épargne de précaution",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16821"
+        },
+        {
+          "numero": "Question au Gouvernement n° 1748",
+          "date": "2 juillet 2026",
+          "rubrique": "patrimoine culturel",
+          "titre": "Gouvernance du Mont-Saint-Michel",
+          "statut": "Question posée en séance",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1748"
+        },
+        {
+          "numero": "Question écrite n° 16448",
+          "date": "30 juin 2026",
+          "rubrique": "impôt sur le revenu",
+          "titre": "Fiscalité familiale après séparation",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16448"
+        },
+        {
+          "numero": "Question écrite n° 16323",
+          "date": "23 juin 2026",
+          "rubrique": "sports",
+          "titre": "Limitation à trois mandats des présidents de ligues régionales sportives",
+          "statut": "Réponse publiée le 25 août 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16323"
+        },
+        {
+          "numero": "Question écrite n° 16198",
+          "date": "23 juin 2026",
+          "rubrique": "entreprises",
+          "titre": "Facturation électronique pour les TPE et micro-entreprises",
+          "statut": "Réponse publiée le 4 août 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16198"
+        },
+        {
+          "numero": "Question écrite n° 15680",
+          "date": "2 juin 2026",
+          "rubrique": "professions de santé",
+          "titre": "Statut des assistants en santé bucco-dentaire",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15680"
+        },
+        {
+          "numero": "Question écrite n° 15555",
+          "date": "2 juin 2026",
+          "rubrique": "élections et référendums",
+          "titre": "Élections dans les communes de moins de 1 000 habitants",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15555"
+        },
+        {
+          "numero": "Question écrite n° 15342",
+          "date": "26 mai 2026",
+          "rubrique": "commerce et artisanat",
+          "titre": "Arrêté du 23 décembre 2025 pour la branche esthétique cosmétique parfumerie",
+          "statut": "Réponse publiée le 21 juillet 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15342"
+        },
+        {
+          "numero": "Question écrite n° 15226",
+          "date": "19 mai 2026",
+          "rubrique": "logement : aides et prêts",
+          "titre": "Devenir des demandes d'aides en cours suite à la liquidation de Thermiconseil",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15226"
+        },
+        {
+          "numero": "Question écrite n° 14495",
+          "date": "21 avril 2026",
+          "rubrique": "justice",
+          "titre": "Loi SURE",
+          "statut": "Réponse publiée le 9 juin 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14495"
+        },
+        {
+          "numero": "Question écrite n° 14201",
+          "date": "14 avril 2026",
+          "rubrique": "aquaculture et pêche professionnelle",
+          "titre": "Augmentation du prix du carburant pour la filière conchylicole",
+          "statut": "Réponse publiée le 2 juin 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14201"
+        },
+        {
+          "numero": "Question écrite n° 14146",
+          "date": "7 avril 2026",
+          "rubrique": "politique sociale",
+          "titre": "Cumul pension d'invalidité avec la prime d'activité",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14146"
+        },
+        {
+          "numero": "Question écrite n° 14122",
+          "date": "7 avril 2026",
+          "rubrique": "Mutualité sociale agricole",
+          "titre": "Moyens alloués à la MSA pour la période 2026/2030",
+          "statut": "Réponse publiée le 28 avril 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14122"
+        },
+        {
+          "numero": "Question écrite n° 14037",
+          "date": "7 avril 2026",
+          "rubrique": "banques et établissements financiers",
+          "titre": "Protection des victimes face aux fraudes bancaires",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14037"
+        }
+      ],
+      "rapports": [
+        {
+          "date": "27 janvier 2026",
+          "titre": "Rapport n°2395",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/1641/l17b2395_rapport-fond"
+        },
+        {
+          "date": "10 décembre 2025",
+          "titre": "Rapport n°2233",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-cedu/l17b2233_rapport-fond"
+        },
+        {
+          "date": "29 octobre 2025",
+          "titre": "Tome IV - Enseignement scolaire (Avis n°2043- Tome IV)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-cedu/l17b2043-tiv_rapport-avis"
+        },
+        {
+          "date": "2 juillet 2025",
+          "titre": "Rapport n°1662",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-cedu/l17b1662_rapport-fond"
+        },
+        {
+          "date": "23 octobre 2024",
+          "titre": "Tome IV - Enseignement scolaire (Avis n°472- Tome IV)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-cedu/l17b0472-tiv_rapport-avis"
+        }
+      ],
       "propositions": [],
       "votes": [
         {
@@ -4864,7 +5450,168 @@
       "dept": "50",
       "circo": "Manche 3e circ.",
       "groupe": "Ensemble pour la République",
-      "questions": [],
+      "questions": [
+        {
+          "numero": "Question écrite n° 18403",
+          "date": "22 septembre 2026",
+          "rubrique": "urbanisme",
+          "titre": "Contraintes fiscales et administratives des serres de jardin",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18403"
+        },
+        {
+          "numero": "Question écrite n° 16888",
+          "date": "14 juillet 2026",
+          "rubrique": "enseignement",
+          "titre": "Prise en charge et l'inclusion scolaire enfants atteints de troubles dys/TDAH",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16888"
+        },
+        {
+          "numero": "Question écrite n° 16713",
+          "date": "7 juillet 2026",
+          "rubrique": "logement",
+          "titre": "Matériaux isolants de faible épaisseur",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16713"
+        },
+        {
+          "numero": "Question écrite n° 16388",
+          "date": "30 juin 2026",
+          "rubrique": "énergie et carburants",
+          "titre": "Place du biopropane dans la stratégie nationale de transition énergétique",
+          "statut": "Réponse publiée le 15 septembre 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16388"
+        },
+        {
+          "numero": "Question écrite n° 15255",
+          "date": "19 mai 2026",
+          "rubrique": "personnes handicapées",
+          "titre": "Prise en charge des personnes vieillissantes et en situation de handicap atteint",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15255"
+        },
+        {
+          "numero": "Question écrite n° 14895",
+          "date": "5 mai 2026",
+          "rubrique": "logement",
+          "titre": "Matériaux isolants",
+          "statut": "Réponse publiée le 9 juin 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14895"
+        },
+        {
+          "numero": "Question écrite n° 14809",
+          "date": "5 mai 2026",
+          "rubrique": "banques et établissements financiers",
+          "titre": "Diminution du nombre de DAB sur le territoire national",
+          "statut": "Réponse publiée le 21 juillet 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14809"
+        },
+        {
+          "numero": "Question écrite n° 14717",
+          "date": "28 avril 2026",
+          "rubrique": "Mutualité sociale agricole",
+          "titre": "MSA - moyens humains et financiers",
+          "statut": "Réponse publiée le 23 juin 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14717"
+        },
+        {
+          "numero": "Question écrite n° 14703",
+          "date": "28 avril 2026",
+          "rubrique": "intercommunalité",
+          "titre": "Suppléant conseiller communautaire - communes moins de 1 000 habitants",
+          "statut": "Réponse publiée le 8 septembre 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14703"
+        },
+        {
+          "numero": "Question écrite n° 14432",
+          "date": "21 avril 2026",
+          "rubrique": "déchets",
+          "titre": "Dysfonctionnements de la filière REP PMCB",
+          "statut": "Réponse publiée le 1er septembre 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14432"
+        },
+        {
+          "numero": "Question écrite n° 14121",
+          "date": "7 avril 2026",
+          "rubrique": "moyens de paiement",
+          "titre": "Risques de l'introduction d'un euro numérique de détail",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14121"
+        },
+        {
+          "numero": "Question écrite n° 14036",
+          "date": "7 avril 2026",
+          "rubrique": "banques et établissements financiers",
+          "titre": "Adaptation du cadre réglementaire applicable au secteur bancaire",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14036"
+        },
+        {
+          "numero": "Question écrite n° 13841",
+          "date": "31 mars 2026",
+          "rubrique": "agriculture",
+          "titre": "Difficultés d'accompagnement de trésorerie des producteurs viticoles",
+          "statut": "Réponse publiée le 21 juillet 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13841"
+        },
+        {
+          "numero": "Question écrite n° 13716",
+          "date": "24 mars 2026",
+          "rubrique": "chasse et pêche",
+          "titre": "Dispositif de déclaration des captures de pêche de loisir",
+          "statut": "Réponse publiée le 11 août 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13716"
+        },
+        {
+          "numero": "Question écrite n° 13395",
+          "date": "10 mars 2026",
+          "rubrique": "commerce et artisanat",
+          "titre": "Pratiques constatées dans le cadre des négociations commerciales de 2026",
+          "statut": "Réponse publiée le 9 juin 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13395"
+        },
+        {
+          "numero": "Question écrite n° 13363",
+          "date": "3 mars 2026",
+          "rubrique": "taxe sur la valeur ajoutée",
+          "titre": "Fiscalité applicable aux droits d'entrée dans les hippodromes",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13363"
+        },
+        {
+          "numero": "Question écrite n° 13233",
+          "date": "3 mars 2026",
+          "rubrique": "agriculture",
+          "titre": "Évolutions normatives relatives aux systèmes de freinage des matériels agricoles",
+          "statut": "Réponse publiée le 21 avril 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13233"
+        },
+        {
+          "numero": "Question au Gouvernement n° 1352",
+          "date": "25 février 2026",
+          "rubrique": "agriculture",
+          "titre": "Snanc et la filière bovine",
+          "statut": "Question posée en séance",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1352"
+        },
+        {
+          "numero": "Question écrite n° 13052",
+          "date": "24 février 2026",
+          "rubrique": "anciens combattants et victimes de guerre",
+          "titre": "Vétérans des essais nucléaires - Reconnaissance honorifique",
+          "statut": "Réponse publiée le 7 juillet 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13052"
+        },
+        {
+          "numero": "Question écrite n° 13042",
+          "date": "24 février 2026",
+          "rubrique": "agriculture",
+          "titre": "Cotisants solidaires - calamités agricoles",
+          "statut": "Réponse publiée le 21 juillet 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13042"
+        }
+      ],
       "rapports": [
         {
           "date": "20 janvier 2026",
@@ -5143,9 +5890,202 @@
       "dept": "50",
       "circo": "Manche 4e circ.",
       "groupe": "Socialistes et apparentés",
-      "questions": [],
-      "rapports": [],
-      "propositions": [],
+      "questions": [
+        {
+          "numero": "Question écrite n° 18370",
+          "date": "22 septembre 2026",
+          "rubrique": "santé",
+          "titre": "Politique de prévention des infections sexuellement transmissibles (IST)",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18370"
+        },
+        {
+          "numero": "Question écrite n° 18275",
+          "date": "22 septembre 2026",
+          "rubrique": "droits fondamentaux",
+          "titre": "Recours à l'isolement et à la contention en psychiatrie",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18275"
+        },
+        {
+          "numero": "Question écrite n° 17388",
+          "date": "28 juillet 2026",
+          "rubrique": "police",
+          "titre": "Moyens alloués aux services techniques du ministère de l'Intérieur",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17388"
+        },
+        {
+          "numero": "Question écrite n° 17179",
+          "date": "21 juillet 2026",
+          "rubrique": "police",
+          "titre": "Révision du schéma national du maintien de l'ordre",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17179"
+        },
+        {
+          "numero": "Question écrite n° 16966",
+          "date": "14 juillet 2026",
+          "rubrique": "pauvreté",
+          "titre": "Protection des personnes sans domicile fixe face aux vagues de fortes chaleurs",
+          "statut": "Réponse publiée le 8 septembre 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16966"
+        },
+        {
+          "numero": "Question écrite n° 16743",
+          "date": "7 juillet 2026",
+          "rubrique": "politique extérieure",
+          "titre": "Situation des droits humains en Tanzanie",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16743"
+        },
+        {
+          "numero": "Question écrite n° 16513",
+          "date": "30 juin 2026",
+          "rubrique": "politique extérieure",
+          "titre": "Situation politique en Tunisie",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16513"
+        },
+        {
+          "numero": "Question écrite n° 16282",
+          "date": "23 juin 2026",
+          "rubrique": "politique extérieure",
+          "titre": "Situation sanitaire au République démocratique du Congo",
+          "statut": "Réponse publiée le 15 septembre 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16282"
+        },
+        {
+          "numero": "Question écrite n° 15939",
+          "date": "16 juin 2026",
+          "rubrique": "énergie et carburants",
+          "titre": "Avenir du programme Slime",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15939"
+        },
+        {
+          "numero": "Question écrite n° 15714",
+          "date": "9 juin 2026",
+          "rubrique": "agroalimentaire",
+          "titre": "Plan de contrôle des produits issus du chanvre",
+          "statut": "Réponse publiée le 1er septembre 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15714"
+        },
+        {
+          "numero": "Question écrite n° 15334",
+          "date": "26 mai 2026",
+          "rubrique": "automobiles",
+          "titre": "Conditions d'éligibilité au dispositif de leasing social",
+          "statut": "Réponse publiée le 21 juillet 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15334"
+        },
+        {
+          "numero": "Question écrite n° 15263",
+          "date": "19 mai 2026",
+          "rubrique": "politique extérieure",
+          "titre": "Situation de la forêt amazonienne",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15263"
+        },
+        {
+          "numero": "Question écrite n° 14920",
+          "date": "5 mai 2026",
+          "rubrique": "politique extérieure",
+          "titre": "Situation humanitaire critique au Soudan",
+          "statut": "Réponse publiée le 2 juin 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14920"
+        },
+        {
+          "numero": "Question écrite n° 14741",
+          "date": "28 avril 2026",
+          "rubrique": "politique extérieure",
+          "titre": "Baisse des crédits liés à l'aide publique au développement",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14741"
+        },
+        {
+          "numero": "Question écrite n° 14715",
+          "date": "28 avril 2026",
+          "rubrique": "médecine",
+          "titre": "Effectifs et accès à la gynécologie médicale sur le territoire",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14715"
+        },
+        {
+          "numero": "Question écrite n° 13843",
+          "date": "31 mars 2026",
+          "rubrique": "agriculture",
+          "titre": "Plan d'action pour favoriser la place des femmes en agriculture",
+          "statut": "Réponse publiée le 28 avril 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13843"
+        },
+        {
+          "numero": "Question écrite n° 13544",
+          "date": "17 mars 2026",
+          "rubrique": "action humanitaire",
+          "titre": "Acheminement de l'aide humanitaire à Gaza",
+          "statut": "Réponse publiée le 14 avril 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13544"
+        },
+        {
+          "numero": "Question au Gouvernement n° 1344",
+          "date": "25 février 2026",
+          "rubrique": "politique extérieure",
+          "titre": "Soutien à l’Ukraine",
+          "statut": "Question posée en séance",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1344"
+        },
+        {
+          "numero": "Question écrite n° 12824",
+          "date": "10 février 2026",
+          "rubrique": "politique extérieure",
+          "titre": "Action diplomatique française et situation politique au Togo",
+          "statut": "Réponse publiée le 2 juin 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12824"
+        },
+        {
+          "numero": "Question écrite n° 12803",
+          "date": "10 février 2026",
+          "rubrique": "organisations internationales",
+          "titre": "Contribution française au fonds mondial",
+          "statut": "Réponse publiée le 28 avril 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12803"
+        }
+      ],
+      "rapports": [
+        {
+          "date": "25 février 2026",
+          "titre": "Rapport n°2534",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/due/l17b2534_rapport-fond"
+        }
+      ],
+      "propositions": [
+        {
+          "date": "20 février 2026",
+          "titre": "Proposition de résolution n°2517",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2517_proposition-resolution-europeenne"
+        },
+        {
+          "date": "17 avril 2025",
+          "titre": "Proposition de loi n°1325",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1325_proposition-loi"
+        },
+        {
+          "date": "24 mars 2025",
+          "titre": "Proposition de résolution n°1168",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1168_proposition-resolution-europeenne"
+        },
+        {
+          "date": "29 octobre 2024",
+          "titre": "Proposition de loi n°498",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0498_proposition-loi"
+        },
+        {
+          "date": "15 octobre 2024",
+          "titre": "Proposition de loi n°405",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0405_proposition-loi"
+        }
+      ],
       "votes": [
         {
           "date": "21 juillet 2026",
@@ -5288,8 +6228,175 @@
       "dept": "61",
       "circo": "Orne 1re circ.",
       "groupe": "Socialistes et apparentés",
-      "questions": [],
-      "rapports": [],
+      "questions": [
+        {
+          "numero": "Question écrite n° 17723",
+          "date": "11 août 2026",
+          "rubrique": "travail",
+          "titre": "Fermeture annuelle des entreprises et congés payés",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17723"
+        },
+        {
+          "numero": "Question écrite n° 17690",
+          "date": "11 août 2026",
+          "rubrique": "lieux de privation de liberté",
+          "titre": "Objectif « zéro contention »",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17690"
+        },
+        {
+          "numero": "Question écrite n° 16453",
+          "date": "30 juin 2026",
+          "rubrique": "institutions sociales et médico sociales",
+          "titre": "Bonus attractivité ADMR",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16453"
+        },
+        {
+          "numero": "Question écrite n° 15860",
+          "date": "9 juin 2026",
+          "rubrique": "réfugiés et apatrides",
+          "titre": "Nouveau cahier des charges des centres d'accueil pour demandeurs d'asile",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15860"
+        },
+        {
+          "numero": "Question écrite n° 15770",
+          "date": "9 juin 2026",
+          "rubrique": "enseignement agricole",
+          "titre": "Statut AVS",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15770"
+        },
+        {
+          "numero": "Question écrite n° 15271",
+          "date": "19 mai 2026",
+          "rubrique": "retraites : généralités",
+          "titre": "Décret relatif à la suspension de la réforme des retraites",
+          "statut": "Réponse publiée le 30 juin 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15271"
+        },
+        {
+          "numero": "Question écrite n° 15139",
+          "date": "19 mai 2026",
+          "rubrique": "agriculture",
+          "titre": "Crise laitière",
+          "statut": "Réponse publiée le 1er septembre 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15139"
+        },
+        {
+          "numero": "Question au Gouvernement n° 1401",
+          "date": null,
+          "rubrique": "enseignement",
+          "titre": "Suppression de postes d'enseignants",
+          "statut": "Question posée en séance",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1401"
+        },
+        {
+          "numero": "Question écrite n° 13798",
+          "date": "24 mars 2026",
+          "rubrique": "professions judiciaires et juridiques",
+          "titre": "Délais de paiement des experts judiciaires",
+          "statut": "Réponse publiée le 26 mai 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13798"
+        },
+        {
+          "numero": "Question écrite n° 13441",
+          "date": "10 mars 2026",
+          "rubrique": "femmes",
+          "titre": "Inscription de la loi intégrale n°2169 à l'ordre du jour",
+          "statut": "Réponse publiée le 21 avril 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13441"
+        },
+        {
+          "numero": "Question écrite n° 13003",
+          "date": "17 février 2026",
+          "rubrique": "politique sociale",
+          "titre": "Cumul pension d'invalidité prime d'activité",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13003"
+        },
+        {
+          "numero": "Question écrite n° 12429",
+          "date": "27 janvier 2026",
+          "rubrique": "examens, concours et diplômes",
+          "titre": "Valorisation de l'engagement sportif au DNB",
+          "statut": "Réponse publiée le 17 mars 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12429"
+        },
+        {
+          "numero": null,
+          "date": "20 janvier 2026",
+          "rubrique": "lieux de privation de liberté",
+          "titre": "Sécurité agents pénitentiaires quartier de lutte contre la criminalité organisée",
+          "statut": "Réponse publiée le 28 janvier 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD548"
+        },
+        {
+          "numero": "Question écrite n° 11066",
+          "date": "18 novembre 2025",
+          "rubrique": "retraites : généralités",
+          "titre": "Décret relatif aux cotisations sociales des conjoints collaborateurs",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11066"
+        },
+        {
+          "numero": "Question écrite n° 11047",
+          "date": "18 novembre 2025",
+          "rubrique": "personnes handicapées",
+          "titre": "Portabilité des mutuelles des usagers ESAT",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11047"
+        },
+        {
+          "numero": "Question écrite n° 9538",
+          "date": "2 septembre 2025",
+          "rubrique": "retraites : généralités",
+          "titre": "Publication du décret sur la retraite des pompiers volontaires",
+          "statut": "Réponse publiée le 28 octobre 2025",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE9538"
+        },
+        {
+          "numero": "Question écrite n° 9476",
+          "date": "2 septembre 2025",
+          "rubrique": "déchets",
+          "titre": "Le Relais : coût réel du tri",
+          "statut": "Réponse publiée le 1er septembre 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE9476"
+        },
+        {
+          "numero": "Question écrite n° 9390",
+          "date": "19 août 2025",
+          "rubrique": "personnes handicapées",
+          "titre": "Maintien de l'AAH après 62 ans",
+          "statut": "Réponse publiée le 2 décembre 2025",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE9390"
+        },
+        {
+          "numero": "Question écrite n° 9371",
+          "date": "19 août 2025",
+          "rubrique": "associations et fondations",
+          "titre": "Réduction de 15 000 agréments pour le service civique",
+          "statut": "Réponse publiée le 11 novembre 2025",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE9371"
+        },
+        {
+          "numero": "Question écrite n° 8132",
+          "date": "14 juillet 2026",
+          "rubrique": "professions de santé",
+          "titre": "Décret n° 2025-468 concernant les PADHUE",
+          "statut": "Réponse publiée le 14 juillet 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE8132"
+        }
+      ],
+      "rapports": [
+        {
+          "date": "4 décembre 2024",
+          "titre": "Rapport n°703",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-soc/l17b0703_rapport-fond"
+        }
+      ],
       "propositions": [],
       "votes": [
         {
@@ -5531,9 +6638,181 @@
       "dept": "61",
       "circo": "Orne 2e circ.",
       "groupe": "Droite Républicaine",
-      "questions": [],
+      "questions": [
+        {
+          "numero": "Question écrite n° 17626",
+          "date": "4 août 2026",
+          "rubrique": "taxe sur la valeur ajoutée",
+          "titre": "TVA promesses vente, contrat réservation conclusion fait générateur art.257I1-2°",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17626"
+        },
+        {
+          "numero": "Question écrite n° 17625",
+          "date": "4 août 2026",
+          "rubrique": "taxe sur la valeur ajoutée",
+          "titre": "TVA baux constitutifs de droits réels maintien de l'option art. 260, 5° CGI",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17625"
+        },
+        {
+          "numero": "Question écrite n° 16989",
+          "date": "14 juillet 2026",
+          "rubrique": "prestations familiales",
+          "titre": "Allocations familiales pour enfants placés à l'ASE",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16989"
+        },
+        {
+          "numero": "Question écrite n° 16971",
+          "date": "14 juillet 2026",
+          "rubrique": "personnes handicapées",
+          "titre": "Personnes en situation de handicap percevant de faibles pensions de retraite",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16971"
+        },
+        {
+          "numero": "Question écrite n° 16882",
+          "date": "14 juillet 2026",
+          "rubrique": "enfants",
+          "titre": "Placement d'enfants mineurs sous le régime de la tutelle",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16882"
+        },
+        {
+          "numero": "Question écrite n° 16271",
+          "date": "23 juin 2026",
+          "rubrique": "personnes handicapées",
+          "titre": "Conditions d'accueil et d'accompagnement des élèves en situation de handicap",
+          "statut": "Réponse publiée le 15 septembre 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16271"
+        },
+        {
+          "numero": "Question écrite n° 16092",
+          "date": "16 juin 2026",
+          "rubrique": "taxe sur la valeur ajoutée",
+          "titre": "TVA : mise à disposition d'un véhicule par l'employeur à son salarié",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16092"
+        },
+        {
+          "numero": "Question écrite n° 16091",
+          "date": "16 juin 2026",
+          "rubrique": "taxe sur la valeur ajoutée",
+          "titre": "TVA : droits à déduction - Immeubles en stock",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16091"
+        },
+        {
+          "numero": "Question écrite n° 16090",
+          "date": "16 juin 2026",
+          "rubrique": "taxe sur la valeur ajoutée",
+          "titre": "TVA - crédit-bail immobilier de l'art. 207, III-3 ann. II au CGI",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16090"
+        },
+        {
+          "numero": "Question écrite n° 16088",
+          "date": "16 juin 2026",
+          "rubrique": "taxe sur la valeur ajoutée",
+          "titre": "Dispense de TVA - Article 257 bis du CGI",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16088"
+        },
+        {
+          "numero": "Question écrite n° 16001",
+          "date": "16 juin 2026",
+          "rubrique": "impôts locaux",
+          "titre": "DMTO - engagement de construire - art. 1594-0 G, A du CGI",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16001"
+        },
+        {
+          "numero": "Question écrite n° 16000",
+          "date": "16 juin 2026",
+          "rubrique": "impôts locaux",
+          "titre": "Conditions d'application de l'exonération de taxe de publicité foncière (TPF)",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16000"
+        },
+        {
+          "numero": "Question écrite n° 15881",
+          "date": "9 juin 2026",
+          "rubrique": "taxe sur la valeur ajoutée",
+          "titre": "TVA sur marge - art. 268 du CGI",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15881"
+        },
+        {
+          "numero": "Question écrite n° 15855",
+          "date": "9 juin 2026",
+          "rubrique": "professions de santé",
+          "titre": "ZFRR - Difficultés exonération fiscale",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15855"
+        },
+        {
+          "numero": "Question écrite n° 16001",
+          "date": "16 juin 2026",
+          "rubrique": "impôts locaux",
+          "titre": "DMTO - engagement de construire - art. 1594-0 G, A du CGI",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15681"
+        },
+        {
+          "numero": "Question écrite n° 15361",
+          "date": "26 mai 2026",
+          "rubrique": "élevage",
+          "titre": "Crise laitière",
+          "statut": "Réponse publiée le 1er septembre 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15361"
+        },
+        {
+          "numero": "Question écrite n° 15220",
+          "date": "19 mai 2026",
+          "rubrique": "institutions sociales et médico sociales",
+          "titre": "Exclusion de la branche BAD du bonus attractivité",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15220"
+        },
+        {
+          "numero": null,
+          "date": "5 mai 2026",
+          "rubrique": "enseignement",
+          "titre": "Fermetures de classes dans l'Orne",
+          "statut": "Réponse publiée le 13 mai 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD759"
+        },
+        {
+          "numero": "Question au Gouvernement n° 1483",
+          "date": "29 avril 2026",
+          "rubrique": "énergie et carburants",
+          "titre": "Prix des carburants",
+          "statut": "Question posée en séance",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1483"
+        },
+        {
+          "numero": "Question au Gouvernement n° 836",
+          "date": "26 juin 2025",
+          "rubrique": "défense",
+          "titre": "Industrie de défense",
+          "statut": "Question posée en séance",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG836"
+        }
+      ],
       "rapports": [],
-      "propositions": [],
+      "propositions": [
+        {
+          "date": "8 juin 2026",
+          "titre": "Proposition de résolution n°2881",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2881_proposition-resolution"
+        },
+        {
+          "date": "11 avril 2025",
+          "titre": "Proposition de résolution n°1280",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1280_proposition-resolution"
+        }
+      ],
       "votes": [
         {
           "date": "21 juillet 2026",
@@ -6099,9 +7378,9 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19455448?timeCode=3839.36&depute=PA841595"
         },
         {
-          "date": "mercredi 23 septembre 2026",
-          "titre": "Commission des affaires étrangères : Représentants de la Commission d’évaluation de l’aide publique au développement",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19454154?timeCode=4239.36&depute=PA841595"
+          "date": "mardi 12 mai 2026",
+          "titre": "2ème séance : Questions au gouvernement ; Accélérer le développement du transport maritime à propulsion vélique(suite) ; Information et protection des victimes de violences sexuelles",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV18886859?timeCode=3456.46&depute=PA841595"
         }
       ],
       "assiduite": null
@@ -9389,9 +10668,9 @@
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19455448?timeCode=5759.43&depute=PA335612"
         },
         {
-          "date": "mercredi 23 septembre 2026",
-          "titre": "Commission des affaires étrangères : Représentants de la Commission d’évaluation de l’aide publique au développement",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19454154?timeCode=6159.43&depute=PA335612"
+          "date": "lundi 20 juillet 2026",
+          "titre": "1ère séance : Organisation, gestion et financement du sport professionnel (CMP) ; Accélérer la prévention cardio-neuro-vasculaire (CMP) ; Pour une montagne vivante et souveraine (CMP)",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19384675?timeCode=9553.33&depute=PA335612"
         }
       ],
       "assiduite": {
