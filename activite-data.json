@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:28:34",
+  "generated_at": "2026-09-30T12:13:33",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -8337,14 +8337,14 @@
       ],
       "interventions": [
         {
-          "date": "mardi 8 septembre 2026",
-          "titre": "Commission des affaires sociales et Commission des lois : Suites à donner sur l’affaire Joël Le Scouarnec",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19425453?timeCode=4338.88&depute=PA722102"
+          "date": "mardi 29 septembre 2026",
+          "titre": "Commission des affaires sociales : Répartition des dépenses entre l’assurance maladie obligatoire et l’assurance maladie complémentaire",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19466482?timeCode=4863.48&depute=PA722102"
         },
         {
-          "date": "mardi 8 septembre 2026",
-          "titre": "Commission des affaires sociales et Commission des lois : Suites à donner sur l’affaire Joël Le Scouarnec",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19425453?timeCode=3503.29&depute=PA722102"
+          "date": "mardi 29 septembre 2026",
+          "titre": "Commission des affaires sociales : Répartition des dépenses entre l’assurance maladie obligatoire et l’assurance maladie complémentaire",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19466482?timeCode=2390&depute=PA722102"
         }
       ],
       "assiduite": {
@@ -8521,8 +8521,30 @@
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11889"
         }
       ],
-      "rapports": [],
-      "propositions": [],
+      "rapports": [
+        {
+          "date": "28 mai 2025",
+          "titre": "Rapport n°1473",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-soc/l17b1473_rapport-fond"
+        }
+      ],
+      "propositions": [
+        {
+          "date": "11 septembre 2025",
+          "titre": "Proposition de résolution n°1780",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1780_proposition-resolution"
+        },
+        {
+          "date": "22 avril 2025",
+          "titre": "Proposition de loi n°1342",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1342_proposition-loi"
+        },
+        {
+          "date": "22 avril 2025",
+          "titre": "Proposition de loi n°1340",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1340_proposition-loi"
+        }
+      ],
       "votes": [
         {
           "date": "21 juillet 2026",
@@ -8716,48 +8738,7 @@
       "dept": "76",
       "circo": "Seine-Maritime 4e circ.",
       "groupe": "La France insoumise - Nouveau Front Populaire",
-      "questions": [
-        {
-          "numero": "Question écrite n° 11949",
-          "date": "23 décembre 2025",
-          "rubrique": "établissements de santé",
-          "titre": "Licenciement discriminatoire d'une infirmière musulmane à l'hôpital",
-          "statut": "Réponse publiée le 12 mai 2026",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11949"
-        },
-        {
-          "numero": "Question au Gouvernement n° 1080",
-          "date": "10 décembre 2025",
-          "rubrique": "produits dangereux",
-          "titre": "Exposition à l’amiante des salariés d’ArcelorMittal",
-          "statut": "Question posée en séance",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1080"
-        },
-        {
-          "numero": "Question au Gouvernement n° 792",
-          "date": "18 juin 2025",
-          "rubrique": "politique extérieure",
-          "titre": "Conflit entre Israël et l’Iran",
-          "statut": "Question posée en séance",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG792"
-        },
-        {
-          "numero": null,
-          "date": "18 mars 2025",
-          "rubrique": "entreprises",
-          "titre": "Faillites d'entreprises record, quelles solutions ?",
-          "statut": "Réponse publiée le 26 mars 2025",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD257"
-        },
-        {
-          "numero": "Question au Gouvernement n° 289",
-          "date": "22 janvier 2025",
-          "rubrique": "politique extérieure",
-          "titre": "Cessez-le-feu à Gaza",
-          "statut": "Question posée en séance",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG289"
-        }
-      ],
+      "questions": [],
       "rapports": [
         {
           "date": "20 novembre 2024",
@@ -9400,14 +9381,14 @@
       ],
       "interventions": [
         {
-          "date": "mardi 22 septembre 2026",
-          "titre": "Augmentation de la pauvreté : Mme Aude Muscatelli, directrice générale adjointe de la Caisse nationale de solidarité pour l’autonomie",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19451524?timeCode=4587.82&depute=PA774958"
+          "date": "mardi 29 septembre 2026",
+          "titre": "Augmentation de la pauvreté : Représentants de la Direction de l’habitat, de l’urbanisme et des paysages (DHUP) ; M. Jean-Pierre Farandou, ministre du travail et des solidarités",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19466620?timeCode=11387.91&depute=PA774958"
         },
         {
-          "date": "mardi 22 septembre 2026",
-          "titre": "Augmentation de la pauvreté : Mme Aude Muscatelli, directrice générale adjointe de la Caisse nationale de solidarité pour l’autonomie",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19451524?timeCode=4245.4&depute=PA774958"
+          "date": "mardi 29 septembre 2026",
+          "titre": "Augmentation de la pauvreté : Représentants de la Direction de l’habitat, de l’urbanisme et des paysages (DHUP) ; M. Jean-Pierre Farandou, ministre du travail et des solidarités",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19466620?timeCode=11194.71&depute=PA774958"
         }
       ],
       "assiduite": {
@@ -11001,14 +10982,14 @@
       ],
       "interventions": [
         {
+          "date": "mardi 29 septembre 2026",
+          "titre": "Commission des affaires économiques : Responsabilité des locataires et des bailleurs dans le logement social",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19466552?timeCode=2698.48&depute=PA795270"
+        },
+        {
           "date": "mardi 30 juin 2026",
           "titre": "2ème séance : Questions au Gouvernement ; Fin de vie (vote solennel) ; Justice criminelle (projets de loi ordinaire et organique)",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19270648?timeCode=4695.42&depute=PA795270"
-        },
-        {
-          "date": "mercredi 24 juin 2026",
-          "titre": "Commission des affaires économiques : Situation économique et perspectives de développement de la filière ameublement",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19221983?timeCode=3706.35&depute=PA795270"
         }
       ],
       "assiduite": {
