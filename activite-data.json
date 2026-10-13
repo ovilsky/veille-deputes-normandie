@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T14:56:06",
+  "generated_at": "2026-10-13T13:53:28",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -213,6 +213,39 @@
       ],
       "votes": [
         {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8695 sur l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8695",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 1
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8694 sur l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8694",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 2
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8693 sur l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8693",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 6
+          }
+        },
+        {
           "date": "8 octobre 2026",
           "objet": "Scrutin public n°8612 sur la proposition de résolution invitant le Gouvernement à engager les démarches en vue de soutenir l'entrée au Panthéon d'Olympe de Gouges, de l'abbé Charles-Michel de l'Epée et de Zéna M'Déré (article 34-1 de la Constitution).",
           "position": "Contre",
@@ -290,39 +323,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 4
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8550 sur l'amendement n° 715 de Mme Blanc à l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8550",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 3
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8548 sur l'amendement n° 235 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8548",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 3
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8544 sur l'amendement n° 734 de Mme de Pélichy après l'article 18 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8544",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 9
           }
         },
         {
@@ -407,19 +407,6 @@
             "Pour": 10,
             "Contre": 2,
             "Abstention": 4
-          }
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 12,
-            "Contre": 3,
-            "Abstention": 2
           }
         },
         {
@@ -557,14 +544,14 @@
       ],
       "interventions": [
         {
+          "date": "lundi 12 octobre 2026",
+          "titre": "2ème séance : Gouvernance territoriale unifiée pour le CREPS de Vichy ; Convention d'extradition France-Colombie",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19541299?timeCode=3771.51&depute=PA840817"
+        },
+        {
           "date": "mardi 6 octobre 2026",
           "titre": "Commission des affaires culturelles : Expérimentation d’une gouvernance territoriale unifiée pour le Creps de Vichy",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19500524?timeCode=3019.97&depute=PA840817"
-        },
-        {
-          "date": "mercredi 30 septembre 2026",
-          "titre": "Commission des affaires culturelles : Résultats de l’enquête du Programme international pour le suivi des acquis des élèves (Pisa) 2025 ; Fonction de directrice ou de directeur d’école",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19469146?timeCode=7749.41&depute=PA840817"
         }
       ],
       "assiduite": null
@@ -973,18 +960,6 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 33,
-            "Abstention": 2
-          }
-        },
-        {
-          "date": "20 juillet 2026",
           "objet": "Scrutin public n°8425 sur l'amendement n° 8 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
           "resultat": "Adopté",
@@ -1117,40 +1092,6 @@
         },
         {
           "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8544 sur l'amendement n° 734 de Mme de Pélichy après l'article 18 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8544",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 34
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8548 sur l'amendement n° 235 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8548",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 32
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8550 sur l'amendement n° 715 de Mme Blanc à l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8550",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 33,
-            "Abstention": 3
-          }
-        },
-        {
-          "date": "6 octobre 2026",
           "objet": "Scrutin public n°8551 sur l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
@@ -1177,7 +1118,7 @@
         "valeur": 74,
         "champ_source": "semaines_presence",
         "slug": "arthur-delaporte",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA793398": {
@@ -1243,38 +1184,7 @@
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG18"
         }
       ],
-      "rapports": [
-        {
-          "date": "1 avril 2026",
-          "titre": "Rapport n°2612",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-soc/l17b2612_rapport-fond"
-        },
-        {
-          "date": "11 février 2026",
-          "titre": "Rapport d'information n°2474",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/natalite/l17b2474-ti_rapport-information"
-        },
-        {
-          "date": "29 octobre 2025",
-          "titre": "Tome III - Culture : Patrimoines (Avis n°2043- Tome III)",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-cedu/l17b2043-tiii_rapport-avis"
-        },
-        {
-          "date": "18 juin 2025",
-          "titre": "Rapport supplémentaire n°1591",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-cedu/l17b1591_rapport-fond"
-        },
-        {
-          "date": "9 avril 2025",
-          "titre": "Rapport n°1266",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-cedu/l17b1266_rapport-fond"
-        },
-        {
-          "date": "23 octobre 2024",
-          "titre": "Tome III - Culture : Patrimoines (Avis n°472- Tome III)",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-cedu/l17b0472-tiii_rapport-avis"
-        }
-      ],
+      "rapports": [],
       "propositions": [
         {
           "date": "17 février 2026",
@@ -1416,7 +1326,7 @@
         "valeur": 71,
         "champ_source": "semaines_presence",
         "slug": "jeremie-patrier-leitus",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA719024": {
@@ -1842,19 +1752,6 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 19,
-            "Contre": 3,
-            "Abstention": 5
-          }
-        },
-        {
-          "date": "20 juillet 2026",
           "objet": "Scrutin public n°8425 sur l'amendement n° 8 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Abstention",
           "resultat": "Adopté",
@@ -1989,7 +1886,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "christophe-blanchet",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA719032": {
@@ -2210,13 +2107,38 @@
       ],
       "votes": [
         {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8696 sur l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8696",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 3
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8695 sur l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8695",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 4
+          }
+        },
+        {
           "date": "7 octobre 2026",
           "objet": "Scrutin public n°8608 sur l'amendement n° 738 de Mme Cathala après l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8608",
-          "conforme_groupe": null,
-          "detail_groupe": null
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 3,
+            "Non votant": 1
+          }
         },
         {
           "date": "7 octobre 2026",
@@ -2224,8 +2146,12 @@
           "position": "Contre",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8607",
-          "conforme_groupe": null,
-          "detail_groupe": null
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 1,
+            "Contre": 2,
+            "Non votant": 1
+          }
         },
         {
           "date": "7 octobre 2026",
@@ -2297,30 +2223,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 3,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8600 sur l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8600",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 4,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8599 sur l'amendement n° 1198 du Gouvernement à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8599",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 4,
             "Non votant": 1
           }
         },
@@ -2616,62 +2518,25 @@
           "detail_groupe": {
             "Pour": 5
           }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8596 sur l'amendement n° 652 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8596",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Contre": 5,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8597 sur l'amendement n° 617 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8597",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 6,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8598 sur l'amendement n° 614 de Mme Cathala à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8598",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 6,
-            "Non votant": 1
-          }
         }
       ],
       "interventions": [
         {
+          "date": "lundi 12 octobre 2026",
+          "titre": "2ème séance : Gouvernance territoriale unifiée pour le CREPS de Vichy ; Convention d'extradition France-Colombie",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19541299?timeCode=7315.13&depute=PA719032"
+        },
+        {
           "date": "mercredi 7 octobre 2026",
           "titre": "Commission des affaires étrangères : Projet de contrats d’objectifs et de moyens entre l’État et l’AFD ; Avis budgétaires sur le PLF pour 2027 ; Prélèvement sur recettes au profit de l’UE",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19504532?timeCode=2890.83&depute=PA719032"
-        },
-        {
-          "date": "mardi 6 octobre 2026",
-          "titre": "2ème séance : Réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants (suite)",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19502241?timeCode=1940.12&depute=PA719032"
         }
       ],
       "assiduite": {
         "valeur": 64,
         "champ_source": "semaines_presence",
         "slug": "bertrand-bouyx",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA717161": {
@@ -2725,11 +2590,8 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8659",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 13,
-            "Non votant": 1
-          }
+          "conforme_groupe": null,
+          "detail_groupe": null
         },
         {
           "date": "9 octobre 2026",
@@ -2881,20 +2743,6 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": false,
-          "detail_groupe": {
-            "Pour": 45,
-            "Contre": 6,
-            "Abstention": 3,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "20 juillet 2026",
           "objet": "Scrutin public n°8425 sur l'amendement n° 8 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
           "resultat": "Adopté",
@@ -2991,18 +2839,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 23,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8550 sur l'amendement n° 715 de Mme Blanc à l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8550",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 31,
             "Non votant": 1
           }
         },
@@ -3239,110 +3075,114 @@
       ],
       "votes": [
         {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8660 sur l'article 57 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8694 sur l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8660",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 23
-          }
-        },
-        {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8659 sur l'article 56 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8659",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 25
-          }
-        },
-        {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8658 sur l'article 55 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8658",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 27
-          }
-        },
-        {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8657 sur l'article 54 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8657",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 27
-          }
-        },
-        {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8656 sur l'amendement n° 1266 de M. Peytavie à l'article 54 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8656",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8694",
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 20
           }
         },
         {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8655 sur l'article 53 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8693 sur l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8655",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8693",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 28
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8692 sur l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8692",
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 26
           }
         },
         {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8654 sur l'amendement n° 386 du Gouvernement de suppression de l'article 52 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8691 sur l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
           "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8654",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8691",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 31
+            "Pour": 28
           }
         },
         {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8653 sur l'article 51 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8690 sur l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8690",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 24
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8689 sur l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8689",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 28
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8688 sur l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8653",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8688",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 30
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8687 sur l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8687",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 30
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8686 sur l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8686",
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 27
           }
         },
         {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8651 sur l'article 49 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8685 sur l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
           "position": "Abstention",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8651",
-          "conforme_groupe": null,
-          "detail_groupe": null
-        },
-        {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8650 sur l'amendement n° 1172 de Mme Vidal à l'article 49 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Abstention",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8650",
-          "conforme_groupe": null,
-          "detail_groupe": null
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8685",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 25
+          }
         },
         {
           "date": "15 juillet 2026",
@@ -3410,18 +3250,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 83,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 83,
             "Non votant": 1
           }
         },
@@ -3568,40 +3396,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 44
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8544 sur l'amendement n° 734 de Mme de Pélichy après l'article 18 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8544",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8548 sur l'amendement n° 235 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8548",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 53
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8550 sur l'amendement n° 715 de Mme Blanc à l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8550",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 31,
-            "Contre": 1
           }
         },
         {
@@ -3829,40 +3623,6 @@
         },
         {
           "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8594 sur l'amendement n° 562 de Mme Erodi à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8594",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 41,
-            "Contre": 2
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8595 sur l'amendement n° 263 de M. Huyghe et les amendements identiques suivants à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8595",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 46
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8596 sur l'amendement n° 652 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8596",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 39
-          }
-        },
-        {
-          "date": "7 octobre 2026",
           "objet": "Scrutin public n°8601 sur l'amendement n° 558 de Mme Cathala après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
@@ -3925,6 +3685,28 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 30
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8607 sur l'amendement n° 731 de Mme Leboucher à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8607",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 31
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8608 sur l'amendement n° 738 de Mme Cathala après l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8608",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 31
           }
         },
         {
@@ -4168,6 +3950,94 @@
             "Abstention": 41,
             "Non votant": 1
           }
+        },
+        {
+          "date": "9 octobre 2026",
+          "objet": "Scrutin public n°8653 sur l'article 51 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8653",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 27
+          }
+        },
+        {
+          "date": "9 octobre 2026",
+          "objet": "Scrutin public n°8654 sur l'amendement n° 386 du Gouvernement de suppression de l'article 52 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8654",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 31
+          }
+        },
+        {
+          "date": "9 octobre 2026",
+          "objet": "Scrutin public n°8655 sur l'article 53 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8655",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 26
+          }
+        },
+        {
+          "date": "9 octobre 2026",
+          "objet": "Scrutin public n°8656 sur l'amendement n° 1266 de M. Peytavie à l'article 54 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8656",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 20
+          }
+        },
+        {
+          "date": "9 octobre 2026",
+          "objet": "Scrutin public n°8657 sur l'article 54 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8657",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 27
+          }
+        },
+        {
+          "date": "9 octobre 2026",
+          "objet": "Scrutin public n°8658 sur l'article 55 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8658",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 27
+          }
+        },
+        {
+          "date": "9 octobre 2026",
+          "objet": "Scrutin public n°8660 sur l'article 57 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8660",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 23
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8684 sur l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8684",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 24
+          }
         }
       ],
       "interventions": [
@@ -4186,7 +4056,7 @@
         "valeur": 72,
         "champ_source": "semaines_presence",
         "slug": "christine-loir",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA793608": {
@@ -4274,6 +4144,86 @@
           "titre": "Dysfonctionnements persistants dans certaines mesures de tutelle",
           "statut": "Réponse publiée le 17 juin 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD782"
+        },
+        {
+          "numero": "Question écrite n° 14902",
+          "date": "5 mai 2026",
+          "rubrique": "Mutualité sociale agricole",
+          "titre": "Moyens et priorités d'action de la Mutualité sociale agricole",
+          "statut": "Réponse publiée le 23 juin 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14902"
+        },
+        {
+          "numero": "Question écrite n° 14877",
+          "date": "5 mai 2026",
+          "rubrique": "industrie",
+          "titre": "Soutien aux industries lourdes françaises face aux exigences de décarbonation",
+          "statut": "Réponse publiée le 7 juillet 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14877"
+        },
+        {
+          "numero": "Question écrite n° 14852",
+          "date": "5 mai 2026",
+          "rubrique": "enseignement privé",
+          "titre": "Financement des établissements catholiques sous contrat dans l'Eure",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14852"
+        },
+        {
+          "numero": "Question écrite n° 14234",
+          "date": "14 avril 2026",
+          "rubrique": "déchéances et incapacités",
+          "titre": "Contrôle et transparence des mesures de tutelle",
+          "statut": "Réponse publiée le 30 juin 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14234"
+        },
+        {
+          "numero": "Question écrite n° 14187",
+          "date": "7 avril 2026",
+          "rubrique": "transports routiers",
+          "titre": "Situation économique préoccupante du transport routier de marchandises",
+          "statut": "Réponse publiée le 15 septembre 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14187"
+        },
+        {
+          "numero": "Question écrite n° 14159",
+          "date": "7 avril 2026",
+          "rubrique": "retraites : généralités",
+          "titre": "Prise en compte des périodes de TUC dans le dispositif de retraite anticipée",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14159"
+        },
+        {
+          "numero": "Question écrite n° 14148",
+          "date": "7 avril 2026",
+          "rubrique": "professions de santé",
+          "titre": "Actes esthétiques des infirmiers : impact sur l'accès aux soins",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14148"
+        },
+        {
+          "numero": "Question écrite n° 14100",
+          "date": "7 avril 2026",
+          "rubrique": "formation professionnelle et apprentissage",
+          "titre": "Restriction de l'accès au financement du permis de conduire via le CPF",
+          "statut": "Réponse publiée le 9 juin 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14100"
+        },
+        {
+          "numero": "Question écrite n° 14091",
+          "date": "7 avril 2026",
+          "rubrique": "fonction publique hospitalière",
+          "titre": "Reconnaissance statutaire des ambulanciers hospitaliers et rôle en SMUR",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14091"
+        },
+        {
+          "numero": "Question écrite n° 12651",
+          "date": "3 février 2026",
+          "rubrique": "professions de santé",
+          "titre": "Médecins formés au Royaume-Uni : blocages post-Brexit",
+          "statut": "Réponse publiée le 16 juin 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12651"
         }
       ],
       "rapports": [],
@@ -4394,8 +4344,10 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8663",
-          "conforme_groupe": null,
-          "detail_groupe": null
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 25
+          }
         },
         {
           "date": "15 juillet 2026",
@@ -4474,18 +4426,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 83,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 83,
             "Non votant": 1
           }
         },
@@ -4654,28 +4594,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 44
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8544 sur l'amendement n° 734 de Mme de Pélichy après l'article 18 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8544",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8548 sur l'amendement n° 235 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8548",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 53
           }
         },
         {
@@ -4904,84 +4822,6 @@
         },
         {
           "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8594 sur l'amendement n° 562 de Mme Erodi à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8594",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 41,
-            "Contre": 2
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8595 sur l'amendement n° 263 de M. Huyghe et les amendements identiques suivants à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8595",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 46
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8596 sur l'amendement n° 652 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8596",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 39
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8597 sur l'amendement n° 617 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8597",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 36
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8598 sur l'amendement n° 614 de Mme Cathala à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8598",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 36
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8599 sur l'amendement n° 1198 du Gouvernement à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8599",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 39
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8600 sur l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Abstention",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8600",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 38
-          }
-        },
-        {
-          "date": "7 octobre 2026",
           "objet": "Scrutin public n°8601 sur l'amendement n° 558 de Mme Cathala après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
@@ -5044,6 +4884,28 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 30
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8607 sur l'amendement n° 731 de Mme Leboucher à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8607",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 31
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8608 sur l'amendement n° 738 de Mme Cathala après l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8608",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 31
           }
         },
         {
@@ -5309,17 +5171,6 @@
         },
         {
           "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8659 sur l'article 56 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8659",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 25
-          }
-        },
-        {
-          "date": "9 octobre 2026",
           "objet": "Scrutin public n°8660 sur l'article 57 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
@@ -5368,7 +5219,7 @@
         "valeur": 64,
         "champ_source": "semaines_presence",
         "slug": "katiana-levavasseur",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA793616": {
@@ -5720,18 +5571,6 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 83,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "20 juillet 2026",
           "objet": "Scrutin public n°8425 sur l'amendement n° 8 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Abstention",
           "resultat": "Adopté",
@@ -5890,40 +5729,6 @@
         },
         {
           "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8544 sur l'amendement n° 734 de Mme de Pélichy après l'article 18 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8544",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8548 sur l'amendement n° 235 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8548",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 53
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8550 sur l'amendement n° 715 de Mme Blanc à l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8550",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 31,
-            "Contre": 1
-          }
-        },
-        {
-          "date": "6 octobre 2026",
           "objet": "Scrutin public n°8553 sur l'amendement n° 1076 de Mme Cathala à l'article 30 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
@@ -6007,7 +5812,7 @@
         "valeur": 75,
         "champ_source": "semaines_presence",
         "slug": "kevin-mauvieux",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA793624": {
@@ -6349,7 +6154,7 @@
         "valeur": 76,
         "champ_source": "semaines_presence",
         "slug": "philippe-brun",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA793632": {
@@ -6981,7 +6786,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "timothee-houssin",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA266797": {
@@ -7438,17 +7243,6 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 35
-          }
-        },
-        {
-          "date": "20 juillet 2026",
           "objet": "Scrutin public n°8425 sur l'amendement n° 8 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
           "resultat": "Adopté",
@@ -7544,7 +7338,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "philippe-gosselin",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA720190": {
@@ -8181,7 +7975,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "bertrand-sorre",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA607395": {
@@ -8592,20 +8386,6 @@
         },
         {
           "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 45,
-            "Contre": 6,
-            "Abstention": 3,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "20 juillet 2026",
           "objet": "Scrutin public n°8425 sur l'amendement n° 8 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
           "position": "Pour",
           "resultat": "Adopté",
@@ -8863,7 +8643,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "stephane-travert",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA794270": {
@@ -9151,8 +8931,11 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8663",
-          "conforme_groupe": null,
-          "detail_groupe": null
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 12,
+            "Contre": 2
+          }
         },
         {
           "date": "9 octobre 2026",
@@ -9492,86 +9275,6 @@
         },
         {
           "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8594 sur l'amendement n° 562 de Mme Erodi à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8594",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 34
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8595 sur l'amendement n° 263 de M. Huyghe et les amendements identiques suivants à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8595",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 38
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8596 sur l'amendement n° 652 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8596",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Contre": 37,
-            "Abstention": 2
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8597 sur l'amendement n° 617 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8597",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 37
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8598 sur l'amendement n° 614 de Mme Cathala à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8598",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 35
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8599 sur l'amendement n° 1198 du Gouvernement à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8599",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 37,
-            "Contre": 1
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8600 sur l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8600",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 39
-          }
-        },
-        {
-          "date": "7 octobre 2026",
           "objet": "Scrutin public n°8601 sur l'amendement n° 558 de Mme Cathala après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
@@ -9635,6 +9338,29 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 34
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8607 sur l'amendement n° 731 de Mme Leboucher à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8607",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 29
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8608 sur l'amendement n° 738 de Mme Cathala après l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8608",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 1,
+            "Contre": 29
           }
         },
         {
@@ -9950,17 +9676,6 @@
           "detail_groupe": {
             "Pour": 11
           }
-        },
-        {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8659 sur l'article 56 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8659",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 11
-          }
         }
       ],
       "interventions": [
@@ -9979,7 +9694,7 @@
         "valeur": 67,
         "champ_source": "semaines_presence",
         "slug": "anna-pic",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA643192": {
@@ -10231,8 +9946,11 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8663",
-          "conforme_groupe": null,
-          "detail_groupe": null
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 12,
+            "Contre": 2
+          }
         },
         {
           "date": "9 octobre 2026",
@@ -10324,18 +10042,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 37
-          }
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 33,
-            "Abstention": 2
           }
         },
         {
@@ -10805,86 +10511,6 @@
         },
         {
           "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8594 sur l'amendement n° 562 de Mme Erodi à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8594",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 34
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8595 sur l'amendement n° 263 de M. Huyghe et les amendements identiques suivants à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8595",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 38
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8596 sur l'amendement n° 652 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8596",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Contre": 37,
-            "Abstention": 2
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8597 sur l'amendement n° 617 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8597",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 37
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8598 sur l'amendement n° 614 de Mme Cathala à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8598",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 35
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8599 sur l'amendement n° 1198 du Gouvernement à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8599",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 37,
-            "Contre": 1
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8600 sur l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8600",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 39
-          }
-        },
-        {
-          "date": "7 octobre 2026",
           "objet": "Scrutin public n°8601 sur l'amendement n° 558 de Mme Cathala après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
@@ -10948,6 +10574,29 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 34
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8607 sur l'amendement n° 731 de Mme Leboucher à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8607",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 29
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8608 sur l'amendement n° 738 de Mme Cathala après l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8608",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 1,
+            "Contre": 29
           }
         },
         {
@@ -11240,17 +10889,6 @@
           "detail_groupe": {
             "Pour": 11
           }
-        },
-        {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8659 sur l'article 56 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8659",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 11
-          }
         }
       ],
       "interventions": [
@@ -11269,7 +10907,7 @@
         "valeur": 74,
         "champ_source": "semaines_presence",
         "slug": "chantal-jourdan",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA794750": {
@@ -11647,17 +11285,6 @@
           "detail_groupe": {
             "Pour": 37
           }
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 35
-          }
         }
       ],
       "interventions": [
@@ -11780,111 +11407,114 @@
       "votes": [
         {
           "date": "12 octobre 2026",
-          "objet": "Scrutin public n°8673 sur l'amendement n° 53 de M. Castermann à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "objet": "Scrutin public n°8696 sur l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8696",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 4
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8695 sur l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8695",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 4
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8693 sur l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8693",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 4
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8692 sur l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8673",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8692",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 3
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8691 sur l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8691",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 3
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8690 sur l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8690",
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 4
           }
         },
         {
-          "date": "8 octobre 2026",
-          "objet": "Scrutin public n°8611 sur la proposition de résolution visant à refonder l'espace Schengen en instaurant une double frontière nationale et européenne (article 34-1 de la Constitution).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8611",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 9,
-            "Contre": 1,
-            "Abstention": 5
-          }
-        },
-        {
-          "date": "8 octobre 2026",
-          "objet": "Scrutin public n°8610 sur la proposition de résolution visant à mobiliser la commande publique au service de l'emploi, de la production et de l'innovation en France (article 34-1 de la Constitution).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 16
-          }
-        },
-        {
-          "date": "8 octobre 2026",
-          "objet": "Scrutin public n°8609 sur la proposition de résolution visant à garantir un accès continu à l'eau potable dans les territoires ultramarins (article 34-1 de la Constitution).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8609",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 15
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8608 sur l'amendement n° 738 de Mme Cathala après l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8608",
-          "conforme_groupe": null,
-          "detail_groupe": null
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8607 sur l'amendement n° 731 de Mme Leboucher à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8607",
-          "conforme_groupe": null,
-          "detail_groupe": null
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8606 sur l'amendement n° 1135 de Mme Firmin Le Bodo à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8606",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 6
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8605 sur l'amendement n° 509 de Mme Garin et l'amendement identique suivant à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8689 sur l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
           "position": "Contre",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8605",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8689",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 5,
+            "Contre": 3,
             "Abstention": 1
           }
         },
         {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8603 sur l'amendement n° 629 de Mme Cathala après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8603",
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8688 sur l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8688",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 6
+            "Pour": 4
           }
         },
         {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8602 sur l'amendement n° 542 de Mme Leboucher après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8687 sur l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8602",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8687",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 6
+            "Pour": 1,
+            "Contre": 3
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8686 sur l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8686",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 4
           }
         },
         {
@@ -11965,17 +11595,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 37
-          }
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 35
           }
         },
         {
@@ -12333,83 +11952,6 @@
         },
         {
           "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8594 sur l'amendement n° 562 de Mme Erodi à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8594",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 11
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8595 sur l'amendement n° 263 de M. Huyghe et les amendements identiques suivants à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8595",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 11
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8596 sur l'amendement n° 652 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8596",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 10
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8597 sur l'amendement n° 617 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8597",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 10
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8598 sur l'amendement n° 614 de Mme Cathala à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8598",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 10
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8599 sur l'amendement n° 1198 du Gouvernement à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8599",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 10
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8600 sur l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8600",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 10
-          }
-        },
-        {
-          "date": "7 octobre 2026",
           "objet": "Scrutin public n°8601 sur l'amendement n° 558 de Mme Cathala après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
@@ -12420,25 +11962,128 @@
           }
         },
         {
-          "date": "12 octobre 2026",
-          "objet": "Scrutin public n°8674 sur l'amendement n° 32 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8602 sur l'amendement n° 542 de Mme Leboucher après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8674",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8602",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 4
+            "Contre": 6
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8603 sur l'amendement n° 629 de Mme Cathala après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8603",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 6
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8605 sur l'amendement n° 509 de Mme Garin et l'amendement identique suivant à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8605",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 5,
+            "Abstention": 1
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8606 sur l'amendement n° 1135 de Mme Firmin Le Bodo à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8606",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 6
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8607 sur l'amendement n° 731 de Mme Leboucher à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8607",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 6
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8608 sur l'amendement n° 738 de Mme Cathala après l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8608",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 5
+          }
+        },
+        {
+          "date": "8 octobre 2026",
+          "objet": "Scrutin public n°8609 sur la proposition de résolution visant à garantir un accès continu à l'eau potable dans les territoires ultramarins (article 34-1 de la Constitution).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8609",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 15
+          }
+        },
+        {
+          "date": "8 octobre 2026",
+          "objet": "Scrutin public n°8610 sur la proposition de résolution visant à mobiliser la commande publique au service de l'emploi, de la production et de l'innovation en France (article 34-1 de la Constitution).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 16
+          }
+        },
+        {
+          "date": "8 octobre 2026",
+          "objet": "Scrutin public n°8611 sur la proposition de résolution visant à refonder l'espace Schengen en instaurant une double frontière nationale et européenne (article 34-1 de la Constitution).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8611",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 9,
+            "Contre": 1,
+            "Abstention": 5
           }
         },
         {
           "date": "12 octobre 2026",
-          "objet": "Scrutin public n°8675 sur l'amendement n° 75 de M. Weber à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
-          "position": "Contre",
+          "objet": "Scrutin public n°8684 sur l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Pour",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8675",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8684",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 4
+            "Pour": 4
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8685 sur l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8685",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 3,
+            "Abstention": 1
           }
         }
       ],
@@ -12758,8 +12403,11 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8663",
-          "conforme_groupe": null,
-          "detail_groupe": null
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 12,
+            "Contre": 2
+          }
         },
         {
           "date": "9 octobre 2026",
@@ -12829,18 +12477,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 37
-          }
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 33,
-            "Abstention": 2
           }
         },
         {
@@ -13019,40 +12655,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 28
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8544 sur l'amendement n° 734 de Mme de Pélichy après l'article 18 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8544",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 34
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8548 sur l'amendement n° 235 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8548",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 32
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8550 sur l'amendement n° 715 de Mme Blanc à l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8550",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 33,
-            "Abstention": 3
           }
         },
         {
@@ -13343,86 +12945,6 @@
         },
         {
           "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8594 sur l'amendement n° 562 de Mme Erodi à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8594",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 34
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8595 sur l'amendement n° 263 de M. Huyghe et les amendements identiques suivants à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8595",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 38
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8596 sur l'amendement n° 652 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8596",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Contre": 37,
-            "Abstention": 2
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8597 sur l'amendement n° 617 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8597",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 37
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8598 sur l'amendement n° 614 de Mme Cathala à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8598",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 35
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8599 sur l'amendement n° 1198 du Gouvernement à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8599",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 37,
-            "Contre": 1
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8600 sur l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8600",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 39
-          }
-        },
-        {
-          "date": "7 octobre 2026",
           "objet": "Scrutin public n°8601 sur l'amendement n° 558 de Mme Cathala après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
@@ -13486,6 +13008,29 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 34
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8607 sur l'amendement n° 731 de Mme Leboucher à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8607",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 29
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8608 sur l'amendement n° 738 de Mme Cathala après l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8608",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 1,
+            "Contre": 29
           }
         },
         {
@@ -13650,17 +13195,6 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8658",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 11
-          }
-        },
-        {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8659 sur l'article 56 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8659",
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 11
@@ -13917,127 +13451,122 @@
       "votes": [
         {
           "date": "12 octobre 2026",
-          "objet": "Scrutin public n°8673 sur l'amendement n° 53 de M. Castermann à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8673",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 10,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "8 octobre 2026",
-          "objet": "Scrutin public n°8609 sur la proposition de résolution visant à garantir un accès continu à l'eau potable dans les territoires ultramarins (article 34-1 de la Constitution).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8609",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 25,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8598 sur l'amendement n° 614 de Mme Cathala à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8598",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 25,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8597 sur l'amendement n° 617 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8597",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 25,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8596 sur l'amendement n° 652 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8596",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 26,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8595 sur l'amendement n° 263 de M. Huyghe et les amendements identiques suivants à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8595",
-          "conforme_groupe": false,
-          "detail_groupe": {
-            "Pour": 21,
-            "Contre": 6,
-            "Abstention": 1,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8594 sur l'amendement n° 562 de Mme Erodi à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8594",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 22,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8593 sur l'amendement n° 832 de Mme Lalanne et l'amendement identique suivant après l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "objet": "Scrutin public n°8694 sur l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8593",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8694",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 21,
-            "Contre": 1,
+            "Pour": 10,
             "Non votant": 1
           }
         },
         {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8592 sur l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8693 sur l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8592",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8693",
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 18,
-            "Contre": 4,
             "Non votant": 1
           }
         },
         {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8591 sur l'amendement n° 459 de Mme Autain à l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8692 sur l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8692",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 16,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8691 sur l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8691",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 16,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8689 sur l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8689",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 15,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8688 sur l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8591",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8688",
           "conforme_groupe": false,
           "detail_groupe": {
-            "Pour": 5,
-            "Contre": 16,
-            "Abstention": 1,
+            "Pour": 7,
+            "Contre": 8,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8687 sur l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8687",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 15,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8686 sur l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8686",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 15,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8685 sur l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8685",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 13,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8684 sur l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8684",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 13,
             "Non votant": 1
           }
         },
@@ -14112,20 +13641,6 @@
           "detail_groupe": {
             "Pour": 36,
             "Contre": 21,
-            "Abstention": 3,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 45,
-            "Contre": 6,
             "Abstention": 3,
             "Non votant": 1
           }
@@ -14284,18 +13799,6 @@
         },
         {
           "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8550 sur l'amendement n° 715 de Mme Blanc à l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8550",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 31,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "6 octobre 2026",
           "objet": "Scrutin public n°8551 sur l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
@@ -14409,47 +13912,75 @@
           }
         },
         {
-          "date": "12 octobre 2026",
-          "objet": "Scrutin public n°8674 sur l'amendement n° 32 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8674",
-          "conforme_groupe": true,
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8591 sur l'amendement n° 459 de Mme Autain à l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8591",
+          "conforme_groupe": false,
           "detail_groupe": {
-            "Contre": 14,
+            "Pour": 5,
+            "Contre": 16,
+            "Abstention": 1,
             "Non votant": 1
           }
         },
         {
-          "date": "12 octobre 2026",
-          "objet": "Scrutin public n°8675 sur l'amendement n° 75 de M. Weber à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8675",
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8592 sur l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8592",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 14,
+            "Pour": 18,
+            "Contre": 4,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8593 sur l'amendement n° 832 de Mme Lalanne et l'amendement identique suivant après l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8593",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 21,
+            "Contre": 1,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "8 octobre 2026",
+          "objet": "Scrutin public n°8609 sur la proposition de résolution visant à garantir un accès continu à l'eau potable dans les territoires ultramarins (article 34-1 de la Constitution).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8609",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 25,
             "Non votant": 1
           }
         }
       ],
       "interventions": [
         {
+          "date": "lundi 12 octobre 2026",
+          "titre": "1ère séance : Fonctionnement du titre-restaurant ; Autorisation des services sociaux expérimentaux ; Gouvernance territoriale unifiée pour le CREPS de Vichy ; Convention d'extradition France-Colombie",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19539813?timeCode=13874.57&depute=PA722102"
+        },
+        {
           "date": "mercredi 7 octobre 2026",
           "titre": "Commission des affaires sociales : M. Jean-Pierre Farandou, Mme Stéphanie Rist, M. David Amiel, et Mme Camille Galliard-Minier, ministres, sur le PLFSS 2027",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19512528?timeCode=5060.94&depute=PA722102"
-        },
-        {
-          "date": "mardi 6 octobre 2026",
-          "titre": "Commission des affaires sociales : Assouplir la procédure d’autorisation des services sociaux à caractère expérimental",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19498537?timeCode=2879.1&depute=PA722102"
         }
       ],
       "assiduite": {
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "annie-vidal",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA796106": {
@@ -14884,156 +14415,8 @@
           "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-eco/l17b0610_rapport-fond"
         }
       ],
-      "propositions": [
-        {
-          "date": "11 septembre 2025",
-          "titre": "Proposition de résolution n°1780",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1780_proposition-resolution"
-        },
-        {
-          "date": "9 septembre 2025",
-          "titre": "Proposition de résolution n°1777",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1777_proposition-resolution"
-        },
-        {
-          "date": "18 mars 2025",
-          "titre": "Proposition de loi n°1145",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1145_proposition-loi"
-        },
-        {
-          "date": "18 mars 2025",
-          "titre": "Proposition de loi n°1140",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1140_proposition-loi"
-        },
-        {
-          "date": "25 octobre 2024",
-          "titre": "Proposition de résolution n°489",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0489_proposition-resolution"
-        },
-        {
-          "date": "15 octobre 2024",
-          "titre": "Proposition de loi, n° 419 rectifié (Proposition de loi n°419)",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0419_proposition-loi"
-        },
-        {
-          "date": "4 septembre 2024",
-          "titre": "Proposition de résolution n°178",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0178_proposition-resolution"
-        }
-      ],
+      "propositions": [],
       "votes": [
-        {
-          "date": "8 octobre 2026",
-          "objet": "Scrutin public n°8612 sur la proposition de résolution invitant le Gouvernement à engager les démarches en vue de soutenir l'entrée au Panthéon d'Olympe de Gouges, de l'abbé Charles-Michel de l'Epée et de Zéna M'Déré (article 34-1 de la Constitution).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8612",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 54
-          }
-        },
-        {
-          "date": "8 octobre 2026",
-          "objet": "Scrutin public n°8610 sur la proposition de résolution visant à mobiliser la commande publique au service de l'emploi, de la production et de l'innovation en France (article 34-1 de la Constitution).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 56
-          }
-        },
-        {
-          "date": "21 juillet 2026",
-          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 49
-          }
-        },
-        {
-          "date": "21 juillet 2026",
-          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 71
-          }
-        },
-        {
-          "date": "21 juillet 2026",
-          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 63
-          }
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 71
-          }
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8426 sur l'amendement n° 1 de M. Jean-René Cazeneuve au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8426",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 36,
-            "Abstention": 2
-          }
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8425 sur l'amendement n° 8 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Abstention",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8425",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 3,
-            "Abstention": 45
-          }
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 53
-          }
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8423 sur la proposition du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 53
-          }
-        },
         {
           "date": "15 juillet 2026",
           "objet": "Scrutin public n°8279 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
@@ -15079,25 +14462,115 @@
           "detail_groupe": {
             "Pour": 53
           }
-        }
-      ],
-      "interventions": [
-        {
-          "date": "mercredi 24 juin 2026",
-          "titre": "1ère séance : Questions au gouvernement ; Examen de divers projets de loi",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19224750?timeCode=6147.25&depute=PA795200"
         },
         {
-          "date": "mercredi 15 avril 2026",
-          "titre": "Commission des affaires économiques : Perspectives économiques des constructeurs automobile ; Filière automobile et distribution des véhicules",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV18670191?timeCode=10652.59&depute=PA795200"
+          "date": "20 juillet 2026",
+          "objet": "Scrutin public n°8423 sur la proposition du Gouvernement de prolonger la séance en cours au delà de minuit (projet de loi d'urgence pour la protection et la souveraineté agricoles) (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8423",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 53
+          }
+        },
+        {
+          "date": "20 juillet 2026",
+          "objet": "Scrutin public n°8425 sur l'amendement n° 8 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8425",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 3,
+            "Abstention": 45
+          }
+        },
+        {
+          "date": "20 juillet 2026",
+          "objet": "Scrutin public n°8426 sur l'amendement n° 1 de M. Jean-René Cazeneuve au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8426",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 36,
+            "Abstention": 2
+          }
+        },
+        {
+          "date": "20 juillet 2026",
+          "objet": "Scrutin public n°8427 sur l'ensemble du projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 71
+          }
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 63
+          }
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8433 sur l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 71
+          }
+        },
+        {
+          "date": "21 juillet 2026",
+          "objet": "Scrutin public n°8434 sur l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 49
+          }
+        },
+        {
+          "date": "8 octobre 2026",
+          "objet": "Scrutin public n°8610 sur la proposition de résolution visant à mobiliser la commande publique au service de l'emploi, de la production et de l'innovation en France (article 34-1 de la Constitution).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 56
+          }
+        },
+        {
+          "date": "8 octobre 2026",
+          "objet": "Scrutin public n°8612 sur la proposition de résolution invitant le Gouvernement à engager les démarches en vue de soutenir l'entrée au Panthéon d'Olympe de Gouges, de l'abbé Charles-Michel de l'Epée et de Zéna M'Déré (article 34-1 de la Constitution).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8612",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 54
+          }
         }
       ],
+      "interventions": [],
       "assiduite": {
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "alma-dufour",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA774958": {
@@ -15423,8 +14896,11 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8663",
-          "conforme_groupe": null,
-          "detail_groupe": null
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 12,
+            "Contre": 2
+          }
         },
         {
           "date": "9 octobre 2026",
@@ -15714,86 +15190,6 @@
         },
         {
           "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8594 sur l'amendement n° 562 de Mme Erodi à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8594",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 34
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8595 sur l'amendement n° 263 de M. Huyghe et les amendements identiques suivants à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8595",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 38
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8596 sur l'amendement n° 652 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8596",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Contre": 37,
-            "Abstention": 2
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8597 sur l'amendement n° 617 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8597",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 37
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8598 sur l'amendement n° 614 de Mme Cathala à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8598",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 35
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8599 sur l'amendement n° 1198 du Gouvernement à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8599",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 37,
-            "Contre": 1
-          }
-        },
-        {
-          "date": "7 octobre 2026",
-          "objet": "Scrutin public n°8600 sur l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8600",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 39
-          }
-        },
-        {
-          "date": "7 octobre 2026",
           "objet": "Scrutin public n°8601 sur l'amendement n° 558 de Mme Cathala après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
@@ -15857,6 +15253,29 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 34
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8607 sur l'amendement n° 731 de Mme Leboucher à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8607",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 29
+          }
+        },
+        {
+          "date": "7 octobre 2026",
+          "objet": "Scrutin public n°8608 sur l'amendement n° 738 de Mme Cathala après l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8608",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 1,
+            "Contre": 29
           }
         },
         {
@@ -16136,7 +15555,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "gerard-leseul",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA841825": {
@@ -16424,8 +15843,10 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8663",
-          "conforme_groupe": null,
-          "detail_groupe": null
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 25
+          }
         },
         {
           "date": "15 juillet 2026",
@@ -16504,18 +15925,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 83,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 83,
             "Non votant": 1
           }
         },
@@ -16695,40 +16104,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 44
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8544 sur l'amendement n° 734 de Mme de Pélichy après l'article 18 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8544",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8548 sur l'amendement n° 235 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8548",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 53
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8550 sur l'amendement n° 715 de Mme Blanc à l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8550",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 31,
-            "Contre": 1
           }
         },
         {
@@ -17123,17 +16498,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 27
-          }
-        },
-        {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8659 sur l'article 56 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8659",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 25
           }
         },
         {
@@ -17753,40 +17117,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 5
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8544 sur l'amendement n° 734 de Mme de Pélichy après l'article 18 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8544",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 5
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8548 sur l'amendement n° 235 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8548",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 5
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8550 sur l'amendement n° 715 de Mme Blanc à l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8550",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 5,
-            "Abstention": 1
           }
         },
         {
@@ -18414,7 +17744,7 @@
         "valeur": 73,
         "champ_source": "semaines_presence",
         "slug": "jean-paul-lecoq",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA795270": {
@@ -18744,7 +18074,7 @@
         "valeur": 76,
         "champ_source": "semaines_presence",
         "slug": "marie-agnes-poussier-winsback",
-        "date_donnees": "2026-10-12"
+        "date_donnees": "2026-10-13"
       }
     },
     "PA841837": {
@@ -18925,119 +18255,112 @@
       "votes": [
         {
           "date": "12 octobre 2026",
-          "objet": "Scrutin public n°8675 sur l'amendement n° 75 de M. Weber à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "objet": "Scrutin public n°8694 sur l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
           "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8675",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8694",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 19
+            "Pour": 20
           }
         },
         {
           "date": "12 octobre 2026",
-          "objet": "Scrutin public n°8674 sur l'amendement n° 32 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "objet": "Scrutin public n°8693 sur l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
           "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8674",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8693",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 19
+            "Pour": 28
           }
         },
         {
           "date": "12 octobre 2026",
-          "objet": "Scrutin public n°8673 sur l'amendement n° 53 de M. Castermann à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "objet": "Scrutin public n°8692 sur l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
           "position": "Pour",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8673",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8692",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 15,
-            "Non votant": 1
+            "Pour": 26
           }
         },
         {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8643 sur l'amendement n° 1083 de Mme Erodi après l'article 39 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8691 sur l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8691",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 28
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8690 sur l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
           "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8643",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 41,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8642 sur l'amendement n° 245 de M. Ménagé et les amendements identiques suivants de suppression de l'article 63 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8642",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8690",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 80
+            "Abstention": 24
           }
         },
         {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8641 sur l'amendement n° 244 de M. Ménagé et les amendements identiques suivants de suppression de l'article 62 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8641",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 84
-          }
-        },
-        {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8640 sur l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8640",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2,
-            "Contre": 76,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8639 sur l'amendement n° 705 du Gouvernement et l'amendement identique suivant à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8639",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 76,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8638 sur l'amendement n° 1091 de Mme Leboucher à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8689 sur l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
           "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8638",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8689",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Abstention": 58,
-            "Non votant": 1
+            "Abstention": 28
           }
         },
         {
-          "date": "9 octobre 2026",
-          "objet": "Scrutin public n°8636 sur l'amendement n° 242 de M. Ménagé à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8688 sur l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
           "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8636",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8688",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 54,
-            "Non votant": 1
+            "Pour": 30
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8687 sur l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8687",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 30
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8686 sur l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8686",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 27
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8685 sur l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8685",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 25
           }
         },
         {
@@ -19117,18 +18440,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 83,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "20 juillet 2026",
-          "objet": "Scrutin public n°8424 sur l'amendement n° 7 du Gouvernement au projet de loi d'urgence pour la protection et la souveraineté agricoles (texte de la commission mixte paritaire).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8424",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 83,
             "Non votant": 1
           }
         },
@@ -19264,28 +18575,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 25
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8544 sur l'amendement n° 734 de Mme de Pélichy après l'article 18 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8544",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
-          "date": "6 octobre 2026",
-          "objet": "Scrutin public n°8548 sur l'amendement n° 235 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8548",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 53
           }
         },
         {
@@ -19525,6 +18814,100 @@
             "Contre": 39,
             "Non votant": 1
           }
+        },
+        {
+          "date": "9 octobre 2026",
+          "objet": "Scrutin public n°8636 sur l'amendement n° 242 de M. Ménagé à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8636",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 54,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "9 octobre 2026",
+          "objet": "Scrutin public n°8638 sur l'amendement n° 1091 de Mme Leboucher à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8638",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 58,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "9 octobre 2026",
+          "objet": "Scrutin public n°8639 sur l'amendement n° 705 du Gouvernement et l'amendement identique suivant à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8639",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 76,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "9 octobre 2026",
+          "objet": "Scrutin public n°8640 sur l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8640",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 2,
+            "Contre": 76,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "9 octobre 2026",
+          "objet": "Scrutin public n°8641 sur l'amendement n° 244 de M. Ménagé et les amendements identiques suivants de suppression de l'article 62 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8641",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 84
+          }
+        },
+        {
+          "date": "9 octobre 2026",
+          "objet": "Scrutin public n°8642 sur l'amendement n° 245 de M. Ménagé et les amendements identiques suivants de suppression de l'article 63 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8642",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 80
+          }
+        },
+        {
+          "date": "9 octobre 2026",
+          "objet": "Scrutin public n°8643 sur l'amendement n° 1083 de Mme Erodi après l'article 39 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8643",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 41,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "12 octobre 2026",
+          "objet": "Scrutin public n°8684 sur l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8684",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 24
+          }
         }
       ],
       "interventions": [
@@ -19544,6 +18927,6 @@
   },
   "assiduite_statut": {
     "a_jour": true,
-    "date_donnees": "2026-10-12"
+    "date_donnees": "2026-10-13"
   }
 }
