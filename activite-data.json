@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:41:31",
+  "generated_at": "2026-10-19T12:40:15",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -1770,7 +1770,7 @@
         "valeur": 74,
         "champ_source": "semaines_presence",
         "slug": "arthur-delaporte",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA793398": {
@@ -2006,7 +2006,7 @@
         "valeur": 71,
         "champ_source": "semaines_presence",
         "slug": "jeremie-patrier-leitus",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA719024": {
@@ -2503,7 +2503,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "christophe-blanchet",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA719032": {
@@ -2933,7 +2933,7 @@
         "valeur": 64,
         "champ_source": "semaines_presence",
         "slug": "bertrand-bouyx",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA717161": {
@@ -4140,7 +4140,7 @@
         "valeur": 72,
         "champ_source": "semaines_presence",
         "slug": "christine-loir",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA793608": {
@@ -5369,7 +5369,7 @@
         },
         {
           "date": "15 octobre 2026",
-          "objet": "Scrutin public n°8805 sur l'amendement n° 3187 de M. de Courson et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°8805 sur l'amendement n° 3187 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Abstention",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8805",
@@ -5745,7 +5745,7 @@
         "valeur": 64,
         "champ_source": "semaines_presence",
         "slug": "katiana-levavasseur",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA793616": {
@@ -6880,7 +6880,7 @@
         },
         {
           "date": "15 octobre 2026",
-          "objet": "Scrutin public n°8805 sur l'amendement n° 3187 de M. de Courson et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°8805 sur l'amendement n° 3187 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Abstention",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8805",
@@ -6972,7 +6972,7 @@
         "valeur": 75,
         "champ_source": "semaines_presence",
         "slug": "kevin-mauvieux",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA793624": {
@@ -7433,7 +7433,7 @@
         "valeur": 76,
         "champ_source": "semaines_presence",
         "slug": "philippe-brun",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA793632": {
@@ -8131,7 +8131,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "timothee-houssin",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA266797": {
@@ -8628,7 +8628,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "philippe-gosselin",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA720190": {
@@ -9073,7 +9073,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "bertrand-sorre",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA607395": {
@@ -9652,7 +9652,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "stephane-travert",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA794270": {
@@ -10210,7 +10210,7 @@
         "valeur": 67,
         "champ_source": "semaines_presence",
         "slug": "anna-pic",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA643192": {
@@ -10790,7 +10790,7 @@
         "valeur": 74,
         "champ_source": "semaines_presence",
         "slug": "chantal-jourdan",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA794750": {
@@ -13628,7 +13628,7 @@
         },
         {
           "date": "15 octobre 2026",
-          "objet": "Scrutin public n°8805 sur l'amendement n° 3187 de M. de Courson et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°8805 sur l'amendement n° 3187 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8805",
@@ -14542,7 +14542,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "annie-vidal",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA796106": {
@@ -15541,7 +15541,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "alma-dufour",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA774958": {
@@ -15875,7 +15875,7 @@
         },
         {
           "date": "15 octobre 2026",
-          "objet": "Scrutin public n°8805 sur l'amendement n° 3187 de M. de Courson et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°8805 sur l'amendement n° 3187 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8805",
@@ -16440,7 +16440,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "gerard-leseul",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA841825": {
@@ -17592,7 +17592,7 @@
         },
         {
           "date": "15 octobre 2026",
-          "objet": "Scrutin public n°8805 sur l'amendement n° 3187 de M. de Courson et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°8805 sur l'amendement n° 3187 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Abstention",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8805",
@@ -18800,7 +18800,7 @@
         "valeur": 73,
         "champ_source": "semaines_presence",
         "slug": "jean-paul-lecoq",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA795270": {
@@ -19139,7 +19139,7 @@
         "valeur": 76,
         "champ_source": "semaines_presence",
         "slug": "marie-agnes-poussier-winsback",
-        "date_donnees": "2026-10-18"
+        "date_donnees": "2026-10-19"
       }
     },
     "PA841837": {
@@ -19864,6 +19864,6 @@
   },
   "assiduite_statut": {
     "a_jour": true,
-    "date_donnees": "2026-10-18"
+    "date_donnees": "2026-10-19"
   }
 }
