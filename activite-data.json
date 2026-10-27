@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:34:33",
+  "generated_at": "2026-10-27T11:51:59",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -1920,7 +1920,7 @@
         "valeur": 74,
         "champ_source": "semaines_presence",
         "slug": "arthur-delaporte",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA793398": {
@@ -2156,7 +2156,7 @@
         "valeur": 71,
         "champ_source": "semaines_presence",
         "slug": "jeremie-patrier-leitus",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA719024": {
@@ -2165,6 +2165,30 @@
       "circo": "Calvados 4e circ.",
       "groupe": "Les Démocrates",
       "questions": [
+        {
+          "numero": "Question écrite n° 19212",
+          "date": "27 octobre 2026",
+          "rubrique": "énergie et carburants",
+          "titre": "Amélioration de l'affichage et de la lisibilité du prix de la recharge des VE",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE19212"
+        },
+        {
+          "numero": "Question écrite n° 19188",
+          "date": "27 octobre 2026",
+          "rubrique": "banques et établissements financiers",
+          "titre": "Lutte contre les arnaques à l'investissement financier",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE19188"
+        },
+        {
+          "numero": "Question écrite n° 19182",
+          "date": "27 octobre 2026",
+          "rubrique": "automobiles",
+          "titre": "Développement du marché de véhicules électriques d'occasion",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE19182"
+        },
         {
           "numero": "Question écrite n° 18586",
           "date": "29 septembre 2026",
@@ -2282,7 +2306,7 @@
           "date": "7 avril 2026",
           "rubrique": "chasse et pêche",
           "titre": "Assouplissement de l'expérimentation de découpe de la viande de gibier",
-          "statut": "Question sans réponse",
+          "statut": "Réponse publiée le 27 octobre 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14039"
         },
         {
@@ -2300,30 +2324,6 @@
           "titre": "Sécurité dans les établissements accueillant du public",
           "statut": "Question posée en séance",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1147"
-        },
-        {
-          "numero": "Question écrite n° 11839",
-          "date": "16 décembre 2025",
-          "rubrique": "transports ferroviaires",
-          "titre": "Place des maires dans les SERM",
-          "statut": "Réponse publiée le 20 janvier 2026",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11839"
-        },
-        {
-          "numero": "Question écrite n° 11787",
-          "date": "16 décembre 2025",
-          "rubrique": "politique extérieure",
-          "titre": "Opacité des dépenses de l'AFD par pays",
-          "statut": "Réponse publiée le 10 février 2026",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11787"
-        },
-        {
-          "numero": "Question écrite n° 11735",
-          "date": "16 décembre 2025",
-          "rubrique": "fin de vie et soins palliatifs",
-          "titre": "Généralisation des directives anticipées via le mariage",
-          "statut": "Question sans réponse",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11735"
         }
       ],
       "rapports": [
@@ -2635,7 +2635,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "christophe-blanchet",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA719032": {
@@ -3426,7 +3426,7 @@
         "valeur": 64,
         "champ_source": "semaines_presence",
         "slug": "bertrand-bouyx",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA717161": {
@@ -5479,7 +5479,7 @@
         "valeur": 72,
         "champ_source": "semaines_presence",
         "slug": "christine-loir",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA793608": {
@@ -6872,7 +6872,7 @@
         "valeur": 64,
         "champ_source": "semaines_presence",
         "slug": "katiana-levavasseur",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA793616": {
@@ -6886,7 +6886,7 @@
           "date": "30 juin 2026",
           "rubrique": "enseignement agricole",
           "titre": "Menace budgétaire sur le Pacte enseignant dans l'enseignement agricole",
-          "statut": "Question sans réponse",
+          "statut": "Réponse publiée le 27 octobre 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16401"
         },
         {
@@ -8342,7 +8342,7 @@
         "valeur": 75,
         "champ_source": "semaines_presence",
         "slug": "kevin-mauvieux",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA793624": {
@@ -8748,7 +8748,7 @@
         "valeur": 76,
         "champ_source": "semaines_presence",
         "slug": "philippe-brun",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA793632": {
@@ -10386,7 +10386,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "timothee-houssin",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA266797": {
@@ -10937,7 +10937,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "philippe-gosselin",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA720190": {
@@ -11634,7 +11634,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "bertrand-sorre",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA607395": {
@@ -11648,7 +11648,7 @@
           "date": "29 septembre 2026",
           "rubrique": "mer et littoral",
           "titre": "Évolution du régime des ASA",
-          "statut": "Question sans réponse",
+          "statut": "Réponse publiée le 27 octobre 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18535"
         },
         {
@@ -12138,7 +12138,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "stephane-travert",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA794270": {
@@ -12756,7 +12756,7 @@
         "valeur": 67,
         "champ_source": "semaines_presence",
         "slug": "anna-pic",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA643192": {
@@ -12850,7 +12850,7 @@
           "date": "9 juin 2026",
           "rubrique": "enseignement agricole",
           "titre": "Statut AVS",
-          "statut": "Question sans réponse",
+          "statut": "Réponse publiée le 27 octobre 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15770"
         },
         {
@@ -13669,7 +13669,7 @@
         "valeur": 74,
         "champ_source": "semaines_presence",
         "slug": "chantal-jourdan",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA794750": {
@@ -13678,6 +13678,14 @@
       "circo": "Orne 2e circ.",
       "groupe": "Droite Républicaine",
       "questions": [
+        {
+          "numero": "Question écrite n° 19297",
+          "date": "27 octobre 2026",
+          "rubrique": "papiers d'identité",
+          "titre": "Dysfonctionnements de l'ANTS en 2026 et difficultés rencontrées par les usagers",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE19297"
+        },
         {
           "numero": "Question écrite n° 18623",
           "date": "29 septembre 2026",
@@ -13763,7 +13771,7 @@
           "date": "16 juin 2026",
           "rubrique": "taxe sur la valeur ajoutée",
           "titre": "TVA - crédit-bail immobilier de l'art. 207, III-3 ann. II au CGI",
-          "statut": "Question sans réponse",
+          "statut": "Réponse publiée le 27 octobre 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE16090"
         },
         {
@@ -13807,10 +13815,10 @@
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15855"
         },
         {
-          "numero": "Question écrite n° 16090",
+          "numero": "Question écrite n° 16091",
           "date": "16 juin 2026",
           "rubrique": "taxe sur la valeur ajoutée",
-          "titre": "TVA - crédit-bail immobilier de l'art. 207, III-3 ann. II au CGI",
+          "titre": "TVA : droits à déduction - Immeubles en stock",
           "statut": "Question sans réponse",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15681"
         },
@@ -13829,14 +13837,6 @@
           "titre": "Exclusion de la branche BAD du bonus attractivité",
           "statut": "Question sans réponse",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15220"
-        },
-        {
-          "numero": null,
-          "date": "5 mai 2026",
-          "rubrique": "enseignement",
-          "titre": "Fermetures de classes dans l'Orne",
-          "statut": "Réponse publiée le 13 mai 2026",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD759"
         }
       ],
       "rapports": [],
@@ -17744,7 +17744,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "annie-vidal",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA796106": {
@@ -17753,6 +17753,22 @@
       "circo": "Seine-Maritime 3e circ.",
       "groupe": "Gauche Démocrate et Républicaine",
       "questions": [
+        {
+          "numero": "Question écrite n° 19312",
+          "date": "27 octobre 2026",
+          "rubrique": "pharmacie et médicaments",
+          "titre": "Suppression de l'exonération du ticket modérateur pour les patients en ALD",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE19312"
+        },
+        {
+          "numero": "Question écrite n° 19307",
+          "date": "27 octobre 2026",
+          "rubrique": "pharmacie et médicaments",
+          "titre": "Conséquences pour les patients atteints du cancer du déremboursement du Zoladex",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE19307"
+        },
         {
           "numero": "Question écrite n° 19042",
           "date": "20 octobre 2026",
@@ -17896,22 +17912,6 @@
           "titre": "Préserver la souveraineté industrialo-militaire face aux acteurs étrangers",
           "statut": "Question sans réponse",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12779"
-        },
-        {
-          "numero": null,
-          "date": "20 janvier 2026",
-          "rubrique": "industrie",
-          "titre": "Réaffirmer le soutien actif de l'Etat au projet Chapelle Darblay Grand-Couronne",
-          "statut": "Réponse publiée le 28 janvier 2026",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD531"
-        },
-        {
-          "numero": "Question au Gouvernement n° 1048",
-          "date": "24 décembre 2025",
-          "rubrique": "défense",
-          "titre": "Agence de soutien et d'acquisition de l'Otan",
-          "statut": "Question posée en séance",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1048"
         }
       ],
       "rapports": [
@@ -19156,7 +19156,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "alma-dufour",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA774958": {
@@ -19165,6 +19165,22 @@
       "circo": "Seine-Maritime 5e circ.",
       "groupe": "Socialistes et apparentés",
       "questions": [
+        {
+          "numero": "Question écrite n° 19273",
+          "date": "27 octobre 2026",
+          "rubrique": "logement : aides et prêts",
+          "titre": "Droit à l'erreur dans le dispositif des certificats d'économies d'énergie",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE19273"
+        },
+        {
+          "numero": "Question écrite n° 19187",
+          "date": "27 octobre 2026",
+          "rubrique": "automobiles",
+          "titre": "Soutien à l'électrification des véhicules utilitaires légers",
+          "statut": "Question sans réponse",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE19187"
+        },
         {
           "numero": "Question écrite n° 17879",
           "date": null,
@@ -19210,7 +19226,7 @@
           "date": "4 août 2026",
           "rubrique": "emploi et activité",
           "titre": "Offre de repérage et de remobilisation",
-          "statut": "Question sans réponse",
+          "statut": "Réponse publiée le 27 octobre 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE17512"
         },
         {
@@ -19308,22 +19324,6 @@
           "titre": "Avenir des réseaux RASED",
           "statut": "Réponse publiée le 28 juillet 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14848"
-        },
-        {
-          "numero": "Question écrite n° 14780",
-          "date": "28 avril 2026",
-          "rubrique": "travailleurs indépendants et autoentrepreneurs",
-          "titre": "Frais d'expédition dans le régime de la micro-entreprise",
-          "statut": "Question sans réponse",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14780"
-        },
-        {
-          "numero": "Question écrite n° 14636",
-          "date": "28 avril 2026",
-          "rubrique": "assurances",
-          "titre": "Résiliation unilatérale du contrat d'assurance auto des personnes âgées",
-          "statut": "Réponse publiée le 21 juillet 2026",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14636"
         }
       ],
       "rapports": [
@@ -20118,7 +20118,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "gerard-leseul",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA841825": {
@@ -23103,7 +23103,7 @@
         "valeur": 73,
         "champ_source": "semaines_presence",
         "slug": "jean-paul-lecoq",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA795270": {
@@ -23141,7 +23141,7 @@
           "date": "29 septembre 2026",
           "rubrique": "entreprises",
           "titre": "Sécurité et pilotage de la réforme de la facturation électronique obligatoire",
-          "statut": "Question sans réponse",
+          "statut": "Réponse publiée le 27 octobre 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18490"
         },
         {
@@ -23440,7 +23440,7 @@
         "valeur": 76,
         "champ_source": "semaines_presence",
         "slug": "marie-agnes-poussier-winsback",
-        "date_donnees": "2026-10-26"
+        "date_donnees": "2026-10-27"
       }
     },
     "PA841837": {
@@ -24652,6 +24652,6 @@
   },
   "assiduite_statut": {
     "a_jour": true,
-    "date_donnees": "2026-10-26"
+    "date_donnees": "2026-10-27"
   }
 }
