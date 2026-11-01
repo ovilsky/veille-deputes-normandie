@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:56:45",
+  "generated_at": "2026-11-01T12:56:31",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -1909,7 +1909,7 @@
         "valeur": 74,
         "champ_source": "semaines_presence",
         "slug": "arthur-delaporte",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA793398": {
@@ -2145,7 +2145,7 @@
         "valeur": 71,
         "champ_source": "semaines_presence",
         "slug": "jeremie-patrier-leitus",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA719024": {
@@ -2600,7 +2600,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "christophe-blanchet",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA719032": {
@@ -3174,7 +3174,7 @@
         "valeur": 64,
         "champ_source": "semaines_presence",
         "slug": "bertrand-bouyx",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA717161": {
@@ -5153,7 +5153,7 @@
         "valeur": 72,
         "champ_source": "semaines_presence",
         "slug": "christine-loir",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA793608": {
@@ -5817,7 +5817,7 @@
         "valeur": 64,
         "champ_source": "semaines_presence",
         "slug": "katiana-levavasseur",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA793616": {
@@ -7773,7 +7773,7 @@
         "valeur": 75,
         "champ_source": "semaines_presence",
         "slug": "kevin-mauvieux",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA793624": {
@@ -8259,7 +8259,7 @@
         "valeur": 76,
         "champ_source": "semaines_presence",
         "slug": "philippe-brun",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA793632": {
@@ -9891,7 +9891,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "timothee-houssin",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA266797": {
@@ -10414,7 +10414,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "philippe-gosselin",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA720190": {
@@ -11276,7 +11276,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "bertrand-sorre",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA607395": {
@@ -11779,7 +11779,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "stephane-travert",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA794270": {
@@ -11788,6 +11788,14 @@
       "circo": "Manche 4e circ.",
       "groupe": "Socialistes et apparentés",
       "questions": [
+        {
+          "numero": "Question au Gouvernement n° 1845",
+          "date": "14 octobre 2026",
+          "rubrique": "organisations internationales",
+          "titre": "Position de la diplomatie française vis-à-vis des États-Unis",
+          "statut": "Question posée en séance",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG1845"
+        },
         {
           "numero": "Question écrite n° 18370",
           "date": "22 septembre 2026",
@@ -11939,14 +11947,6 @@
           "titre": "Action diplomatique française et situation politique au Togo",
           "statut": "Réponse publiée le 2 juin 2026",
           "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12824"
-        },
-        {
-          "numero": "Question écrite n° 12803",
-          "date": "10 février 2026",
-          "rubrique": "organisations internationales",
-          "titre": "Contribution française au fonds mondial",
-          "statut": "Réponse publiée le 28 avril 2026",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12803"
         }
       ],
       "rapports": [
@@ -13124,7 +13124,7 @@
         "valeur": 67,
         "champ_source": "semaines_presence",
         "slug": "anna-pic",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA643192": {
@@ -14658,7 +14658,7 @@
         "valeur": 74,
         "champ_source": "semaines_presence",
         "slug": "chantal-jourdan",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA794750": {
@@ -17573,7 +17573,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "annie-vidal",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA796106": {
@@ -18872,7 +18872,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "alma-dufour",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA774958": {
@@ -20045,7 +20045,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "gerard-leseul",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA841825": {
@@ -22607,7 +22607,7 @@
         "valeur": 73,
         "champ_source": "semaines_presence",
         "slug": "jean-paul-lecoq",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA795270": {
@@ -22944,7 +22944,7 @@
         "valeur": 76,
         "champ_source": "semaines_presence",
         "slug": "marie-agnes-poussier-winsback",
-        "date_donnees": "2026-10-31"
+        "date_donnees": "2026-11-01"
       }
     },
     "PA841837": {
@@ -24136,6 +24136,6 @@
   },
   "assiduite_statut": {
     "a_jour": true,
-    "date_donnees": "2026-10-31"
+    "date_donnees": "2026-11-01"
   }
 }
