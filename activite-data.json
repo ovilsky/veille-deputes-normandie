@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T15:15:16",
+  "generated_at": "2026-11-03T13:53:39",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -214,112 +214,112 @@
       "votes": [
         {
           "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9509 sur l'amendement n° 1361 de M. Le Coq et l'amendement identique suivant de suppression de l'article 20 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9578 sur l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9509",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9578",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 2
+            "Contre": 3
           }
         },
         {
           "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9508 sur l'amendement n° 1378 de M. Bilongo à l'article 19 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9508",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9507 sur l'amendement n° 1375 de Mme Maximi à l'article 19 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9507",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9505 sur l'amendement n° 2521 de M. Fugit après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9505",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9504 sur l'amendement n° 676 de M. Tivoli après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9504",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9503 sur l'amendement n° 675 de M. Tivoli après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9503",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9502 sur l'amendement n° 1181 de M. Metzdorf après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9502",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 2
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9501 sur l'amendement n° 968 de Mme Marsaud après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9577 sur l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9501",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9577",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 2
+            "Pour": 4
           }
         },
         {
           "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9500 sur l'amendement n° 907 de Mme Bellay après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9576 sur l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9500",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9576",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 2
+            "Contre": 3
           }
         },
         {
           "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9499 sur l'amendement n° 1040 de M. Ratenon après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9575 sur l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9499",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9575",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 2
+            "Contre": 3
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9573 sur l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9573",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 3
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9572 sur l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9572",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 3
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9571 sur l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9571",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 3
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9570 sur l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9570",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 3
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9569 sur l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9569",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 3
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9568 sur l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9568",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 3
           }
         },
         {
@@ -644,105 +644,6 @@
           "position": "Contre",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8940",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8956 sur l'amendement n° 207 de M. Le Fur et les amendements identiques suivants de suppression de l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8956",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 3
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8960 sur l'amendement n° 643 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8960",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8961 sur l'amendement n° 639 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8961",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8962 sur l'amendement n° 1991 de M. Bazin à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8962",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8963 sur l'amendement n° 790 de Mme Belouassa-Cherifi à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8963",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8964 sur l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8964",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8965 sur l'amendement n° 791 de M. Clouet après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8965",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8966 sur l'amendement n° 645 de M. Dussausaye après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8966",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8967 sur l'amendement n° 657 de M. Dussausaye après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8967",
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 2
@@ -1202,50 +1103,6 @@
         },
         {
           "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9498 sur l'amendement n° 641 de M. Jean-Philippe Tanguy et l'amendement identique suivant après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9498",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9510 sur l'amendement n° 1191 de Mme Maximi de suppression de l'article 21 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9510",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9511 sur l'amendement n° 1539 de M. Fouquart à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9511",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 2
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9512 sur l'amendement n° 547 de M. Lottiaux et les amendements identiques suivants à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9512",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2
-          }
-        },
-        {
-          "date": "2 novembre 2026",
           "objet": "Scrutin public n°9513 sur l'amendement n° 908 de Mme Bellay et l'amendement identique suivant à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Adopté",
@@ -1253,6 +1110,105 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 2
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9521 sur l'amendement n° 2527 de M. Le Coq après l'article 23 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9521",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 2
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9522 sur l'amendement n° 761 de M. Renault après l'article 23 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9522",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 2
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9523 sur l'amendement n° 297 de M. Bilongo après l'article 23 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9523",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 2
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9524 sur l'amendement n° 681 de M. Chenu après l'article 23 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9524",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 2
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9525 sur l'amendement n° 2106 de M. Lucas-Lundy après l'article 23 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9525",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 2
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9526 sur l'amendement n° 3402 de M. Juvin à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9526",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 2
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9527 sur l'amendement n° 2315 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9527",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 2
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9528 sur l'amendement n° 2316 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9528",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 2
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9529 sur l'amendement n° 2318 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9529",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 2
           }
         }
       ],
@@ -1868,7 +1824,7 @@
         "valeur": 74,
         "champ_source": "semaines_presence",
         "slug": "arthur-delaporte",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA793398": {
@@ -2104,7 +2060,7 @@
         "valeur": 71,
         "champ_source": "semaines_presence",
         "slug": "jeremie-patrier-leitus",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA719024": {
@@ -2559,7 +2515,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "christophe-blanchet",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA719032": {
@@ -3133,7 +3089,7 @@
         "valeur": 64,
         "champ_source": "semaines_presence",
         "slug": "bertrand-bouyx",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA717161": {
@@ -3623,124 +3579,116 @@
       "votes": [
         {
           "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9511 sur l'amendement n° 1539 de M. Fouquart à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9511",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 28,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9510 sur l'amendement n° 1191 de Mme Maximi de suppression de l'article 21 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9510",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 26,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9509 sur l'amendement n° 1361 de M. Le Coq et l'amendement identique suivant de suppression de l'article 20 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9578 sur l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9509",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9578",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 25,
-            "Non votant": 1
+            "Contre": 33
           }
         },
         {
           "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9508 sur l'amendement n° 1378 de M. Bilongo à l'article 19 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9508",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 1,
-            "Abstention": 20,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9507 sur l'amendement n° 1375 de Mme Maximi à l'article 19 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9507",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 23,
-            "Abstention": 1,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9506 sur l'amendement n° 1030 de M. Coulomme après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9506",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 25,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9505 sur l'amendement n° 2521 de M. Fugit après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9505",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 22,
-            "Abstention": 1,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9504 sur l'amendement n° 676 de M. Tivoli après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9504",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 25
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9503 sur l'amendement n° 675 de M. Tivoli après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9503",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 24,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9502 sur l'amendement n° 1181 de M. Metzdorf après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9577 sur l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Abstention",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9502",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9577",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Abstention": 24,
+            "Abstention": 34,
             "Non votant": 1
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9576 sur l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9576",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 38
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9575 sur l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9575",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 44
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9574 sur l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9574",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 45
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9573 sur l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9573",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 44
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9572 sur l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9572",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 46
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9571 sur l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9571",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 45,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9570 sur l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9570",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 44
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9569 sur l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9569",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 1,
+            "Contre": 42,
+            "Abstention": 1
           }
         },
         {
@@ -4086,118 +4034,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 53
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8956 sur l'amendement n° 207 de M. Le Fur et les amendements identiques suivants de suppression de l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8956",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Abstention": 61
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8959 sur l'amendement n° 786 de M. Clouet à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8959",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 48
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8960 sur l'amendement n° 643 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8960",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8961 sur l'amendement n° 639 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8961",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8962 sur l'amendement n° 1991 de M. Bazin à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8962",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 46,
-            "Contre": 1
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8963 sur l'amendement n° 790 de Mme Belouassa-Cherifi à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8963",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 47
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8964 sur l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8964",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 47
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8965 sur l'amendement n° 791 de M. Clouet après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8965",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 41
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8966 sur l'amendement n° 645 de M. Dussausaye après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8966",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 41
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8967 sur l'amendement n° 657 de M. Dussausaye après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8967",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 41
           }
         },
         {
@@ -5081,69 +4917,6 @@
         },
         {
           "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9498 sur l'amendement n° 641 de M. Jean-Philippe Tanguy et l'amendement identique suivant après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9498",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 19,
-            "Contre": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9499 sur l'amendement n° 1040 de M. Ratenon après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9499",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 19,
-            "Contre": 1,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9500 sur l'amendement n° 907 de Mme Bellay après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9500",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 6,
-            "Contre": 15,
-            "Abstention": 2,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9501 sur l'amendement n° 968 de Mme Marsaud après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9501",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 24,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9512 sur l'amendement n° 547 de M. Lottiaux et les amendements identiques suivants à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9512",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 28,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
           "objet": "Scrutin public n°9513 sur l'amendement n° 908 de Mme Bellay et l'amendement identique suivant à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Abstention",
           "resultat": "Adopté",
@@ -5152,6 +4925,79 @@
           "detail_groupe": {
             "Abstention": 25,
             "Non votant": 1
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9525 sur l'amendement n° 2106 de M. Lucas-Lundy après l'article 23 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9525",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 34,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9526 sur l'amendement n° 3402 de M. Juvin à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9526",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 28,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9527 sur l'amendement n° 2315 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9527",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 28,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9528 sur l'amendement n° 2316 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9528",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 1,
+            "Abstention": 29,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9529 sur l'amendement n° 2318 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9529",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 31,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9568 sur l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9568",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 4,
+            "Abstention": 40
           }
         }
       ],
@@ -5171,7 +5017,7 @@
         "valeur": 72,
         "champ_source": "semaines_presence",
         "slug": "christine-loir",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA793608": {
@@ -5696,118 +5542,6 @@
           }
         },
         {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8956 sur l'amendement n° 207 de M. Le Fur et les amendements identiques suivants de suppression de l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8956",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Abstention": 61
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8959 sur l'amendement n° 786 de M. Clouet à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8959",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 48
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8960 sur l'amendement n° 643 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8960",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8961 sur l'amendement n° 639 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8961",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8962 sur l'amendement n° 1991 de M. Bazin à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8962",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 46,
-            "Contre": 1
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8963 sur l'amendement n° 790 de Mme Belouassa-Cherifi à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8963",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 47
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8964 sur l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8964",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 47
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8965 sur l'amendement n° 791 de M. Clouet après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8965",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 41
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8966 sur l'amendement n° 645 de M. Dussausaye après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8966",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 41
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8967 sur l'amendement n° 657 de M. Dussausaye après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8967",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 41
-          }
-        },
-        {
           "date": "22 octobre 2026",
           "objet": "Scrutin public n°9002 sur l'amendement n° 1379 de M. Clouet après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
           "position": "Contre",
@@ -5835,7 +5569,7 @@
         "valeur": 64,
         "champ_source": "semaines_presence",
         "slug": "katiana-levavasseur",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA793616": {
@@ -5994,124 +5728,116 @@
       "votes": [
         {
           "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9511 sur l'amendement n° 1539 de M. Fouquart à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9511",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 28,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9510 sur l'amendement n° 1191 de Mme Maximi de suppression de l'article 21 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9510",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 26,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9509 sur l'amendement n° 1361 de M. Le Coq et l'amendement identique suivant de suppression de l'article 20 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9578 sur l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9509",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9578",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 25,
-            "Non votant": 1
+            "Contre": 33
           }
         },
         {
           "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9504 sur l'amendement n° 676 de M. Tivoli après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9504",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 25
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9503 sur l'amendement n° 675 de M. Tivoli après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9503",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 24,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9502 sur l'amendement n° 1181 de M. Metzdorf après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9577 sur l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Abstention",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9502",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9577",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Abstention": 24,
+            "Abstention": 34,
             "Non votant": 1
           }
         },
         {
           "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9501 sur l'amendement n° 968 de Mme Marsaud après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9501",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 24,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9500 sur l'amendement n° 907 de Mme Bellay après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Abstention",
+          "objet": "Scrutin public n°9576 sur l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9500",
-          "conforme_groupe": false,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9576",
+          "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 6,
-            "Contre": 15,
-            "Abstention": 2,
+            "Contre": 38
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9575 sur l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9575",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 44
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9574 sur l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9574",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 45
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9573 sur l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9573",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 44
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9572 sur l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9572",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 46
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9571 sur l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9571",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 45,
             "Non votant": 1
           }
         },
         {
           "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9499 sur l'amendement n° 1040 de M. Ratenon après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9499",
+          "objet": "Scrutin public n°9570 sur l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9570",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 19,
-            "Contre": 1,
-            "Non votant": 1
+            "Contre": 44
           }
         },
         {
           "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9498 sur l'amendement n° 641 de M. Jean-Philippe Tanguy et l'amendement identique suivant après l'article 16 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9498",
+          "objet": "Scrutin public n°9569 sur l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9569",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 19,
-            "Contre": 1
+            "Pour": 1,
+            "Contre": 42,
+            "Abstention": 1
           }
         },
         {
@@ -6446,85 +6172,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 53
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8956 sur l'amendement n° 207 de M. Le Fur et les amendements identiques suivants de suppression de l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8956",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Abstention": 61
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8959 sur l'amendement n° 786 de M. Clouet à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8959",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 48
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8960 sur l'amendement n° 643 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8960",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8961 sur l'amendement n° 639 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8961",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8962 sur l'amendement n° 1991 de M. Bazin à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8962",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 46,
-            "Contre": 1
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8963 sur l'amendement n° 790 de Mme Belouassa-Cherifi à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8963",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 47
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8964 sur l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8964",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 47
           }
         },
         {
@@ -7647,18 +7294,6 @@
         },
         {
           "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9512 sur l'amendement n° 547 de M. Lottiaux et les amendements identiques suivants à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9512",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 28,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
           "objet": "Scrutin public n°9513 sur l'amendement n° 908 de Mme Bellay et l'amendement identique suivant à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Abstention",
           "resultat": "Adopté",
@@ -7667,6 +7302,65 @@
           "detail_groupe": {
             "Abstention": 25,
             "Non votant": 1
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9521 sur l'amendement n° 2527 de M. Le Coq après l'article 23 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9521",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 32,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9522 sur l'amendement n° 761 de M. Renault après l'article 23 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9522",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 30,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9523 sur l'amendement n° 297 de M. Bilongo après l'article 23 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9523",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 34,
+            "Non votant": 1
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9524 sur l'amendement n° 681 de M. Chenu après l'article 23 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9524",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 35
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9568 sur l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9568",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 4,
+            "Abstention": 40
           }
         }
       ],
@@ -7686,7 +7380,7 @@
         "valeur": 75,
         "champ_source": "semaines_presence",
         "slug": "kevin-mauvieux",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA793624": {
@@ -8172,7 +7866,7 @@
         "valeur": 76,
         "champ_source": "semaines_presence",
         "slug": "philippe-brun",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA793632": {
@@ -8755,118 +8449,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 53
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8956 sur l'amendement n° 207 de M. Le Fur et les amendements identiques suivants de suppression de l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8956",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Abstention": 61
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8959 sur l'amendement n° 786 de M. Clouet à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8959",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 48
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8960 sur l'amendement n° 643 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8960",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8961 sur l'amendement n° 639 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8961",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8962 sur l'amendement n° 1991 de M. Bazin à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8962",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 46,
-            "Contre": 1
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8963 sur l'amendement n° 790 de Mme Belouassa-Cherifi à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8963",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 47
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8964 sur l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8964",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 47
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8965 sur l'amendement n° 791 de M. Clouet après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8965",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 41
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8966 sur l'amendement n° 645 de M. Dussausaye après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8966",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 41
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8967 sur l'amendement n° 657 de M. Dussausaye après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8967",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 41
           }
         },
         {
@@ -9699,7 +9281,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "timothee-houssin",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA266797": {
@@ -10222,7 +9804,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "philippe-gosselin",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA720190": {
@@ -11084,7 +10666,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "bertrand-sorre",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA607395": {
@@ -11587,7 +11169,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "stephane-travert",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA794270": {
@@ -12787,7 +12369,7 @@
         "valeur": 67,
         "champ_source": "semaines_presence",
         "slug": "anna-pic",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA643192": {
@@ -12967,113 +12549,114 @@
       "propositions": [],
       "votes": [
         {
-          "date": "30 octobre 2026",
-          "objet": "Scrutin public n°9459 sur l'amendement n° 1376 de Mme Thomin après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9459",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 8
-          }
-        },
-        {
-          "date": "30 octobre 2026",
-          "objet": "Scrutin public n°9458 sur l'amendement n° 2166 de Mme Pochon après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9458",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 8
-          }
-        },
-        {
-          "date": "30 octobre 2026",
-          "objet": "Scrutin public n°9457 sur l'amendement n° 1432 de M. Martineau et les amendements identiques suivants après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9457",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 8
-          }
-        },
-        {
-          "date": "30 octobre 2026",
-          "objet": "Scrutin public n°9456 sur l'amendement n° 542 de M. Lottiaux après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9456",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 6
-          }
-        },
-        {
-          "date": "30 octobre 2026",
-          "objet": "Scrutin public n°9455 sur l'amendement n° 670 de M. Jean-Philippe Tanguy après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9455",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 6
-          }
-        },
-        {
-          "date": "30 octobre 2026",
-          "objet": "Scrutin public n°9454 sur l'amendement n° 2758 de M. Masséglia et l'amendement identique suivant après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9578 sur l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Abstention",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9454",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9578",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Abstention": 4
+            "Pour": 2,
+            "Abstention": 8
           }
         },
         {
-          "date": "30 octobre 2026",
-          "objet": "Scrutin public n°9453 sur l'amendement n° 2757 de M. Masséglia et l'amendement identique suivant après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9453",
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9577 sur l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9577",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 2
+            "Pour": 10
           }
         },
         {
-          "date": "30 octobre 2026",
-          "objet": "Scrutin public n°9452 sur l'amendement n° 2730 de M. Masséglia après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9576 sur l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9452",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9576",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 3
+            "Pour": 9
           }
         },
         {
-          "date": "30 octobre 2026",
-          "objet": "Scrutin public n°9450 sur l'amendement n° 242 de M. Sabatou après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9575 sur l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9450",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9575",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 3
+            "Pour": 9
           }
         },
         {
-          "date": "30 octobre 2026",
-          "objet": "Scrutin public n°9449 sur l'amendement n° 241 de M. Sabatou après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9574 sur l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9449",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9574",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 3
+            "Pour": 9
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9573 sur l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9573",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 9
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9572 sur l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9572",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 9
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9571 sur l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9571",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 9
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9570 sur l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9570",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 11
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9569 sur l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9569",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 11
           }
         },
         {
@@ -13287,96 +12870,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 14
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8956 sur l'amendement n° 207 de M. Le Fur et les amendements identiques suivants de suppression de l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8956",
-          "conforme_groupe": false,
-          "detail_groupe": {
-            "Pour": 3,
-            "Contre": 13
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8959 sur l'amendement n° 786 de M. Clouet à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8959",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 13
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8960 sur l'amendement n° 643 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8960",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 13
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8961 sur l'amendement n° 639 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8961",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 13
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8962 sur l'amendement n° 1991 de M. Bazin à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8962",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 13
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8963 sur l'amendement n° 790 de Mme Belouassa-Cherifi à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8963",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 13
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8964 sur l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8964",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 13
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8965 sur l'amendement n° 791 de M. Clouet après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8965",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 12,
-            "Contre": 1
           }
         },
         {
@@ -14114,6 +13607,72 @@
           "detail_groupe": {
             "Pour": 8
           }
+        },
+        {
+          "date": "30 octobre 2026",
+          "objet": "Scrutin public n°9455 sur l'amendement n° 670 de M. Jean-Philippe Tanguy après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9455",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 6
+          }
+        },
+        {
+          "date": "30 octobre 2026",
+          "objet": "Scrutin public n°9456 sur l'amendement n° 542 de M. Lottiaux après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9456",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 6
+          }
+        },
+        {
+          "date": "30 octobre 2026",
+          "objet": "Scrutin public n°9457 sur l'amendement n° 1432 de M. Martineau et les amendements identiques suivants après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9457",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 8
+          }
+        },
+        {
+          "date": "30 octobre 2026",
+          "objet": "Scrutin public n°9458 sur l'amendement n° 2166 de Mme Pochon après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9458",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 8
+          }
+        },
+        {
+          "date": "30 octobre 2026",
+          "objet": "Scrutin public n°9459 sur l'amendement n° 1376 de Mme Thomin après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9459",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 8
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9568 sur l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9568",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 10
+          }
         }
       ],
       "interventions": [
@@ -14132,7 +13691,7 @@
         "valeur": 74,
         "champ_source": "semaines_presence",
         "slug": "chantal-jourdan",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA794750": {
@@ -14873,116 +14432,115 @@
       ],
       "votes": [
         {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8967 sur l'amendement n° 657 de M. Dussausaye après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9578 sur l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8967",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9578",
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 8
           }
         },
         {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8966 sur l'amendement n° 645 de M. Dussausaye après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9577 sur l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8966",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 7
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8965 sur l'amendement n° 791 de M. Clouet après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8965",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 7
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8964 sur l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Abstention",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8964",
-          "conforme_groupe": false,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9577",
+          "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 6,
-            "Abstention": 1
+            "Pour": 2,
+            "Contre": 4,
+            "Abstention": 2
           }
         },
         {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8963 sur l'amendement n° 790 de Mme Belouassa-Cherifi à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9576 sur l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8963",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9576",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 7
+            "Contre": 9
           }
         },
         {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8962 sur l'amendement n° 1991 de M. Bazin à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8962",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 7
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8961 sur l'amendement n° 639 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9575 sur l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8961",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9575",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 6
+            "Contre": 11
           }
         },
         {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8960 sur l'amendement n° 643 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9574 sur l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8960",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9574",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 7
+            "Contre": 11
           }
         },
         {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8959 sur l'amendement n° 786 de M. Clouet à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9573 sur l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8959",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9573",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 8
+            "Contre": 11
           }
         },
         {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8956 sur l'amendement n° 207 de M. Le Fur et les amendements identiques suivants de suppression de l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9572 sur l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8956",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9572",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 3,
-            "Contre": 2,
-            "Abstention": 1
+            "Contre": 11
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9571 sur l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9571",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 10
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9570 sur l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9570",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 10
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9569 sur l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9569",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 9
           }
         },
         {
@@ -15328,6 +14886,18 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 8
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9568 sur l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9568",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 8,
+            "Abstention": 1
           }
         }
       ],
@@ -16873,127 +16443,6 @@
           }
         },
         {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8956 sur l'amendement n° 207 de M. Le Fur et les amendements identiques suivants de suppression de l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8956",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 16,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8959 sur l'amendement n° 786 de M. Clouet à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8959",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 12,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8960 sur l'amendement n° 643 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8960",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 12,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8961 sur l'amendement n° 639 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8961",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 12,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8962 sur l'amendement n° 1991 de M. Bazin à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8962",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 10,
-            "Contre": 1,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8963 sur l'amendement n° 790 de Mme Belouassa-Cherifi à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8963",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 11,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8964 sur l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8964",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 11,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8965 sur l'amendement n° 791 de M. Clouet après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8965",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 10,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8966 sur l'amendement n° 645 de M. Dussausaye après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8966",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 10,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8967 sur l'amendement n° 657 de M. Dussausaye après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8967",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 10,
-            "Non votant": 1
-          }
-        },
-        {
           "date": "22 octobre 2026",
           "objet": "Scrutin public n°9002 sur l'amendement n° 1379 de M. Clouet après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
           "position": "Contre",
@@ -17047,7 +16496,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "annie-vidal",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA796106": {
@@ -17647,95 +17096,6 @@
           }
         },
         {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8956 sur l'amendement n° 207 de M. Le Fur et les amendements identiques suivants de suppression de l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8956",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Contre": 2
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8959 sur l'amendement n° 786 de M. Clouet à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8959",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8960 sur l'amendement n° 643 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8960",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8962 sur l'amendement n° 1991 de M. Bazin à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8962",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8963 sur l'amendement n° 790 de Mme Belouassa-Cherifi à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8963",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8965 sur l'amendement n° 791 de M. Clouet après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8965",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8966 sur l'amendement n° 645 de M. Dussausaye après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8966",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 3
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8967 sur l'amendement n° 657 de M. Dussausaye après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8967",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 3
-          }
-        },
-        {
           "date": "22 octobre 2026",
           "objet": "Scrutin public n°9002 sur l'amendement n° 1379 de M. Clouet après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
           "position": "Pour",
@@ -18020,6 +17380,105 @@
       "votes": [
         {
           "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9529 sur l'amendement n° 2318 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9529",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 13
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9528 sur l'amendement n° 2316 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9528",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 13
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9527 sur l'amendement n° 2315 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9527",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 13
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9526 sur l'amendement n° 3402 de M. Juvin à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9526",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 13
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9525 sur l'amendement n° 2106 de M. Lucas-Lundy après l'article 23 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9525",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 16
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9524 sur l'amendement n° 681 de M. Chenu après l'article 23 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9524",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 16
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9523 sur l'amendement n° 297 de M. Bilongo après l'article 23 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9523",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 16
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9522 sur l'amendement n° 761 de M. Renault après l'article 23 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9522",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 14
+          }
+        },
+        {
+          "date": "2 novembre 2026",
+          "objet": "Scrutin public n°9521 sur l'amendement n° 2527 de M. Le Coq après l'article 23 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9521",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 15
+          }
+        },
+        {
+          "date": "2 novembre 2026",
           "objet": "Scrutin public n°9513 sur l'amendement n° 908 de Mme Bellay et l'amendement identique suivant à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
@@ -18027,107 +17486,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 12
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9512 sur l'amendement n° 547 de M. Lottiaux et les amendements identiques suivants à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9512",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 12
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9511 sur l'amendement n° 1539 de M. Fouquart à l'article 21 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9511",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 8,
-            "Abstention": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9510 sur l'amendement n° 1191 de Mme Maximi de suppression de l'article 21 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9510",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 10,
-            "Abstention": 1
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9509 sur l'amendement n° 1361 de M. Le Coq et l'amendement identique suivant de suppression de l'article 20 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9509",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 11
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9508 sur l'amendement n° 1378 de M. Bilongo à l'article 19 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9508",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 10
-          }
-        },
-        {
-          "date": "2 novembre 2026",
-          "objet": "Scrutin public n°9507 sur l'amendement n° 1375 de Mme Maximi à l'article 19 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9507",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 10
-          }
-        },
-        {
-          "date": "30 octobre 2026",
-          "objet": "Scrutin public n°9360 sur l'amendement n° 1153 de Mme Létard et les amendements identiques suivants après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9360",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 10
-          }
-        },
-        {
-          "date": "30 octobre 2026",
-          "objet": "Scrutin public n°9359 sur l'amendement n° 96 de M. Falcon et les amendements identiques suivants à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9359",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 11
-          }
-        },
-        {
-          "date": "29 octobre 2026",
-          "objet": "Scrutin public n°9335 sur l'article 2 de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9335",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 64
           }
         },
         {
@@ -18407,6 +17765,39 @@
           "detail_groupe": {
             "Pour": 65
           }
+        },
+        {
+          "date": "29 octobre 2026",
+          "objet": "Scrutin public n°9335 sur l'article 2 de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9335",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 64
+          }
+        },
+        {
+          "date": "30 octobre 2026",
+          "objet": "Scrutin public n°9359 sur l'amendement n° 96 de M. Falcon et les amendements identiques suivants à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9359",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 11
+          }
+        },
+        {
+          "date": "30 octobre 2026",
+          "objet": "Scrutin public n°9360 sur l'amendement n° 1153 de Mme Létard et les amendements identiques suivants après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9360",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 10
+          }
         }
       ],
       "interventions": [
@@ -18425,7 +17816,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "alma-dufour",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA774958": {
@@ -18990,96 +18381,6 @@
           }
         },
         {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8956 sur l'amendement n° 207 de M. Le Fur et les amendements identiques suivants de suppression de l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8956",
-          "conforme_groupe": false,
-          "detail_groupe": {
-            "Pour": 3,
-            "Contre": 13
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8959 sur l'amendement n° 786 de M. Clouet à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8959",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 13
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8960 sur l'amendement n° 643 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8960",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 13
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8961 sur l'amendement n° 639 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8961",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 13
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8962 sur l'amendement n° 1991 de M. Bazin à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8962",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 13
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8963 sur l'amendement n° 790 de Mme Belouassa-Cherifi à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8963",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 13
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8964 sur l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8964",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 13
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8965 sur l'amendement n° 791 de M. Clouet après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8965",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 12,
-            "Contre": 1
-          }
-        },
-        {
           "date": "22 octobre 2026",
           "objet": "Scrutin public n°9002 sur l'amendement n° 1379 de M. Clouet après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
           "position": "Pour",
@@ -19508,7 +18809,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "gerard-leseul",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA841825": {
@@ -20065,85 +19366,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Abstention": 44
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8956 sur l'amendement n° 207 de M. Le Fur et les amendements identiques suivants de suppression de l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8956",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Abstention": 61
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8959 sur l'amendement n° 786 de M. Clouet à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8959",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 48
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8960 sur l'amendement n° 643 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8960",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8961 sur l'amendement n° 639 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8961",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8962 sur l'amendement n° 1991 de M. Bazin à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8962",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 46,
-            "Contre": 1
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8963 sur l'amendement n° 790 de Mme Belouassa-Cherifi à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8963",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 47
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8964 sur l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8964",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 47
           }
         },
         {
@@ -21582,14 +20804,14 @@
       ],
       "interventions": [
         {
-          "date": "mercredi 21 octobre 2026",
-          "titre": "Commission des lois : Mme Naïma Moutchou, ministre des Outre-mer, sur les crédits de la mission « Outre-mer »",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19604930?timeCode=4633.47&depute=PA267780"
+          "date": "lundi 2 novembre 2026",
+          "titre": "Commission des lois : M. Laurent Nuñez, ministre de l’Intérieur, sur les crédits des missions « Sécurités », « Administration générale et territoriale de l’État » et « Immigration, asile et intégration »",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19669659?timeCode=1419.64&depute=PA267780"
         },
         {
           "date": "mercredi 21 octobre 2026",
-          "titre": "Commission des lois : Examen de diverses propositions de loi",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19595294?timeCode=11550.91&depute=PA267780"
+          "titre": "Commission des lois : Mme Naïma Moutchou, ministre des Outre-mer, sur les crédits de la mission « Outre-mer »",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19604930?timeCode=4633.47&depute=PA267780"
         }
       ],
       "assiduite": null
@@ -22045,7 +21267,7 @@
         "valeur": 73,
         "champ_source": "semaines_presence",
         "slug": "jean-paul-lecoq",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA795270": {
@@ -22382,7 +21604,7 @@
         "valeur": 76,
         "champ_source": "semaines_presence",
         "slug": "marie-agnes-poussier-winsback",
-        "date_donnees": "2026-11-02"
+        "date_donnees": "2026-11-03"
       }
     },
     "PA841837": {
@@ -22953,51 +22175,6 @@
           }
         },
         {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8956 sur l'amendement n° 207 de M. Le Fur et les amendements identiques suivants de suppression de l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8956",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Abstention": 61
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8959 sur l'amendement n° 786 de M. Clouet à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8959",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Abstention": 48
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8960 sur l'amendement n° 643 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8960",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
-          "date": "21 octobre 2026",
-          "objet": "Scrutin public n°8961 sur l'amendement n° 639 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8961",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 54
-          }
-        },
-        {
           "date": "27 octobre 2026",
           "objet": "Scrutin public n°9119 sur l'amendement n° 2190 (rect.) de M. Patrice Martin à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
@@ -23447,6 +22624,6 @@
   },
   "assiduite_statut": {
     "a_jour": true,
-    "date_donnees": "2026-11-02"
+    "date_donnees": "2026-11-03"
   }
 }
