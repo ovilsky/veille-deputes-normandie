@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T13:59:25",
+  "generated_at": "2026-11-07T12:43:43",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -697,7 +697,7 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9640 sur l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9640 sur l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9640",
@@ -1018,7 +1018,7 @@
         },
         {
           "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9715 sur l'amendement n° 2580 de M. Coquerel après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9715 sur l'amendement n° 2580 (rect.) de M. Coquerel après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9715",
@@ -1737,7 +1737,7 @@
         "valeur": 74,
         "champ_source": "semaines_presence",
         "slug": "arthur-delaporte",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA793398": {
@@ -1973,7 +1973,7 @@
         "valeur": 71,
         "champ_source": "semaines_presence",
         "slug": "jeremie-patrier-leitus",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA719024": {
@@ -2450,7 +2450,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "christophe-blanchet",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA719032": {
@@ -3091,7 +3091,7 @@
         "valeur": 64,
         "champ_source": "semaines_presence",
         "slug": "bertrand-bouyx",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA717161": {
@@ -4313,7 +4313,7 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9640 sur l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9640 sur l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9640",
@@ -4621,7 +4621,7 @@
         "valeur": 72,
         "champ_source": "semaines_presence",
         "slug": "christine-loir",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA793608": {
@@ -5093,7 +5093,7 @@
         "valeur": 64,
         "champ_source": "semaines_presence",
         "slug": "katiana-levavasseur",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA793616": {
@@ -5846,7 +5846,7 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9640 sur l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9640 sur l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9640",
@@ -6227,7 +6227,7 @@
         },
         {
           "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9715 sur l'amendement n° 2580 de M. Coquerel après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9715 sur l'amendement n° 2580 (rect.) de M. Coquerel après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9715",
@@ -6523,7 +6523,7 @@
         "valeur": 75,
         "champ_source": "semaines_presence",
         "slug": "kevin-mauvieux",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA793624": {
@@ -7060,7 +7060,7 @@
         },
         {
           "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9715 sur l'amendement n° 2580 de M. Coquerel après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9715 sur l'amendement n° 2580 (rect.) de M. Coquerel après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9715",
@@ -7330,7 +7330,7 @@
         "valeur": 76,
         "champ_source": "semaines_presence",
         "slug": "philippe-brun",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA793632": {
@@ -8119,7 +8119,7 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9640 sur l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9640 sur l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9640",
@@ -8614,7 +8614,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "timothee-houssin",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA266797": {
@@ -8964,7 +8964,7 @@
         },
         {
           "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9715 sur l'amendement n° 2580 de M. Coquerel après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9715 sur l'amendement n° 2580 (rect.) de M. Coquerel après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9715",
@@ -9140,7 +9140,7 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9640 sur l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9640 sur l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9640",
@@ -9304,7 +9304,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "philippe-gosselin",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA720190": {
@@ -9964,7 +9964,7 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9640 sur l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9640 sur l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9640",
@@ -10113,7 +10113,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "bertrand-sorre",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA607395": {
@@ -10577,7 +10577,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "stephane-travert",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA794270": {
@@ -11214,7 +11214,7 @@
         "valeur": 67,
         "champ_source": "semaines_presence",
         "slug": "anna-pic",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA643192": {
@@ -11498,7 +11498,7 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9640 sur l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9640 sur l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9640",
@@ -11998,7 +11998,7 @@
         "valeur": 74,
         "champ_source": "semaines_presence",
         "slug": "chantal-jourdan",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA794750": {
@@ -12513,7 +12513,7 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9640 sur l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9640 sur l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9640",
@@ -12874,7 +12874,7 @@
         },
         {
           "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9715 sur l'amendement n° 2580 de M. Coquerel après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9715 sur l'amendement n° 2580 (rect.) de M. Coquerel après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9715",
@@ -13524,7 +13524,7 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9640 sur l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9640 sur l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9640",
@@ -14519,7 +14519,7 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9640 sur l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9640 sur l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9640",
@@ -15220,7 +15220,7 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9640 sur l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9640 sur l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9640",
@@ -15284,7 +15284,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "annie-vidal",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA796106": {
@@ -15526,7 +15526,7 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9640 sur l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9640 sur l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Abstention",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9640",
@@ -16209,7 +16209,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "alma-dufour",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA774958": {
@@ -16532,7 +16532,7 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9640 sur l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9640 sur l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9640",
@@ -16887,7 +16887,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "gerard-leseul",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA841825": {
@@ -17079,7 +17079,7 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9640 sur l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9640 sur l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9640",
@@ -18575,7 +18575,7 @@
         "valeur": 73,
         "champ_source": "semaines_presence",
         "slug": "jean-paul-lecoq",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA795270": {
@@ -18936,7 +18936,7 @@
         "valeur": 76,
         "champ_source": "semaines_presence",
         "slug": "marie-agnes-poussier-winsback",
-        "date_donnees": "2026-11-06"
+        "date_donnees": "2026-11-07"
       }
     },
     "PA841837": {
@@ -19806,7 +19806,7 @@
         },
         {
           "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9715 sur l'amendement n° 2580 de M. Coquerel après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9715 sur l'amendement n° 2580 (rect.) de M. Coquerel après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9715",
@@ -20011,6 +20011,6 @@
   },
   "assiduite_statut": {
     "a_jour": true,
-    "date_donnees": "2026-11-06"
+    "date_donnees": "2026-11-07"
   }
 }
