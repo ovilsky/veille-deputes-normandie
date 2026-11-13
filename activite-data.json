@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:54:03",
+  "generated_at": "2026-11-13T14:19:17",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -214,54 +214,54 @@
       "votes": [
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9832 sur l'amendement n° 14 de M. Renault à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
+          "objet": "Scrutin public n°9895 sur l'ensemble du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9832",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9895",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 2
+            "Abstention": 3
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9831 sur l'amendement n° 57 de Mme Bentorki à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
+          "objet": "Scrutin public n°9894 sur l'amendement n° 2 du Gouvernement à l'article 4 du projet de loi de finances de fin de gestion pour 2026 (seconde délibération) (première lecture).",
+          "position": "Abstention",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9831",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9894",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 2
+            "Abstention": 2
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9830 sur l'amendement n° 13 de M. Renault à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9830",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9829 sur l'amendement n° 95 de M. Ben Cheikh à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9893 sur l'amendement n° 70 de Mme Bentorki et l'amendement identique suivant de suppression de l'article 9 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Contre",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9829",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9893",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 2
+            "Contre": 3
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9828 sur l'amendement n° 56 de Mme Bentorki à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9892 sur l'article 8 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9892",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 2
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9891 sur l'amendement n° 21 de M. Renault de suppression de l'article 8 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9828",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9891",
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 2
@@ -269,58 +269,58 @@
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9827 sur l'amendement n° 123 de Mme Got à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9890 sur l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9890",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 2
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9889 sur l'amendement n° 66 de Mme Lejeune à l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9889",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 2
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9888 sur l'amendement n° 64 de Mme Bentorki à l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9888",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 2
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9887 sur l'amendement n° 68 de Mme Lejeune de suppression de l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9887",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 2
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9886 sur l'article 6 et état C du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9827",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9886",
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 1,
-            "Contre": 1
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9826 sur l'amendement n° 105 de M. Jean-René Cazeneuve à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9826",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9825 sur l'amendement n° 12 de M. Renault à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9825",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9824 sur l'amendement n° 11 de M. Jean-Philippe Tanguy à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9824",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9823 sur l'amendement n° 93 de M. Ben Cheikh à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9823",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
+            "Abstention": 1
           }
         },
         {
@@ -566,17 +566,6 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9641 sur l'amendement n° 1985 de M. Odoul après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9641",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 4
-          }
-        },
-        {
-          "date": "3 novembre 2026",
           "objet": "Scrutin public n°9642 sur l'amendement n° 3925 de M. Sansu après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Adopté",
@@ -664,17 +653,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 4
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9677 sur l'amendement n° 725 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9677",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 5
           }
         },
         {
@@ -826,18 +804,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 4
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9725 sur l'amendement n° 3457 (rect.) de M. Raux après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9725",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 4,
-            "Abstention": 2
           }
         },
         {
@@ -1132,33 +1098,21 @@
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9808 sur l'amendement n° 3 de M. Jean-Philippe Tanguy et les amendements identiques suivants de suppression de l'article liminaire du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9835 sur l'amendement n° 60 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9808",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9835",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 1,
             "Contre": 2
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9809 sur l'amendement n° 1 de M. Masséglia et les amendements identiques suivants à l'article 1 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9809",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 3
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9810 sur l'amendement n° 2 de Mme Duby-Muller et les amendements identiques suivants à l'article 1 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9880 sur l'amendement n° 104 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9810",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9880",
           "conforme_groupe": false,
           "detail_groupe": {
             "Pour": 1,
@@ -1167,10 +1121,10 @@
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9811 sur l'amendement n° 5 de M. Jean-Philippe Tanguy à l'article 1 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9882 sur l'amendement n° 71 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9811",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9882",
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 2
@@ -1178,69 +1132,10 @@
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9812 sur l'amendement n° 36 de M. Coquerel et les amendements identiques suivants à l'article 1 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9812",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Contre": 2
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9813 sur l'article 1 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9883 sur l'amendement n° 24 du Gouvernement à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9813",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2,
-            "Contre": 1
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9814 sur l'amendement n° 6 de M. Jean-Philippe Tanguy et l'amendement identique suivant de suppression de l'article 2 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9814",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Contre": 2
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9815 sur l'amendement n° 7 de M. Jean-Philippe Tanguy et l'amendement identique suivant de suppression de l'article 3 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9815",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Contre": 2
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9816 sur l'amendement n° 8 de M. Jean-Philippe Tanguy de suppression de l'article 4 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9816",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9817 sur l'amendement n° 133 du Gouvernement à l'article 4 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9817",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9883",
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 2
@@ -1248,44 +1143,10 @@
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9818 sur l'amendement n° 9 de M. Renault à l'article 4 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9885 sur l'amendement n° 103 de Mme Lejeune et les amendements identiques suivants à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9818",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2,
-            "Abstention": 1
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9833 sur l'amendement n° 122 de M. Proença à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9833",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9834 sur l'amendement n° 59 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9834",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 2
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9835 sur l'amendement n° 60 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9835",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9885",
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 2
@@ -1750,7 +1611,7 @@
         "valeur": 74,
         "champ_source": "semaines_presence",
         "slug": "arthur-delaporte",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA793398": {
@@ -1972,21 +1833,21 @@
       ],
       "interventions": [
         {
+          "date": "jeudi 12 novembre 2026",
+          "titre": "1ère séance : Renforcer l'effectivité des droits voisins des éditeurs et des agences de presse ; Projet de loi de finances de fin de gestion pour 2026",
+          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19703771?timeCode=1842.96&depute=PA793398"
+        },
+        {
           "date": "mardi 10 novembre 2026",
           "titre": "Commission des affaires culturelles : Pétition « Supprimer CNews de l’audiovisuel français »",
           "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19697497?timeCode=2335.39&depute=PA793398"
-        },
-        {
-          "date": "mercredi 4 novembre 2026",
-          "titre": "Commission des affaires étrangères et Commission des affaires culturelles : Table ronde sur la diplomatie culturelle",
-          "url": "https://www.assemblee-nationale.fr/dyn/videos/CRVANR5L17S2026IDV19678334?timeCode=6414.11&depute=PA793398"
         }
       ],
       "assiduite": {
         "valeur": 71,
         "champ_source": "semaines_presence",
         "slug": "jeremie-patrier-leitus",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA719024": {
@@ -2430,7 +2291,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "christophe-blanchet",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA719032": {
@@ -2847,18 +2708,6 @@
         },
         {
           "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9677 sur l'amendement n° 725 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9677",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 5,
-            "Abstention": 3
-          }
-        },
-        {
-          "date": "4 novembre 2026",
           "objet": "Scrutin public n°9678 sur l'amendement n° 726 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
@@ -2867,18 +2716,6 @@
           "detail_groupe": {
             "Contre": 6,
             "Abstention": 2
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9683 sur l'amendement n° 432 de M. Balanant et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9683",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Contre": 7
           }
         },
         {
@@ -2992,7 +2829,7 @@
         "valeur": 64,
         "champ_source": "semaines_presence",
         "slug": "bertrand-bouyx",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA717161": {
@@ -3004,6 +2841,18 @@
       "rapports": [],
       "propositions": [],
       "votes": [
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9895 sur l'ensemble du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9895",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 26,
+            "Non votant": 1
+          }
+        },
         {
           "date": "4 novembre 2026",
           "objet": "Scrutin public n°9759 sur la première partie du projet de loi de finances pour 2027 (première lecture).",
@@ -3117,19 +2966,6 @@
           }
         },
         {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9683 sur l'amendement n° 432 de M. Balanant et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9683",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2,
-            "Contre": 12,
-            "Non votant": 1
-          }
-        },
-        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8421 sur l'ensemble de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
           "position": "Pour",
@@ -3224,18 +3060,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 20,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9677 sur l'amendement n° 725 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9677",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 18,
             "Non votant": 1
           }
         },
@@ -3454,6 +3278,17 @@
       ],
       "votes": [
         {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9895 sur l'ensemble du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9895",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 51
+          }
+        },
+        {
           "date": "4 novembre 2026",
           "objet": "Scrutin public n°9759 sur la première partie du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
@@ -3553,19 +3388,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 68
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9749 sur l'article 51 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9749",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 64,
-            "Contre": 1,
-            "Abstention": 1
           }
         },
         {
@@ -4016,17 +3838,6 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9641 sur l'amendement n° 1985 de M. Odoul après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9641",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 42
-          }
-        },
-        {
-          "date": "3 novembre 2026",
           "objet": "Scrutin public n°9642 sur l'amendement n° 3925 de M. Sansu après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
@@ -4295,6 +4106,19 @@
           "detail_groupe": {
             "Contre": 67
           }
+        },
+        {
+          "date": "4 novembre 2026",
+          "objet": "Scrutin public n°9749 sur l'article 51 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9749",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 64,
+            "Contre": 1,
+            "Abstention": 1
+          }
         }
       ],
       "interventions": [
@@ -4313,7 +4137,7 @@
         "valeur": 72,
         "champ_source": "semaines_presence",
         "slug": "christine-loir",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA793608": {
@@ -4763,7 +4587,7 @@
         "valeur": 64,
         "champ_source": "semaines_presence",
         "slug": "katiana-levavasseur",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA793616": {
@@ -4921,6 +4745,17 @@
       ],
       "votes": [
         {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9895 sur l'ensemble du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9895",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 51
+          }
+        },
+        {
           "date": "4 novembre 2026",
           "objet": "Scrutin public n°9759 sur la première partie du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
@@ -5020,17 +4855,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 66
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9750 sur l'amendement n° 76 de M. Dufosset et les amendements identiques suivants de suppression de l'article 53 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9750",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 68
           }
         },
         {
@@ -5391,17 +5215,6 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9641 sur l'amendement n° 1985 de M. Odoul après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9641",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 42
-          }
-        },
-        {
-          "date": "3 novembre 2026",
           "objet": "Scrutin public n°9642 sur l'amendement n° 3925 de M. Sansu après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
@@ -5494,17 +5307,6 @@
         },
         {
           "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9677 sur l'amendement n° 725 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9677",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 69
-          }
-        },
-        {
-          "date": "4 novembre 2026",
           "objet": "Scrutin public n°9678 sur l'amendement n° 726 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Rejeté",
@@ -5512,18 +5314,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 67
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9683 sur l'amendement n° 432 de M. Balanant et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9683",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2,
-            "Contre": 58
           }
         },
         {
@@ -5657,17 +5447,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 54
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9725 sur l'amendement n° 3457 (rect.) de M. Raux après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9725",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 63
           }
         },
         {
@@ -5850,6 +5629,17 @@
             "Contre": 1,
             "Abstention": 1
           }
+        },
+        {
+          "date": "4 novembre 2026",
+          "objet": "Scrutin public n°9750 sur l'amendement n° 76 de M. Dufosset et les amendements identiques suivants de suppression de l'article 53 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9750",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 68
+          }
         }
       ],
       "interventions": [
@@ -5868,7 +5658,7 @@
         "valeur": 75,
         "champ_source": "semaines_presence",
         "slug": "kevin-mauvieux",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA793624": {
@@ -6070,112 +5860,114 @@
       "votes": [
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9818 sur l'amendement n° 9 de M. Renault à l'article 4 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9895 sur l'ensemble du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9818",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 6
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9817 sur l'amendement n° 133 du Gouvernement à l'article 4 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9817",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9895",
           "conforme_groupe": false,
           "detail_groupe": {
-            "Abstention": 6
+            "Abstention": 16
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9816 sur l'amendement n° 8 de M. Jean-Philippe Tanguy de suppression de l'article 4 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9894 sur l'amendement n° 2 du Gouvernement à l'article 4 du projet de loi de finances de fin de gestion pour 2026 (seconde délibération) (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9816",
-          "conforme_groupe": true,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9894",
+          "conforme_groupe": false,
           "detail_groupe": {
-            "Contre": 5
+            "Abstention": 9
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9815 sur l'amendement n° 7 de M. Jean-Philippe Tanguy et l'amendement identique suivant de suppression de l'article 3 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9893 sur l'amendement n° 70 de Mme Bentorki et l'amendement identique suivant de suppression de l'article 9 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9893",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 9
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9892 sur l'article 8 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Abstention",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9815",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9892",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Abstention": 6
+            "Contre": 1,
+            "Abstention": 8
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9814 sur l'amendement n° 6 de M. Jean-Philippe Tanguy et l'amendement identique suivant de suppression de l'article 2 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9891 sur l'amendement n° 21 de M. Renault de suppression de l'article 8 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9891",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 9
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9890 sur l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9890",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 8
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9889 sur l'amendement n° 66 de Mme Lejeune à l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9814",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9889",
           "conforme_groupe": false,
           "detail_groupe": {
-            "Abstention": 6
+            "Abstention": 8
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9807 sur l'ensemble de la proposition de loi visant à renforcer l'effectivité des droits voisins des éditeurs et des agences de presse (texte de la commission mixte paritaire).",
+          "objet": "Scrutin public n°9888 sur l'amendement n° 64 de Mme Bentorki à l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9807",
-          "conforme_groupe": true,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9888",
+          "conforme_groupe": false,
           "detail_groupe": {
-            "Pour": 5
+            "Pour": 1,
+            "Abstention": 5
           }
         },
         {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9759 sur la première partie du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9759",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 27
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9758 sur l'amendement n° 1 du Gouvernement à l'article liminaire du projet de loi de finances pour 2027 (seconde délibération) (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9758",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 15
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9757 sur l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9757",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 15
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9756 sur l'amendement n° 3897 de M. Sansu à l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).",
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9887 sur l'amendement n° 68 de Mme Lejeune de suppression de l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Pour",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9756",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9887",
+          "conforme_groupe": false,
+          "detail_groupe": {
+            "Abstention": 9
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9885 sur l'amendement n° 103 de Mme Lejeune et les amendements identiques suivants à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9885",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 15
+            "Pour": 8
           }
         },
         {
@@ -6245,17 +6037,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 68
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9683 sur l'amendement n° 432 de M. Balanant et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9683",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 16
           }
         },
         {
@@ -6378,17 +6159,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 6
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9725 sur l'amendement n° 3457 (rect.) de M. Raux après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9725",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 4
           }
         },
         {
@@ -6623,6 +6393,117 @@
           "detail_groupe": {
             "Pour": 15
           }
+        },
+        {
+          "date": "4 novembre 2026",
+          "objet": "Scrutin public n°9756 sur l'amendement n° 3897 de M. Sansu à l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9756",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 15
+          }
+        },
+        {
+          "date": "4 novembre 2026",
+          "objet": "Scrutin public n°9757 sur l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9757",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 15
+          }
+        },
+        {
+          "date": "4 novembre 2026",
+          "objet": "Scrutin public n°9758 sur l'amendement n° 1 du Gouvernement à l'article liminaire du projet de loi de finances pour 2027 (seconde délibération) (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9758",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 15
+          }
+        },
+        {
+          "date": "4 novembre 2026",
+          "objet": "Scrutin public n°9759 sur la première partie du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9759",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 27
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9807 sur l'ensemble de la proposition de loi visant à renforcer l'effectivité des droits voisins des éditeurs et des agences de presse (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9807",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 5
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9880 sur l'amendement n° 104 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9880",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 6
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9881 sur l'amendement n° 73 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9881",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 6
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9882 sur l'amendement n° 71 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9882",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 7
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9883 sur l'amendement n° 24 du Gouvernement à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9883",
+          "conforme_groupe": false,
+          "detail_groupe": {
+            "Pour": 2,
+            "Abstention": 5
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9884 sur l'amendement n° 102 de Mme Bentorki à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9884",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 7
+          }
         }
       ],
       "interventions": [
@@ -6641,7 +6522,7 @@
         "valeur": 76,
         "champ_source": "semaines_presence",
         "slug": "philippe-brun",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA793632": {
@@ -6816,114 +6697,113 @@
       "votes": [
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9809 sur l'amendement n° 1 de M. Masséglia et les amendements identiques suivants à l'article 1 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
+          "objet": "Scrutin public n°9893 sur l'amendement n° 70 de Mme Bentorki et l'amendement identique suivant de suppression de l'article 9 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9809",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9893",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 26,
-            "Non votant": 1
+            "Abstention": 26
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9808 sur l'amendement n° 3 de M. Jean-Philippe Tanguy et les amendements identiques suivants de suppression de l'article liminaire du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9808",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 30
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9807 sur l'ensemble de la proposition de loi visant à renforcer l'effectivité des droits voisins des éditeurs et des agences de presse (texte de la commission mixte paritaire).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9807",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 17
-          }
-        },
-        {
-          "date": "10 novembre 2026",
-          "objet": "Scrutin public n°9806 sur l'amendement n° 16 de M. Saint-Martin après l'article 64 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+          "objet": "Scrutin public n°9892 sur l'article 8 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9806",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9892",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 10,
-            "Abstention": 1
+            "Contre": 23
           }
         },
         {
-          "date": "10 novembre 2026",
-          "objet": "Scrutin public n°9805 sur l'amendement n° 112 de M. Mickaël Bouloux après l'article 62 A du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9891 sur l'amendement n° 21 de M. Renault de suppression de l'article 8 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9891",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 26
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9890 sur l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Abstention",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9805",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9890",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Abstention": 11
+            "Abstention": 26
           }
         },
         {
-          "date": "10 novembre 2026",
-          "objet": "Scrutin public n°9804 sur l'amendement n° 295 du Gouvernement et l'amendement identique suivant à l'article 45 bis du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
-          "position": "Pour",
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9889 sur l'amendement n° 66 de Mme Lejeune à l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9804",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9889",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 8
+            "Abstention": 26
           }
         },
         {
-          "date": "10 novembre 2026",
-          "objet": "Scrutin public n°9803 sur l'amendement n° 169 de M. Latombe et l'amendement identique suivant après l'article 37 bis du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
-          "position": "Pour",
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9888 sur l'amendement n° 64 de Mme Bentorki à l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9803",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9888",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 13
+            "Abstention": 25
           }
         },
         {
-          "date": "10 novembre 2026",
-          "objet": "Scrutin public n°9802 sur l'amendement n° 82 de M. Saint-Pasteur à l'article 37 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9802",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 13
-          }
-        },
-        {
-          "date": "10 novembre 2026",
-          "objet": "Scrutin public n°9801 sur l'amendement n° 167 de M. Latombe à l'article 36 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9801",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 14
-          }
-        },
-        {
-          "date": "10 novembre 2026",
-          "objet": "Scrutin public n°9800 sur l'amendement n° 383 de M. Bénard à l'article 31 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9887 sur l'amendement n° 68 de Mme Lejeune de suppression de l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Abstention",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9800",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9887",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Abstention": 15
+            "Abstention": 24
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9886 sur l'article 6 et état C du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9886",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 1,
+            "Abstention": 24
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9885 sur l'amendement n° 103 de Mme Lejeune et les amendements identiques suivants à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9885",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 23
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9884 sur l'amendement n° 102 de Mme Bentorki à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9884",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 23
           }
         },
         {
@@ -7313,17 +7193,6 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9641 sur l'amendement n° 1985 de M. Odoul après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9641",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 42
-          }
-        },
-        {
-          "date": "3 novembre 2026",
           "objet": "Scrutin public n°9642 sur l'amendement n° 3925 de M. Sansu après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
@@ -7348,17 +7217,6 @@
         },
         {
           "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9677 sur l'amendement n° 725 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9677",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 69
-          }
-        },
-        {
-          "date": "4 novembre 2026",
           "objet": "Scrutin public n°9678 sur l'amendement n° 726 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Rejeté",
@@ -7366,18 +7224,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 67
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9683 sur l'amendement n° 432 de M. Balanant et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9683",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2,
-            "Contre": 58
           }
         },
         {
@@ -7511,17 +7357,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 54
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9725 sur l'amendement n° 3457 (rect.) de M. Raux après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9725",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 63
           }
         },
         {
@@ -8053,6 +7888,50 @@
           }
         },
         {
+          "date": "10 novembre 2026",
+          "objet": "Scrutin public n°9800 sur l'amendement n° 383 de M. Bénard à l'article 31 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9800",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 15
+          }
+        },
+        {
+          "date": "10 novembre 2026",
+          "objet": "Scrutin public n°9801 sur l'amendement n° 167 de M. Latombe à l'article 36 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9801",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 14
+          }
+        },
+        {
+          "date": "10 novembre 2026",
+          "objet": "Scrutin public n°9802 sur l'amendement n° 82 de M. Saint-Pasteur à l'article 37 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9802",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 13
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9807 sur l'ensemble de la proposition de loi visant à renforcer l'effectivité des droits voisins des éditeurs et des agences de presse (texte de la commission mixte paritaire).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9807",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 17
+          }
+        },
+        {
           "date": "12 novembre 2026",
           "objet": "Scrutin public n°9835 sur l'amendement n° 60 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Contre",
@@ -8065,13 +7944,36 @@
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9836 sur l'amendement n° 111 de M. Coquerel à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9836",
+          "objet": "Scrutin public n°9881 sur l'amendement n° 73 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9881",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 26
+            "Contre": 2,
+            "Abstention": 19
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9882 sur l'amendement n° 71 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9882",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 21
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9883 sur l'amendement n° 24 du Gouvernement à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9883",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 23
           }
         }
       ],
@@ -8091,7 +7993,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "timothee-houssin",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA266797": {
@@ -8525,17 +8427,6 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9641 sur l'amendement n° 1985 de M. Odoul après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9641",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 19
-          }
-        },
-        {
-          "date": "3 novembre 2026",
           "objet": "Scrutin public n°9642 sur l'amendement n° 3925 de M. Sansu après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Adopté",
@@ -8789,7 +8680,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "philippe-gosselin",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA720190": {
@@ -9000,6 +8891,18 @@
       ],
       "votes": [
         {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9895 sur l'ensemble du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9895",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 26,
+            "Non votant": 1
+          }
+        },
+        {
           "date": "9 novembre 2026",
           "objet": "Scrutin public n°9793 sur l'article 17 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
           "position": "Pour",
@@ -9104,18 +9007,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 19,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9677 sur l'amendement n° 725 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9677",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 18,
             "Non votant": 1
           }
         },
@@ -9309,18 +9200,6 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9641 sur l'amendement n° 1985 de M. Odoul après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9641",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 21,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "3 novembre 2026",
           "objet": "Scrutin public n°9642 sur l'amendement n° 3925 de M. Sansu après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Adopté",
@@ -9445,7 +9324,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "bertrand-sorre",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA607395": {
@@ -9873,7 +9752,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "stephane-travert",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA794270": {
@@ -10095,21 +9974,66 @@
       "votes": [
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9813 sur l'article 1 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9813",
+          "objet": "Scrutin public n°9895 sur l'ensemble du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9895",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 7
+            "Abstention": 16
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9812 sur l'amendement n° 36 de M. Coquerel et les amendements identiques suivants à l'article 1 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9894 sur l'amendement n° 2 du Gouvernement à l'article 4 du projet de loi de finances de fin de gestion pour 2026 (seconde délibération) (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9894",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 9
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9893 sur l'amendement n° 70 de Mme Bentorki et l'amendement identique suivant de suppression de l'article 9 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9893",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 9
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9892 sur l'article 8 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9892",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 1,
+            "Abstention": 8
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9891 sur l'amendement n° 21 de M. Renault de suppression de l'article 8 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9891",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 9
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9885 sur l'amendement n° 103 de Mme Lejeune et les amendements identiques suivants à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Pour",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9812",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9885",
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 8
@@ -10117,93 +10041,47 @@
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9811 sur l'amendement n° 5 de M. Jean-Philippe Tanguy à l'article 1 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
+          "objet": "Scrutin public n°9884 sur l'amendement n° 102 de Mme Bentorki à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9811",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9884",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 8
+            "Pour": 7
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9810 sur l'amendement n° 2 de Mme Duby-Muller et les amendements identiques suivants à l'article 1 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9810",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 6,
-            "Abstention": 1
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9809 sur l'amendement n° 1 de M. Masséglia et les amendements identiques suivants à l'article 1 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
+          "objet": "Scrutin public n°9883 sur l'amendement n° 24 du Gouvernement à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9809",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9883",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 6,
-            "Abstention": 1
+            "Pour": 2,
+            "Abstention": 5
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9808 sur l'amendement n° 3 de M. Jean-Philippe Tanguy et les amendements identiques suivants de suppression de l'article liminaire du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9808",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 7,
-            "Abstention": 1
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9759 sur la première partie du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9759",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 27
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9758 sur l'amendement n° 1 du Gouvernement à l'article liminaire du projet de loi de finances pour 2027 (seconde délibération) (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9758",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 15
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9757 sur l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9757",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 15
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9756 sur l'amendement n° 3897 de M. Sansu à l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).",
+          "objet": "Scrutin public n°9882 sur l'amendement n° 71 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Pour",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9756",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9882",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 15
+            "Pour": 7
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9835 sur l'amendement n° 60 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9835",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 9
           }
         },
         {
@@ -10508,36 +10386,47 @@
           }
         },
         {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9833 sur l'amendement n° 122 de M. Proença à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "date": "4 novembre 2026",
+          "objet": "Scrutin public n°9756 sur l'amendement n° 3897 de M. Sansu à l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9833",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9756",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 9
+            "Pour": 15
           }
         },
         {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9834 sur l'amendement n° 59 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
+          "date": "4 novembre 2026",
+          "objet": "Scrutin public n°9757 sur l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9834",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9757",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 9
+            "Contre": 15
           }
         },
         {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9835 sur l'amendement n° 60 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
+          "date": "4 novembre 2026",
+          "objet": "Scrutin public n°9758 sur l'amendement n° 1 du Gouvernement à l'article liminaire du projet de loi de finances pour 2027 (seconde délibération) (première lecture).",
+          "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9835",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9758",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 9
+            "Contre": 15
+          }
+        },
+        {
+          "date": "4 novembre 2026",
+          "objet": "Scrutin public n°9759 sur la première partie du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9759",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 27
           }
         }
       ],
@@ -10557,7 +10446,7 @@
         "valeur": 67,
         "champ_source": "semaines_presence",
         "slug": "anna-pic",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA643192": {
@@ -10738,117 +10627,113 @@
       "votes": [
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9836 sur l'amendement n° 111 de M. Coquerel à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
+          "objet": "Scrutin public n°9895 sur l'ensemble du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9836",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9895",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 8,
-            "Abstention": 1
+            "Abstention": 16
           }
         },
         {
-          "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9650 sur l'amendement n° 3550 de Mme Coggia et l'amendement identique suivant à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9894 sur l'amendement n° 2 du Gouvernement à l'article 4 du projet de loi de finances de fin de gestion pour 2026 (seconde délibération) (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9894",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 9
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9887 sur l'amendement n° 68 de Mme Lejeune de suppression de l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9887",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 9
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9886 sur l'article 6 et état C du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9886",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 9
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9885 sur l'amendement n° 103 de Mme Lejeune et les amendements identiques suivants à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9885",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 8
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9884 sur l'amendement n° 102 de Mme Bentorki à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9884",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 7
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9883 sur l'amendement n° 24 du Gouvernement à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9650",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 16
-          }
-        },
-        {
-          "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9649 sur l'amendement n° 527 de M. Barusseau et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9649",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 16
-          }
-        },
-        {
-          "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9648 sur l'amendement n° 395 (rect.) de Mme Le Feur à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9648",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9883",
           "conforme_groupe": false,
           "detail_groupe": {
             "Pour": 2,
-            "Abstention": 11
+            "Abstention": 5
           }
         },
         {
-          "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9647 sur l'amendement n° 699 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9882 sur l'amendement n° 71 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9647",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9882",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 1,
-            "Contre": 14
+            "Pour": 7
           }
         },
         {
-          "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9645 sur l'amendement n° 697 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9645",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 10
-          }
-        },
-        {
-          "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9644 sur l'amendement n° 695 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9644",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 11
-          }
-        },
-        {
-          "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9643 sur l'amendement n° 3426 de Mme Hignet après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9881 sur l'amendement n° 73 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9643",
-          "conforme_groupe": false,
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9881",
+          "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 4,
-            "Contre": 17
+            "Pour": 6
           }
         },
         {
-          "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9642 sur l'amendement n° 3925 de M. Sansu après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9880 sur l'amendement n° 104 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9642",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9880",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 21
-          }
-        },
-        {
-          "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9641 sur l'amendement n° 1985 de M. Odoul après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9641",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 7,
-            "Abstention": 7
+            "Pour": 6
           }
         },
         {
@@ -11196,6 +11081,97 @@
           "detail_groupe": {
             "Pour": 26
           }
+        },
+        {
+          "date": "3 novembre 2026",
+          "objet": "Scrutin public n°9642 sur l'amendement n° 3925 de M. Sansu après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9642",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 21
+          }
+        },
+        {
+          "date": "3 novembre 2026",
+          "objet": "Scrutin public n°9643 sur l'amendement n° 3426 de Mme Hignet après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9643",
+          "conforme_groupe": false,
+          "detail_groupe": {
+            "Pour": 4,
+            "Contre": 17
+          }
+        },
+        {
+          "date": "3 novembre 2026",
+          "objet": "Scrutin public n°9644 sur l'amendement n° 695 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9644",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 11
+          }
+        },
+        {
+          "date": "3 novembre 2026",
+          "objet": "Scrutin public n°9645 sur l'amendement n° 697 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9645",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 10
+          }
+        },
+        {
+          "date": "3 novembre 2026",
+          "objet": "Scrutin public n°9647 sur l'amendement n° 699 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9647",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 1,
+            "Contre": 14
+          }
+        },
+        {
+          "date": "3 novembre 2026",
+          "objet": "Scrutin public n°9648 sur l'amendement n° 395 (rect.) de Mme Le Feur à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9648",
+          "conforme_groupe": false,
+          "detail_groupe": {
+            "Pour": 2,
+            "Abstention": 11
+          }
+        },
+        {
+          "date": "3 novembre 2026",
+          "objet": "Scrutin public n°9649 sur l'amendement n° 527 de M. Barusseau et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9649",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 16
+          }
+        },
+        {
+          "date": "3 novembre 2026",
+          "objet": "Scrutin public n°9650 sur l'amendement n° 3550 de Mme Coggia et l'amendement identique suivant à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9650",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 16
+          }
         }
       ],
       "interventions": [
@@ -11214,7 +11190,7 @@
         "valeur": 74,
         "champ_source": "semaines_presence",
         "slug": "chantal-jourdan",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA794750": {
@@ -11399,6 +11375,18 @@
       ],
       "votes": [
         {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9895 sur l'ensemble du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9895",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 6,
+            "Abstention": 2
+          }
+        },
+        {
           "date": "4 novembre 2026",
           "objet": "Scrutin public n°9759 sur la première partie du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
@@ -11507,17 +11495,6 @@
           }
         },
         {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9725 sur l'amendement n° 3457 (rect.) de M. Raux après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9725",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 15
-          }
-        },
-        {
           "date": "20 juillet 2026",
           "objet": "Scrutin public n°8421 sur l'ensemble de la proposition de loi pour une montagne vivante et souveraine (texte de la commission mixte paritaire).",
           "position": "Pour",
@@ -11621,17 +11598,6 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9641 sur l'amendement n° 1985 de M. Odoul après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9641",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 19
-          }
-        },
-        {
-          "date": "3 novembre 2026",
           "objet": "Scrutin public n°9642 sur l'amendement n° 3925 de M. Sansu après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Adopté",
@@ -11713,19 +11679,6 @@
         },
         {
           "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9677 sur l'amendement n° 725 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9677",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Contre": 11,
-            "Abstention": 5
-          }
-        },
-        {
-          "date": "4 novembre 2026",
           "objet": "Scrutin public n°9678 sur l'amendement n° 726 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
@@ -11734,18 +11687,6 @@
           "detail_groupe": {
             "Contre": 11,
             "Abstention": 5
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9683 sur l'amendement n° 432 de M. Balanant et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9683",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2,
-            "Contre": 12
           }
         },
         {
@@ -12316,17 +12257,6 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9641 sur l'amendement n° 1985 de M. Odoul après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9641",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 19
-          }
-        },
-        {
-          "date": "3 novembre 2026",
           "objet": "Scrutin public n°9642 sur l'amendement n° 3925 de M. Sansu après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Adopté",
@@ -12419,19 +12349,6 @@
         },
         {
           "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9677 sur l'amendement n° 725 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9677",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Contre": 11,
-            "Abstention": 5
-          }
-        },
-        {
-          "date": "4 novembre 2026",
           "objet": "Scrutin public n°9678 sur l'amendement n° 726 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
@@ -12440,18 +12357,6 @@
           "detail_groupe": {
             "Contre": 11,
             "Abstention": 5
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9683 sur l'amendement n° 432 de M. Balanant et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9683",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2,
-            "Contre": 12
           }
         },
         {
@@ -12778,6 +12683,17 @@
       ],
       "votes": [
         {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9895 sur l'ensemble du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9895",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 16
+          }
+        },
+        {
           "date": "4 novembre 2026",
           "objet": "Scrutin public n°9759 sur la première partie du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
@@ -12878,18 +12794,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 21
-          }
-        },
-        {
-          "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9641 sur l'amendement n° 1985 de M. Odoul après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9641",
-          "conforme_groupe": false,
-          "detail_groupe": {
-            "Contre": 7,
-            "Abstention": 7
           }
         },
         {
@@ -13655,18 +13559,6 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9641 sur l'amendement n° 1985 de M. Odoul après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9641",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 21,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "3 novembre 2026",
           "objet": "Scrutin public n°9642 sur l'amendement n° 3925 de M. Sansu après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
           "resultat": "Adopté",
@@ -13706,7 +13598,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "annie-vidal",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA796106": {
@@ -13902,6 +13794,50 @@
       ],
       "votes": [
         {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9893 sur l'amendement n° 70 de Mme Bentorki et l'amendement identique suivant de suppression de l'article 9 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9893",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 5
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9892 sur l'article 8 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9892",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 5
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9891 sur l'amendement n° 21 de M. Renault de suppression de l'article 8 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9891",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 5
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9890 sur l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9890",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 5
+          }
+        },
+        {
           "date": "9 novembre 2026",
           "objet": "Scrutin public n°9792 sur l'article 16 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
           "position": "Pour",
@@ -13962,50 +13898,6 @@
           "position": "Pour",
           "resultat": "Adopté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9787",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1
-          }
-        },
-        {
-          "date": "9 novembre 2026",
-          "objet": "Scrutin public n°9786 sur l'amendement n° 140 de M. Latombe à l'article 14 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9786",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2
-          }
-        },
-        {
-          "date": "9 novembre 2026",
-          "objet": "Scrutin public n°9785 sur l'amendement n° 35 de M. Pilato à l'article 11 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9785",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1
-          }
-        },
-        {
-          "date": "9 novembre 2026",
-          "objet": "Scrutin public n°9784 sur l'amendement n° 32 de M. Saint-Martin à l'article 10 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9784",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1
-          }
-        },
-        {
-          "date": "9 novembre 2026",
-          "objet": "Scrutin public n°9783 sur l'amendement n° 33 de M. Pilato à l'article 10 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9783",
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 1
@@ -14173,17 +14065,6 @@
         },
         {
           "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9641 sur l'amendement n° 1985 de M. Odoul après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9641",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 5
-          }
-        },
-        {
-          "date": "3 novembre 2026",
           "objet": "Scrutin public n°9642 sur l'amendement n° 3925 de M. Sansu après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
@@ -14258,6 +14139,50 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 1
+          }
+        },
+        {
+          "date": "9 novembre 2026",
+          "objet": "Scrutin public n°9783 sur l'amendement n° 33 de M. Pilato à l'article 10 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9783",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 1
+          }
+        },
+        {
+          "date": "9 novembre 2026",
+          "objet": "Scrutin public n°9784 sur l'amendement n° 32 de M. Saint-Martin à l'article 10 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9784",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 1
+          }
+        },
+        {
+          "date": "9 novembre 2026",
+          "objet": "Scrutin public n°9785 sur l'amendement n° 35 de M. Pilato à l'article 11 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+          "position": "Pour",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9785",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 1
+          }
+        },
+        {
+          "date": "9 novembre 2026",
+          "objet": "Scrutin public n°9786 sur l'amendement n° 140 de M. Latombe à l'article 14 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+          "position": "Pour",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9786",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 2
           }
         }
       ],
@@ -14661,7 +14586,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "alma-dufour",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA774958": {
@@ -14892,6 +14817,17 @@
       ],
       "votes": [
         {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9895 sur l'ensemble du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9895",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 16
+          }
+        },
+        {
           "date": "10 novembre 2026",
           "objet": "Scrutin public n°9802 sur l'amendement n° 82 de M. Saint-Pasteur à l'article 37 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
           "position": "Pour",
@@ -14990,18 +14926,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 11
-          }
-        },
-        {
-          "date": "3 novembre 2026",
-          "objet": "Scrutin public n°9643 sur l'amendement n° 3426 de Mme Hignet après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9643",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 4,
-            "Contre": 17
           }
         },
         {
@@ -15259,6 +15183,18 @@
           "detail_groupe": {
             "Pour": 21
           }
+        },
+        {
+          "date": "3 novembre 2026",
+          "objet": "Scrutin public n°9643 sur l'amendement n° 3426 de Mme Hignet après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9643",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Pour": 4,
+            "Contre": 17
+          }
         }
       ],
       "interventions": [
@@ -15277,7 +15213,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "gerard-leseul",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA841825": {
@@ -15458,32 +15394,43 @@
       "votes": [
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9836 sur l'amendement n° 111 de M. Coquerel à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
+          "objet": "Scrutin public n°9895 sur l'ensemble du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9836",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9895",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 26
+            "Abstention": 51
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9835 sur l'amendement n° 60 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
+          "objet": "Scrutin public n°9894 sur l'amendement n° 2 du Gouvernement à l'article 4 du projet de loi de finances de fin de gestion pour 2026 (seconde délibération) (première lecture).",
+          "position": "Abstention",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9835",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9894",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 25
+            "Abstention": 24
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9834 sur l'amendement n° 59 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9893 sur l'amendement n° 70 de Mme Bentorki et l'amendement identique suivant de suppression de l'article 9 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9893",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 26
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9892 sur l'article 8 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9834",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9892",
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 23
@@ -15491,80 +15438,69 @@
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9833 sur l'amendement n° 122 de M. Proença à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9833",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 22
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9832 sur l'amendement n° 14 de M. Renault à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9891 sur l'amendement n° 21 de M. Renault de suppression de l'article 8 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Pour",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9832",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9891",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 21
+            "Pour": 26
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9831 sur l'amendement n° 57 de Mme Bentorki à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
+          "objet": "Scrutin public n°9890 sur l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9831",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9890",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 18
+            "Abstention": 26
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9830 sur l'amendement n° 13 de M. Renault à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9830",
-          "conforme_groupe": false,
-          "detail_groupe": {
-            "Pour": 17,
-            "Contre": 1
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9829 sur l'amendement n° 95 de M. Ben Cheikh à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9829",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 13
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9828 sur l'amendement n° 56 de Mme Bentorki à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9828",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 16
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9827 sur l'amendement n° 123 de Mme Got à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9889 sur l'amendement n° 66 de Mme Lejeune à l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Abstention",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9827",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9889",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Abstention": 16
+            "Abstention": 26
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9888 sur l'amendement n° 64 de Mme Bentorki à l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9888",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 25
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9887 sur l'amendement n° 68 de Mme Lejeune de suppression de l'article 7 et état D du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9887",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 24
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9886 sur l'article 6 et état C du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9886",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 1,
+            "Abstention": 24
           }
         },
         {
@@ -15943,113 +15879,66 @@
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9808 sur l'amendement n° 3 de M. Jean-Philippe Tanguy et les amendements identiques suivants de suppression de l'article liminaire du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9808",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 30
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9809 sur l'amendement n° 1 de M. Masséglia et les amendements identiques suivants à l'article 1 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9809",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 26,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9810 sur l'amendement n° 2 de Mme Duby-Muller et les amendements identiques suivants à l'article 1 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9835 sur l'amendement n° 60 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9810",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9835",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 23,
-            "Non votant": 1
+            "Contre": 25
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9811 sur l'amendement n° 5 de M. Jean-Philippe Tanguy à l'article 1 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9811",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 26
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9812 sur l'amendement n° 36 de M. Coquerel et les amendements identiques suivants à l'article 1 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9812",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 24,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9813 sur l'article 1 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9813",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 1,
-            "Contre": 24
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9814 sur l'amendement n° 6 de M. Jean-Philippe Tanguy et l'amendement identique suivant de suppression de l'article 2 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9880 sur l'amendement n° 104 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Pour",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9814",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9880",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 25
+            "Pour": 19
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9815 sur l'amendement n° 7 de M. Jean-Philippe Tanguy et l'amendement identique suivant de suppression de l'article 3 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
+          "objet": "Scrutin public n°9881 sur l'amendement n° 73 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
           "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9815",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9881",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Pour": 24
+            "Contre": 2,
+            "Abstention": 19
           }
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9816 sur l'amendement n° 8 de M. Jean-Philippe Tanguy de suppression de l'article 4 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9816",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 21
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9817 sur l'amendement n° 133 du Gouvernement à l'article 4 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9882 sur l'amendement n° 71 de Mme Lejeune à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9817",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9882",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 21
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9883 sur l'amendement n° 24 du Gouvernement à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Abstention",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9883",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Abstention": 23
+          }
+        },
+        {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9884 sur l'amendement n° 102 de Mme Bentorki à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9884",
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 23
@@ -16057,58 +15946,13 @@
         },
         {
           "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9818 sur l'amendement n° 9 de M. Renault à l'article 4 du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9818",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 25
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9823 sur l'amendement n° 93 de M. Ben Cheikh à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "objet": "Scrutin public n°9885 sur l'amendement n° 103 de Mme Lejeune et les amendements identiques suivants à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9823",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9885",
           "conforme_groupe": true,
           "detail_groupe": {
-            "Contre": 14
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9824 sur l'amendement n° 11 de M. Jean-Philippe Tanguy à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9824",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 16
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9825 sur l'amendement n° 12 de M. Renault à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9825",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 16
-          }
-        },
-        {
-          "date": "12 novembre 2026",
-          "objet": "Scrutin public n°9826 sur l'amendement n° 105 de M. Jean-René Cazeneuve à l'article 5 et état B du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
-          "position": "Abstention",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9826",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 1,
-            "Abstention": 14
+            "Contre": 23
           }
         }
       ],
@@ -16780,6 +16624,17 @@
       ],
       "votes": [
         {
+          "date": "12 novembre 2026",
+          "objet": "Scrutin public n°9895 sur l'ensemble du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+          "position": "Contre",
+          "resultat": "Rejeté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9895",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 6
+          }
+        },
+        {
           "date": "4 novembre 2026",
           "objet": "Scrutin public n°9759 sur la première partie du projet de loi de finances pour 2027 (première lecture).",
           "position": "Contre",
@@ -16877,17 +16732,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 5
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9749 sur l'article 51 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Adopté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9749",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 4
           }
         },
         {
@@ -17047,6 +16891,17 @@
           "detail_groupe": {
             "Pour": 4
           }
+        },
+        {
+          "date": "4 novembre 2026",
+          "objet": "Scrutin public n°9749 sur l'article 51 du projet de loi de finances pour 2027 (première lecture).",
+          "position": "Contre",
+          "resultat": "Adopté",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9749",
+          "conforme_groupe": true,
+          "detail_groupe": {
+            "Contre": 4
+          }
         }
       ],
       "interventions": [
@@ -17065,7 +16920,7 @@
         "valeur": 73,
         "champ_source": "semaines_presence",
         "slug": "jean-paul-lecoq",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA795270": {
@@ -17604,7 +17459,7 @@
         "valeur": 76,
         "champ_source": "semaines_presence",
         "slug": "marie-agnes-poussier-winsback",
-        "date_donnees": "2026-11-12"
+        "date_donnees": "2026-11-13"
       }
     },
     "PA841837": {
@@ -18181,17 +18036,6 @@
         },
         {
           "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9677 sur l'amendement n° 725 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9677",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 69
-          }
-        },
-        {
-          "date": "4 novembre 2026",
           "objet": "Scrutin public n°9678 sur l'amendement n° 726 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
           "position": "Pour",
           "resultat": "Rejeté",
@@ -18199,18 +18043,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 67
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9683 sur l'amendement n° 432 de M. Balanant et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9683",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 2,
-            "Contre": 58
           }
         },
         {
@@ -18344,17 +18176,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 54
-          }
-        },
-        {
-          "date": "4 novembre 2026",
-          "objet": "Scrutin public n°9725 sur l'amendement n° 3457 (rect.) de M. Raux après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9725",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 63
           }
         },
         {
@@ -18568,6 +18389,6 @@
   },
   "assiduite_statut": {
     "a_jour": true,
-    "date_donnees": "2026-11-12"
+    "date_donnees": "2026-11-13"
   }
 }
