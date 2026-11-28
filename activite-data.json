@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:24:37",
+  "generated_at": "2026-11-28T15:17:16",
   "note": "",
   "sources": {
     "questions": "https://www.assemblee-nationale.fr/dyn/deputes/{PA}/questions",
@@ -1076,17 +1076,6 @@
         },
         {
           "date": "19 novembre 2026",
-          "objet": "Scrutin public n°10058 sur l'amendement n° 17 de M. Falcon à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10058",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 58
-          }
-        },
-        {
-          "date": "19 novembre 2026",
           "objet": "Scrutin public n°10059 sur l'amendement n° 71 de Mme Robert-Dehault à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
@@ -1227,7 +1216,7 @@
         "valeur": 74,
         "champ_source": "semaines_presence",
         "slug": "arthur-delaporte",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA793398": {
@@ -1464,7 +1453,7 @@
         "valeur": 71,
         "champ_source": "semaines_presence",
         "slug": "jeremie-patrier-leitus",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA719024": {
@@ -1905,7 +1894,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "christophe-blanchet",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA719032": {
@@ -2626,7 +2615,7 @@
         "valeur": 64,
         "champ_source": "semaines_presence",
         "slug": "bertrand-bouyx",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA717161": {
@@ -3262,17 +3251,6 @@
         },
         {
           "date": "19 novembre 2026",
-          "objet": "Scrutin public n°10058 sur l'amendement n° 17 de M. Falcon à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10058",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 79
-          }
-        },
-        {
-          "date": "19 novembre 2026",
           "objet": "Scrutin public n°10059 sur l'amendement n° 71 de Mme Robert-Dehault à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
           "position": "Pour",
           "resultat": "Rejeté",
@@ -3894,7 +3872,7 @@
         "valeur": 72,
         "champ_source": "semaines_presence",
         "slug": "christine-loir",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA793608": {
@@ -4291,17 +4269,6 @@
           "detail_groupe": {
             "Pour": 64,
             "Contre": 3
-          }
-        },
-        {
-          "date": "19 novembre 2026",
-          "objet": "Scrutin public n°10058 sur l'amendement n° 17 de M. Falcon à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10058",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 79
           }
         },
         {
@@ -5185,7 +5152,7 @@
         "valeur": 64,
         "champ_source": "semaines_presence",
         "slug": "katiana-levavasseur",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA793616": {
@@ -5543,17 +5510,6 @@
           "detail_groupe": {
             "Pour": 64,
             "Contre": 3
-          }
-        },
-        {
-          "date": "19 novembre 2026",
-          "objet": "Scrutin public n°10058 sur l'amendement n° 17 de M. Falcon à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10058",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 79
           }
         },
         {
@@ -6109,7 +6065,7 @@
         "valeur": 75,
         "champ_source": "semaines_presence",
         "slug": "kevin-mauvieux",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA793624": {
@@ -6803,7 +6759,7 @@
         "valeur": 76,
         "champ_source": "semaines_presence",
         "slug": "philippe-brun",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA793632": {
@@ -7201,17 +7157,6 @@
           "detail_groupe": {
             "Pour": 64,
             "Contre": 3
-          }
-        },
-        {
-          "date": "19 novembre 2026",
-          "objet": "Scrutin public n°10058 sur l'amendement n° 17 de M. Falcon à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10058",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 79
           }
         },
         {
@@ -7638,7 +7583,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "timothee-houssin",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA266797": {
@@ -8111,7 +8056,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "philippe-gosselin",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA720190": {
@@ -8622,7 +8567,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "bertrand-sorre",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA607395": {
@@ -9035,18 +8980,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 20,
-            "Non votant": 1
-          }
-        },
-        {
-          "date": "19 novembre 2026",
-          "objet": "Scrutin public n°10058 sur l'amendement n° 17 de M. Falcon à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10058",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 12,
             "Non votant": 1
           }
         },
@@ -9485,7 +9418,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "stephane-travert",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA794270": {
@@ -9857,17 +9790,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Pour": 60
-          }
-        },
-        {
-          "date": "19 novembre 2026",
-          "objet": "Scrutin public n°10058 sur l'amendement n° 17 de M. Falcon à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10058",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 58
           }
         },
         {
@@ -10543,7 +10465,7 @@
         "valeur": 67,
         "champ_source": "semaines_presence",
         "slug": "anna-pic",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA643192": {
@@ -10880,17 +10802,6 @@
         },
         {
           "date": "19 novembre 2026",
-          "objet": "Scrutin public n°10058 sur l'amendement n° 17 de M. Falcon à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10058",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 58
-          }
-        },
-        {
-          "date": "19 novembre 2026",
           "objet": "Scrutin public n°10059 sur l'amendement n° 71 de Mme Robert-Dehault à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
@@ -11132,7 +11043,7 @@
         "valeur": 74,
         "champ_source": "semaines_presence",
         "slug": "chantal-jourdan",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA794750": {
@@ -13207,17 +13118,6 @@
         },
         {
           "date": "19 novembre 2026",
-          "objet": "Scrutin public n°10058 sur l'amendement n° 17 de M. Falcon à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10058",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 58
-          }
-        },
-        {
-          "date": "19 novembre 2026",
           "objet": "Scrutin public n°10059 sur l'amendement n° 71 de Mme Robert-Dehault à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
@@ -13921,7 +13821,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "annie-vidal",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA796106": {
@@ -14239,17 +14139,6 @@
           "conforme_groupe": true,
           "detail_groupe": {
             "Contre": 8
-          }
-        },
-        {
-          "date": "19 novembre 2026",
-          "objet": "Scrutin public n°10058 sur l'amendement n° 17 de M. Falcon à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10058",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 10
           }
         },
         {
@@ -15319,7 +15208,7 @@
         "valeur": 69,
         "champ_source": "semaines_presence",
         "slug": "alma-dufour",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA774958": {
@@ -15784,17 +15673,6 @@
         },
         {
           "date": "19 novembre 2026",
-          "objet": "Scrutin public n°10058 sur l'amendement n° 17 de M. Falcon à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10058",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 58
-          }
-        },
-        {
-          "date": "19 novembre 2026",
           "objet": "Scrutin public n°10059 sur l'amendement n° 71 de Mme Robert-Dehault à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
@@ -16218,7 +16096,7 @@
         "valeur": 70,
         "champ_source": "semaines_presence",
         "slug": "gerard-leseul",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA841825": {
@@ -16619,17 +16497,6 @@
           "detail_groupe": {
             "Pour": 64,
             "Contre": 3
-          }
-        },
-        {
-          "date": "19 novembre 2026",
-          "objet": "Scrutin public n°10058 sur l'amendement n° 17 de M. Falcon à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
-          "position": "Pour",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10058",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 79
           }
         },
         {
@@ -17768,17 +17635,6 @@
         },
         {
           "date": "19 novembre 2026",
-          "objet": "Scrutin public n°10058 sur l'amendement n° 17 de M. Falcon à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
-          "position": "Contre",
-          "resultat": "Rejeté",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10058",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Contre": 10
-          }
-        },
-        {
-          "date": "19 novembre 2026",
           "objet": "Scrutin public n°10059 sur l'amendement n° 71 de Mme Robert-Dehault à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
           "position": "Contre",
           "resultat": "Rejeté",
@@ -18153,7 +18009,7 @@
         "valeur": 73,
         "champ_source": "semaines_presence",
         "slug": "jean-paul-lecoq",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA795270": {
@@ -18566,7 +18422,7 @@
         "valeur": 76,
         "champ_source": "semaines_presence",
         "slug": "marie-agnes-poussier-winsback",
-        "date_donnees": "2026-11-27"
+        "date_donnees": "2026-11-28"
       }
     },
     "PA841837": {
@@ -18853,10 +18709,8 @@
           "position": "Pour",
           "resultat": "Rejeté",
           "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10058",
-          "conforme_groupe": true,
-          "detail_groupe": {
-            "Pour": 79
-          }
+          "conforme_groupe": null,
+          "detail_groupe": null
         },
         {
           "date": "18 novembre 2026",
@@ -19119,6 +18973,6 @@
   },
   "assiduite_statut": {
     "a_jour": true,
-    "date_donnees": "2026-11-27"
+    "date_donnees": "2026-11-28"
   }
 }
